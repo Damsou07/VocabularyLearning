@@ -1,0 +1,5136 @@
+</a>Les mots-outils les plus utilisés en anglais</h2>
+<p>On commence notre liste de fréquence par <strong>les mots-outils</strong> : ce sont des mots tellement courants en anglais qu'on ne pourrait pas même construire une simple phrase sans eux. Voici les mots-outils les plus utilisés en anglais :</p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I</td>
+<td><span lang="fonipa">&#47;aɪ&#47;</span></td>
+<td>je</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>you</td>
+<td><span lang="fonipa">&#47;ju&#47;</span></td>
+<td>tu, vous</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>the</td>
+<td><span lang="fonipa">&#47;ðə&#47;</span></td>
+<td>le, la, les</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>a</td>
+<td><span lang="fonipa">&#47;ə&#47;</span></td>
+<td>un, une</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>to</td>
+<td><span lang="fonipa">&#47;tu&#47;</span></td>
+<td>particule infinitive</td>
+<td>6</td>
+<td></td>
+</tr>
+<tr>
+<td>it</td>
+<td><span lang="fonipa">&#47;ɪt&#47;</span></td>
+<td>chose inanimée</td>
+<td>7</td>
+<td></td>
+</tr>
+<tr>
+<td>not</td>
+<td><span lang="fonipa">&#47;nɑt&#47;</span></td>
+<td>pas</td>
+<td>8</td>
+<td></td>
+</tr>
+<tr>
+<td>that</td>
+<td><span lang="fonipa">&#47;ðæt&#47;</span></td>
+<td>ça, cela, que, qui</td>
+<td>9</td>
+<td></td>
+</tr>
+<tr>
+<td>and</td>
+<td><span lang="fonipa">&#47;ənd&#47;</span></td>
+<td>et</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>of</td>
+<td><span lang="fonipa">&#47;əv&#47;</span></td>
+<td>de</td>
+<td>11</td>
+<td></td>
+</tr>
+<tr>
+<td>what</td>
+<td><span lang="fonipa">&#47;wət&#47;</span></td>
+<td>quoi</td>
+<td>14</td>
+<td></td>
+</tr>
+<tr>
+<td>we</td>
+<td><span lang="fonipa">&#47;wi&#47;</span></td>
+<td>nous</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>in</td>
+<td><span lang="fonipa">&#47;ɪn&#47;</span></td>
+<td>dans</td>
+<td>16</td>
+<td></td>
+</tr>
+<tr>
+<td>this</td>
+<td><span lang="fonipa">&#47;ðɪs&#47;</span></td>
+<td>ce, ça</td>
+<td>18</td>
+<td></td>
+</tr>
+<tr>
+<td>my</td>
+<td><span lang="fonipa">&#47;maɪ&#47;</span></td>
+<td>mon, ma, mes</td>
+<td>19</td>
+<td></td>
+</tr>
+<tr>
+<td>me</td>
+<td><span lang="fonipa">&#47;mi&#47;</span></td>
+<td>moi, me</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>no</td>
+<td><span lang="fonipa">&#47;noʊ&#47;</span></td>
+<td>non</td>
+<td>24</td>
+<td></td>
+</tr>
+<tr>
+<td>on</td>
+<td><span lang="fonipa">&#47;ɑn&#47;</span></td>
+<td>sur</td>
+<td>25</td>
+<td></td>
+</tr>
+<tr>
+<td>for</td>
+<td><span lang="fonipa">&#47;fɔɹ&#47;</span></td>
+<td>pour</td>
+<td>26</td>
+<td></td>
+</tr>
+<tr>
+<td>your</td>
+<td><span lang="fonipa">&#47;jɔɹ&#47;</span></td>
+<td>ton, ta, tes, votre, vos</td>
+<td>29</td>
+<td></td>
+</tr>
+<tr>
+<td>s</td>
+<td><span lang="fonipa">&#47;s&#47;</span></td>
+<td>de (exprimant la possession)</td>
+<td>30</td>
+<td></td>
+</tr>
+<tr>
+<td>all</td>
+<td><span lang="fonipa">&#47;ɔɫ&#47;</span></td>
+<td>tous</td>
+<td>31</td>
+<td></td>
+</tr>
+<tr>
+<td>with</td>
+<td><span lang="fonipa">&#47;wɪð&#47;</span></td>
+<td>avec</td>
+<td>33</td>
+<td></td>
+</tr>
+<tr>
+<td>he</td>
+<td><span lang="fonipa">&#47;hi&#47;</span></td>
+<td>il</td>
+<td>34</td>
+<td></td>
+</tr>
+<tr>
+<td>but</td>
+<td><span lang="fonipa">&#47;bət&#47;</span></td>
+<td>mais</td>
+<td>35</td>
+<td></td>
+</tr>
+<tr>
+<td>about</td>
+<td><span lang="fonipa">&#47;ə<strong>baʊt</strong>&#47;</span></td>
+<td>à propos</td>
+<td>42</td>
+<td></td>
+</tr>
+<tr>
+<td>at</td>
+<td><span lang="fonipa">&#47;æt&#47;</span></td>
+<td>à (lieu)</td>
+<td>48</td>
+<td></td>
+</tr>
+<tr>
+<td>they</td>
+<td><span lang="fonipa">&#47;ðeɪ&#47;</span></td>
+<td>ils, elles</td>
+<td>51</td>
+<td></td>
+</tr>
+<tr>
+<td>if</td>
+<td><span lang="fonipa">&#47;ɪf&#47;</span></td>
+<td>si</td>
+<td>53</td>
+<td></td>
+</tr>
+<tr>
+<td>she</td>
+<td><span lang="fonipa">&#47;ʃi&#47;</span></td>
+<td>elle</td>
+<td>56</td>
+<td></td>
+</tr>
+<tr>
+<td>her</td>
+<td><span lang="fonipa">&#47;hɝ&#47;</span></td>
+<td>elle, la, lui</td>
+<td>65</td>
+<td></td>
+</tr>
+<tr>
+<td>him</td>
+<td><span lang="fonipa">&#47;hɪm&#47;</span></td>
+<td>lui</td>
+<td>68</td>
+<td></td>
+</tr>
+<tr>
+<td>who</td>
+<td><span lang="fonipa">&#47;hu&#47;</span></td>
+<td>qui</td>
+<td>71</td>
+<td></td>
+</tr>
+<tr>
+<td>from</td>
+<td><span lang="fonipa">&#47;fɹəm&#47;</span></td>
+<td>de (origine)</td>
+<td>74</td>
+<td></td>
+</tr>
+<tr>
+<td>as</td>
+<td><span lang="fonipa">&#47;æz&#47;</span></td>
+<td>comme, aussi</td>
+<td>78</td>
+<td></td>
+</tr>
+<tr>
+<td>because</td>
+<td><span lang="fonipa">&#47;bɪ<strong>kɔz</strong>&#47;</span></td>
+<td>parce que</td>
+<td>79</td>
+<td></td>
+</tr>
+<tr>
+<td>some</td>
+<td><span lang="fonipa">&#47;səm&#47;</span></td>
+<td>certain(e)s, quelques-un(e)s</td>
+<td>80</td>
+<td></td>
+</tr>
+<tr>
+<td>our</td>
+<td><span lang="fonipa">&#47;<strong>a</strong>ʊɝ&#47;</span></td>
+<td>notre, nos</td>
+<td>81</td>
+<td></td>
+</tr>
+<tr>
+<td>there</td>
+<td><span lang="fonipa">&#47;ðɛɹ&#47;</span></td>
+<td>là, là-bas</td>
+<td>83</td>
+<td></td>
+</tr>
+<tr>
+<td>his</td>
+<td><span lang="fonipa">&#47;hɪz&#47;</span></td>
+<td>son, sa, ses</td>
+<td>89</td>
+<td></td>
+</tr>
+<tr>
+<td>us</td>
+<td><span lang="fonipa">&#47;əs&#47;</span></td>
+<td>nous (forme objet)</td>
+<td>90</td>
+<td></td>
+</tr>
+<tr>
+<td>them</td>
+<td><span lang="fonipa">&#47;ðɛm&#47;</span></td>
+<td>eux, elles</td>
+<td>91</td>
+<td></td>
+</tr>
+<tr>
+<td>or</td>
+<td><span lang="fonipa">&#47;ɔɹ&#47;</span></td>
+<td>ou</td>
+<td>95</td>
+<td></td>
+</tr>
+<tr>
+<td>something</td>
+<td><span lang="fonipa">&#47;<strong>səm</strong>θɪŋ&#47;</span></td>
+<td>quelque chose</td>
+<td>98</td>
+<td></td>
+</tr>
+<tr>
+<td>by</td>
+<td><span lang="fonipa">&#47;baɪ&#47;</span></td>
+<td>de, par, près de</td>
+<td>105</td>
+<td></td>
+</tr>
+<tr>
+<td>over</td>
+<td><span lang="fonipa">&#47;<strong>oʊ</strong>vɝ&#47;</span></td>
+<td>au dessus-de</td>
+<td>107</td>
+<td></td>
+</tr>
+<tr>
+<td>more</td>
+<td><span lang="fonipa">&#47;mɔɹ&#47;</span></td>
+<td>plus</td>
+<td>110</td>
+<td></td>
+</tr>
+<tr>
+<td>off</td>
+<td><span lang="fonipa">&#47;ɔf&#47;</span></td>
+<td>éloigné, éteint</td>
+<td>117</td>
+<td></td>
+</tr>
+<tr>
+<td>these</td>
+<td><span lang="fonipa">&#47;ðiz&#47;</span></td>
+<td>ces, ceux-là</td>
+<td>130</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://bilingueanglais.com/blog/21331/many-ou-much/">much</a></td>
+<td><span lang="fonipa">&#47;mətʃ&#47;</span></td>
+<td>beaucoup (de)</td>
+<td>135</td>
+<td></td>
+</tr>
+<tr>
+<td>into</td>
+<td><span lang="fonipa">&#47;<strong>ɪn</strong>tu&#47;</span></td>
+<td>dans</td>
+<td>139</td>
+<td></td>
+</tr>
+<tr>
+<td>those</td>
+<td><span lang="fonipa">&#47;ðoʊz&#47;</span></td>
+<td>ces</td>
+<td>140</td>
+<td></td>
+</tr>
+<tr>
+<td>any</td>
+<td><span lang="fonipa">&#47;<strong>ɛ</strong>ni&#47;</span></td>
+<td>n'importe quel(le)</td>
+<td>141</td>
+<td></td>
+</tr>
+<tr>
+<td>anything</td>
+<td><span lang="fonipa">&#47;<strong>ɛ</strong>niθɪŋ&#47;</span></td>
+<td>n'importe quoi</td>
+<td>160</td>
+<td></td>
+</tr>
+<tr>
+<td>than</td>
+<td><span lang="fonipa">&#47;ðæn&#47;</span></td>
+<td>que (comparatif)</td>
+<td>163</td>
+<td></td>
+</tr>
+<tr>
+<td>nothing</td>
+<td><span lang="fonipa">&#47;<strong>nə</strong>θɪŋ&#47;</span></td>
+<td>rien</td>
+<td>176</td>
+<td></td>
+</tr>
+<tr>
+<td>their</td>
+<td><span lang="fonipa">&#47;ðɛɹ&#47;</span></td>
+<td>leur</td>
+<td>178</td>
+<td></td>
+</tr>
+<tr>
+<td>around</td>
+<td><span lang="fonipa">&#47;ɝ<strong>aʊnd</strong>&#47;</span></td>
+<td>autour</td>
+<td>182</td>
+<td></td>
+</tr>
+<tr>
+<td>before</td>
+<td><span lang="fonipa">&#47;bɪ<strong>fɔɹ</strong>&#47;</span></td>
+<td>avant</td>
+<td>186</td>
+<td></td>
+</tr>
+<tr>
+<td>after</td>
+<td><span lang="fonipa">&#47;<strong>æf</strong>tɝ&#47;</span></td>
+<td>après</td>
+<td>198</td>
+<td></td>
+</tr>
+<tr>
+<td>every</td>
+<td><span lang="fonipa">&#47;<strong>ɛv</strong>ɝi&#47;</span></td>
+<td>chaque</td>
+<td>200</td>
+<td></td>
+</tr>
+<tr>
+<td>everything</td>
+<td><span lang="fonipa">&#47;<strong>ɛv</strong>ɹiθɪŋ&#47;</span></td>
+<td>tout</td>
+<td>201</td>
+<td></td>
+</tr>
+<tr>
+<td>everyone</td>
+<td><span lang="fonipa">&#47;<strong>ɛv</strong>ɹiwən&#47;</span></td>
+<td>tout le monde</td>
+<td>211</td>
+<td></td>
+</tr>
+<tr>
+<td>another</td>
+<td><span lang="fonipa">&#47;ən<strong>ə</strong>ðɝ&#47;</span></td>
+<td>un(e) autre</td>
+<td>219</td>
+<td></td>
+</tr>
+<tr>
+<td>someone</td>
+<td><span lang="fonipa">&#47;<strong>səm</strong>wən&#47;</span></td>
+<td>quelqu'un</td>
+<td>220</td>
+<td></td>
+</tr>
+<tr>
+<td>which</td>
+<td><span lang="fonipa">&#47;wɪtʃ&#47;</span></td>
+<td>que, (le)quel(le)</td>
+<td>232</td>
+<td></td>
+</tr>
+<tr>
+<td>through</td>
+<td><span lang="fonipa">&#47;θɹu&#47;</span></td>
+<td>à travers</td>
+<td>236</td>
+<td></td>
+</tr>
+<tr>
+<td>everybody</td>
+<td><span lang="fonipa">&#47;<strong>ɛv</strong>ɹibɑdi&#47;</span></td>
+<td>tout le monde</td>
+<td>246</td>
+<td></td>
+</tr>
+<tr>
+<td>enough</td>
+<td><span lang="fonipa">&#47;ɪn<strong>əf</strong>&#47;</span></td>
+<td>assez</td>
+<td>263</td>
+<td></td>
+</tr>
+<tr>
+<td>most</td>
+<td><span lang="fonipa">&#47;moʊst&#47;</span></td>
+<td>la plupart de</td>
+<td>289</td>
+<td></td>
+</tr>
+<tr>
+<td>yourself</td>
+<td><span lang="fonipa">&#47;jɝ<strong>sɛɫf</strong>&#47;</span></td>
+<td>toi-même</td>
+<td>296</td>
+<td></td>
+</tr>
+<tr>
+<td>somebody</td>
+<td><span lang="fonipa">&#47;<strong>səm</strong>bɑdi&#47;</span></td>
+<td>quelqu'un</td>
+<td>320</td>
+<td></td>
+</tr>
+<tr>
+<td>without</td>
+<td><span lang="fonipa">&#47;wɪθ<strong>aʊt</strong>&#47;</span></td>
+<td>sans</td>
+<td>322</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://bilingueanglais.com/blog/21331/many-ou-much/">many</a></td>
+<td><span lang="fonipa">&#47;mɛni&#47;</span></td>
+<td>beaucoup (de)</td>
+<td>323</td>
+<td></td>
+</tr>
+<tr>
+<td>such</td>
+<td><span lang="fonipa">&#47;sətʃ&#47;</span></td>
+<td>tel(le)</td>
+<td>324</td>
+<td></td>
+</tr>
+<tr>
+<td>since</td>
+<td><span lang="fonipa">&#47;sɪns&#47;</span></td>
+<td>depuis</td>
+<td>330</td>
+<td></td>
+</tr>
+<tr>
+<td>myself</td>
+<td><span lang="fonipa">&#47;maɪ<strong>sɛɫf</strong>&#47;</span></td>
+<td>moi-même</td>
+<td>335</td>
+<td></td>
+</tr>
+<tr>
+<td>anyone</td>
+<td><span lang="fonipa">&#47;<strong>ɛ</strong>niwən&#47;</span></td>
+<td>n'importe qui</td>
+<td>338</td>
+<td></td>
+</tr>
+<tr>
+<td>each</td>
+<td><span lang="fonipa">&#47;itʃ&#47;</span></td>
+<td>chaque</td>
+<td>340</td>
+<td></td>
+</tr>
+<tr>
+<td>both</td>
+<td><span lang="fonipa">&#47;boʊθ&#47;</span></td>
+<td>(tous) les deux</td>
+<td>347</td>
+<td></td>
+</tr>
+<tr>
+<td>yet</td>
+<td><span lang="fonipa">&#47;jɛt&#47;</span></td>
+<td>déjà, encore</td>
+<td>352</td>
+<td></td>
+</tr>
+<tr>
+<td>until</td>
+<td><span lang="fonipa">&#47;ən<strong>tɪɫ</strong>&#47;</span></td>
+<td>jusqu'à</td>
+<td>356</td>
+<td></td>
+</tr>
+<tr>
+<td>while</td>
+<td><span lang="fonipa">&#47;waɪɫ&#47;</span></td>
+<td>pendant (que)</td>
+<td>358</td>
+<td></td>
+</tr>
+<tr>
+<td>few</td>
+<td><span lang="fonipa">&#47;fju&#47;</span></td>
+<td>peu de, quelques</td>
+<td>375</td>
+<td></td>
+</tr>
+<tr>
+<td>nobody</td>
+<td><span lang="fonipa">&#47;<strong>noʊ</strong>bɑdi&#47;</span></td>
+<td>personne</td>
+<td>381</td>
+<td></td>
+</tr>
+<tr>
+<td>whatever</td>
+<td><span lang="fonipa">&#47;wət<strong>ɛ</strong>vɝ&#47;</span></td>
+<td>n'importe quoi</td>
+<td>388</td>
+<td></td>
+</tr>
+<tr>
+<td>its</td>
+<td><span lang="fonipa">&#47;ɪts&#47;</span></td>
+<td>son, sa, ses (inanimé)</td>
+<td>398</td>
+<td></td>
+</tr>
+<tr>
+<td>least</td>
+<td><span lang="fonipa">&#47;ɫist&#47;</span></td>
+<td>moins</td>
+<td>419</td>
+<td></td>
+</tr>
+<tr>
+<td>under</td>
+<td><span lang="fonipa">&#47;<strong>ən</strong>dɝ&#47;</span></td>
+<td>sous</td>
+<td>422</td>
+<td></td>
+</tr>
+<tr>
+<td>mine</td>
+<td><span lang="fonipa">&#47;maɪn&#47;</span></td>
+<td>le mien, la mienne</td>
+<td>427</td>
+<td></td>
+</tr>
+<tr>
+<td>little</td>
+<td><span lang="fonipa">&#47;<strong>ɫɪ</strong>təɫ&#47;</span></td>
+<td>petit</td>
+<td>456</td>
+<td></td>
+</tr>
+<tr>
+<td>anybody</td>
+<td><span lang="fonipa">&#47;<strong>ɛ</strong>nibɑdi&#47;</span></td>
+<td>n'importe qui</td>
+<td>474</td>
+<td></td>
+</tr>
+<tr>
+<td>though</td>
+<td><span lang="fonipa">&#47;ðoʊ&#47;</span></td>
+<td>cependant</td>
+<td>490</td>
+<td></td>
+</tr>
+<tr>
+<td>either</td>
+<td><span lang="fonipa">&#47;<strong>i</strong>ðɝ&#47;</span></td>
+<td>soit, non plus</td>
+<td>498</td>
+<td></td>
+</tr>
+<tr>
+<td>between</td>
+<td><span lang="fonipa">&#47;bɪt<strong>win</strong>&#47;</span></td>
+<td>entre</td>
+<td>531</td>
+<td></td>
+</tr>
+<tr>
+<td>yours</td>
+<td><span lang="fonipa">&#47;jɔɹz&#47;</span></td>
+<td>le tien, le vôtre</td>
+<td>569</td>
+<td></td>
+</tr>
+<tr>
+<td>behind</td>
+<td><span lang="fonipa">&#47;bɪ<strong>haɪnd</strong>&#47;</span></td>
+<td>derrière</td>
+<td>570</td>
+<td></td>
+</tr>
+<tr>
+<td>outside</td>
+<td><span lang="fonipa">&#47;<strong>aʊt</strong>saɪd&#47;</span></td>
+<td>dehors</td>
+<td>586</td>
+<td></td>
+</tr>
+<tr>
+<td>against</td>
+<td><span lang="fonipa">&#47;ə<strong>gɛnst</strong>&#47;</span></td>
+<td>contre</td>
+<td>591</td>
+<td></td>
+</tr>
+<tr>
+<td>next</td>
+<td><span lang="fonipa">&#47;nɛkst&#47;</span></td>
+<td>ensuite</td>
+<td>600</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Les mots les plus courants en anglais" data-src="https://blog-content.bilingueanglais.com/uploads/2020/08/Connaissez-vous-déjà-tous-les-mots-dans-notre-liste-des-verbes-les-plus-utilisés-en-anglais.jpg" decoding="async" class="lazyload ewww_webp_lazy_load" data-src-webp="https://blog-content.bilingueanglais.com/uploads/2020/08/Connaissez-vous-déjà-tous-les-mots-dans-notre-liste-des-verbes-les-plus-utilisés-en-anglais.jpg.webp" /><noscript><img src="https://blog-content.bilingueanglais.com/uploads/2020/08/Connaissez-vous-déjà-tous-les-mots-dans-notre-liste-des-verbes-les-plus-utilisés-en-anglais.jpg" alt="Les mots les plus courants en anglais" data-eio="l" /></noscript>
+<em>Connaissez-vous déjà tous les mots de notre <br> liste des verbes les plus utilisés en anglais ?</em></p>
+<h2
+  id="Les_verbes_les_plus_utilises_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Les_verbes_les_plus_utilises_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Les verbes les plus utilisés en anglais</h2>
+<p>Commençons d'abord par <strong>les verbes <em>réguliers</em> les plus utilisés en anglais</strong>. On les appelle réguliers car ils suivent le même modèle <a href="https://bilingueanglais.com/blog/15821/preterit-ou-present-perfect/">au prétérit</a> et au participe passé : il suffit de leur ajouter la terminaison -ed à la fin ! Cependant, cette terminaison a <a href="https://bilingueanglais.com/blog/21361/ed-en-anglais/">trois différentes prononciations</a>, alors assurez-vous de savoir comment bien prononcer ces formes !</p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>to want</td>
+<td><span lang="fonipa">&#47;wɑnt&#47;</span></td>
+<td>vouloir</td>
+<td>40</td>
+<td></td>
+</tr>
+<tr>
+<td>to like</td>
+<td><span lang="fonipa">&#47;ɫaɪk&#47;</span></td>
+<td>aimer, plaire</td>
+<td>55</td>
+<td></td>
+</tr>
+<tr>
+<td>to look</td>
+<td><span lang="fonipa">&#47;ɫʊk&#47;</span></td>
+<td>regarder</td>
+<td>57</td>
+<td></td>
+</tr>
+<tr>
+<td>to need</td>
+<td><span lang="fonipa">&#47;niːd&#47;</span></td>
+<td>nécessiter</td>
+<td>92</td>
+<td></td>
+</tr>
+<tr>
+<td>to talk</td>
+<td><span lang="fonipa">&#47;tɔk&#47;</span></td>
+<td>parler</td>
+<td>96</td>
+<td></td>
+</tr>
+<tr>
+<td>to call</td>
+<td><span lang="fonipa">&#47;kɔɫ&#47;</span></td>
+<td>appeler</td>
+<td>103</td>
+<td></td>
+</tr>
+<tr>
+<td>to love</td>
+<td><span lang="fonipa">&#47;ɫəv&#47;</span></td>
+<td>aimer</td>
+<td>108</td>
+<td></td>
+</tr>
+<tr>
+<td>to wait</td>
+<td><span lang="fonipa">&#47;weɪt&#47;</span></td>
+<td>attendre</td>
+<td>109</td>
+<td></td>
+</tr>
+<tr>
+<td>to work</td>
+<td><span lang="fonipa">&#47;wɝk&#47;</span></td>
+<td>travailler</td>
+<td>118</td>
+<td></td>
+</tr>
+<tr>
+<td>to thank</td>
+<td><span lang="fonipa">&#47;θæŋk&#47;</span></td>
+<td>remercier</td>
+<td>119</td>
+<td></td>
+</tr>
+<tr>
+<td>to try</td>
+<td><span lang="fonipa">&#47;tɹaɪ&#47;</span></td>
+<td>essayer</td>
+<td>121</td>
+<td></td>
+</tr>
+<tr>
+<td>to happen</td>
+<td><span lang="fonipa">&#47;<strong>hæ</strong>pən&#47;</span></td>
+<td>se passer, arriver</td>
+<td>134</td>
+<td></td>
+</tr>
+<tr>
+<td>to stop</td>
+<td><span lang="fonipa">&#47;stɑp&#47;</span></td>
+<td>arrêter</td>
+<td>136</td>
+<td></td>
+</tr>
+<tr>
+<td>to use</td>
+<td><span lang="fonipa">&#47;jus&#47;</span></td>
+<td>utiliser</td>
+<td>151</td>
+<td></td>
+</tr>
+<tr>
+<td>to help</td>
+<td><span lang="fonipa">&#47;hɛɫp&#47;</span></td>
+<td>aider</td>
+<td>168</td>
+<td></td>
+</tr>
+<tr>
+<td>to believe</td>
+<td><span lang="fonipa">&#47;bɪ<strong>ɫiv</strong>&#47;</span></td>
+<td>croire</td>
+<td>169</td>
+<td></td>
+</tr>
+<tr>
+<td>to play</td>
+<td><span lang="fonipa">&#47;pleɪ&#47;</span></td>
+<td>jouer</td>
+<td>172</td>
+<td></td>
+</tr>
+<tr>
+<td>to ask</td>
+<td><span lang="fonipa">&#47;æsk&#47;</span></td>
+<td>demander</td>
+<td>173</td>
+<td></td>
+</tr>
+<tr>
+<td>to start</td>
+<td><span lang="fonipa">&#47;stɑɹt&#47;</span></td>
+<td>commencer</td>
+<td>174</td>
+<td></td>
+</tr>
+<tr>
+<td>to show</td>
+<td><span lang="fonipa">&#47;ʃoʊ&#47;</span></td>
+<td>montrer</td>
+<td>181</td>
+<td></td>
+</tr>
+<tr>
+<td>to guess</td>
+<td><span lang="fonipa">&#47;gɛs&#47;</span></td>
+<td>deviner</td>
+<td>183</td>
+<td></td>
+</tr>
+<tr>
+<td>to listen</td>
+<td><span lang="fonipa">&#47;<strong>ɫɪ</strong>sən&#47;</span></td>
+<td>écouter</td>
+<td>190</td>
+<td></td>
+</tr>
+<tr>
+<td>to live</td>
+<td><span lang="fonipa">&#47;ɫɪv&#47;</span></td>
+<td>vivre, habiter</td>
+<td>196</td>
+<td></td>
+</tr>
+<tr>
+<td>to watch</td>
+<td><span lang="fonipa">&#47;wɑtʃ&#47;</span></td>
+<td>regarder</td>
+<td>204</td>
+<td></td>
+</tr>
+<tr>
+<td>to remember</td>
+<td><span lang="fonipa">&#47;ɹɪ<strong>mɛm</strong>bɚ&#47;</span></td>
+<td>se souvenir</td>
+<td>206</td>
+<td></td>
+</tr>
+<tr>
+<td>to kill</td>
+<td><span lang="fonipa">&#47;kɪɫ&#47;</span></td>
+<td>tuer</td>
+<td>209</td>
+<td></td>
+</tr>
+<tr>
+<td>to care</td>
+<td><span lang="fonipa">&#47;kɛɹ&#47;</span></td>
+<td>se sentir concerné</td>
+<td>214</td>
+<td></td>
+</tr>
+<tr>
+<td>to move</td>
+<td><span lang="fonipa">&#47;muv&#47;</span></td>
+<td>bouger</td>
+<td>216</td>
+<td></td>
+</tr>
+<tr>
+<td>to turn</td>
+<td><span lang="fonipa">&#47;tɝn&#47;</span></td>
+<td>tourner</td>
+<td>222</td>
+<td></td>
+</tr>
+<tr>
+<td>to stay</td>
+<td><span lang="fonipa">&#47;steɪ&#47;</span></td>
+<td>rester</td>
+<td>240</td>
+<td></td>
+</tr>
+<tr>
+<td>to last</td>
+<td><span lang="fonipa">&#47;ɫæst&#47;</span></td>
+<td>durer</td>
+<td>247</td>
+<td></td>
+</tr>
+<tr>
+<td>to die</td>
+<td><span lang="fonipa">&#47;daɪ&#47;</span></td>
+<td>mourir</td>
+<td>267</td>
+<td></td>
+</tr>
+<tr>
+<td>to sound</td>
+<td><span lang="fonipa">&#47;saʊnd&#47;</span></td>
+<td>sembler, résonner</td>
+<td>271</td>
+<td></td>
+</tr>
+<tr>
+<td>to hate</td>
+<td><span lang="fonipa">&#47;heɪt&#47;</span></td>
+<td>détester</td>
+<td>273</td>
+<td></td>
+</tr>
+<tr>
+<td>to suppose</td>
+<td><span lang="fonipa">&#47;sə<strong>poʊz</strong>&#47;</span></td>
+<td>supposer</td>
+<td>274</td>
+<td></td>
+</tr>
+<tr>
+<td>to worry</td>
+<td><span lang="fonipa">&#47;wɝi&#47;</span></td>
+<td>s'inquiéter</td>
+<td>280</td>
+<td></td>
+</tr>
+<tr>
+<td>to marry</td>
+<td><span lang="fonipa">&#47;<strong>mɛ</strong>ɹi&#47;</span></td>
+<td>(se) marier</td>
+<td>282</td>
+<td></td>
+</tr>
+<tr>
+<td>to miss</td>
+<td><span lang="fonipa">&#47;mɪs&#47;</span></td>
+<td>manquer, rater</td>
+<td>283</td>
+<td></td>
+</tr>
+<tr>
+<td>to pay</td>
+<td><span lang="fonipa">&#47;peɪ&#47;</span></td>
+<td>payer</td>
+<td>284</td>
+<td></td>
+</tr>
+<tr>
+<td>to change</td>
+<td><span lang="fonipa">&#47;tʃeɪndʒ&#47;</span></td>
+<td>changer</td>
+<td>287</td>
+<td></td>
+</tr>
+<tr>
+<td>to excuse</td>
+<td><span lang="fonipa">&#47;ɪks<strong>kjuz</strong>&#47;</span></td>
+<td>excuser</td>
+<td>290</td>
+<td></td>
+</tr>
+<tr>
+<td>to check</td>
+<td><span lang="fonipa">&#47;tʃɛk&#47;</span></td>
+<td>vérifier</td>
+<td>292</td>
+<td></td>
+</tr>
+<tr>
+<td>to pick</td>
+<td><span lang="fonipa">&#47;pɪk&#47;</span></td>
+<td>choisir, cueillir</td>
+<td>293</td>
+<td></td>
+</tr>
+<tr>
+<td>to seem</td>
+<td><span lang="fonipa">&#47;sim&#47;</span></td>
+<td>sembler</td>
+<td>298</td>
+<td></td>
+</tr>
+<tr>
+<td>to walk</td>
+<td><span lang="fonipa">&#47;wɔk&#47;</span></td>
+<td>marcher</td>
+<td>300</td>
+<td></td>
+</tr>
+<tr>
+<td>to hope</td>
+<td><span lang="fonipa">&#47;hoʊp&#47;</span></td>
+<td>espérer</td>
+<td>304</td>
+<td></td>
+</tr>
+<tr>
+<td>to open</td>
+<td><span lang="fonipa">&#47;<strong>oʊ</strong>pən&#47;</span></td>
+<td>ouvrir</td>
+<td>306</td>
+<td></td>
+</tr>
+<tr>
+<td>to name</td>
+<td><span lang="fonipa">&#47;neɪm&#47;</span></td>
+<td>nommer, appeler</td>
+<td>332</td>
+<td></td>
+</tr>
+<tr>
+<td>to learn</td>
+<td><span lang="fonipa">&#47;ɫɚn&#47;</span></td>
+<td>apprendre</td>
+<td>343</td>
+<td></td>
+</tr>
+<tr>
+<td>to save</td>
+<td><span lang="fonipa">&#47;seɪv&#47;</span></td>
+<td>sauver</td>
+<td>353</td>
+<td></td>
+</tr>
+<tr>
+<td>to kid</td>
+<td><span lang="fonipa">&#47;kɪd&#47;</span></td>
+<td>rigoler</td>
+<td>391</td>
+<td></td>
+</tr>
+<tr>
+<td>to end</td>
+<td><span lang="fonipa">&#47;ɛnd&#47;</span></td>
+<td>terminer</td>
+<td>393</td>
+<td></td>
+</tr>
+<tr>
+<td>to wish</td>
+<td><span lang="fonipa">&#47;wɪʃ&#47;</span></td>
+<td>souhaiter</td>
+<td>410</td>
+<td></td>
+</tr>
+<tr>
+<td>to <a href="https://bilingueanglais.com/blog/14601/fuck/">fuck</a></td>
+<td><span lang="fonipa">&#47;fək&#47;</span></td>
+<td>baiser</td>
+<td>421</td>
+<td></td>
+</tr>
+<tr>
+<td>to suck</td>
+<td><span lang="fonipa">&#47;sək&#47;</span></td>
+<td>sucer, craindre</td>
+<td>432</td>
+<td></td>
+</tr>
+<tr>
+<td>to realize</td>
+<td><span lang="fonipa">&#47;ɹiə<strong>ɫaɪz</strong>&#47;</span></td>
+<td>se rendre compte</td>
+<td>439</td>
+<td></td>
+</tr>
+<tr>
+<td>to enjoy</td>
+<td><span lang="fonipa">&#47;<strong>ɛn</strong>dʒɔɪ&#47;</span></td>
+<td>profiter</td>
+<td>442</td>
+<td></td>
+</tr>
+<tr>
+<td>to dance</td>
+<td><span lang="fonipa">&#47;dæns&#47;</span></td>
+<td>danser</td>
+<td>444</td>
+<td></td>
+</tr>
+<tr>
+<td>to wonder</td>
+<td><span lang="fonipa">&#47;<strong>wən</strong>dɝ&#47;</span></td>
+<td>se demander</td>
+<td>447</td>
+<td></td>
+</tr>
+<tr>
+<td>to figure</td>
+<td><span lang="fonipa">&#47;<strong>fɪ</strong>gjɝ&#47;</span></td>
+<td>penser (que)</td>
+<td>464</td>
+<td></td>
+</tr>
+<tr>
+<td>to pull</td>
+<td><span lang="fonipa">&#47;pʊɫ&#47;</span></td>
+<td>tirer</td>
+<td>465</td>
+<td></td>
+</tr>
+<tr>
+<td>to decide</td>
+<td><span lang="fonipa">&#47;dɪ<strong>saɪd</strong>&#47;</span></td>
+<td>décider</td>
+<td>469</td>
+<td></td>
+</tr>
+<tr>
+<td>to face</td>
+<td><span lang="fonipa">&#47;feɪs&#47;</span></td>
+<td>faire face à</td>
+<td>473</td>
+<td></td>
+</tr>
+<tr>
+<td>to mind</td>
+<td><span lang="fonipa">&#47;maɪnd&#47;</span></td>
+<td>déranger</td>
+<td>481</td>
+<td></td>
+</tr>
+<tr>
+<td>to date</td>
+<td><span lang="fonipa">&#47;deɪt&#47;</span></td>
+<td>sortir avec qqn</td>
+<td>489</td>
+<td></td>
+</tr>
+<tr>
+<td>to promise</td>
+<td><span lang="fonipa">&#47;<strong>pɹɑ</strong>məs&#47;</span></td>
+<td>promettre</td>
+<td>495</td>
+<td></td>
+</tr>
+<tr>
+<td>to kiss</td>
+<td><span lang="fonipa">&#47;kɪs&#47;</span></td>
+<td>embrasser</td>
+<td>497</td>
+<td></td>
+</tr>
+<tr>
+<td>to fire</td>
+<td><span lang="fonipa">&#47;faɪɝ&#47;</span></td>
+<td>renvoyer</td>
+<td>499</td>
+<td></td>
+</tr>
+<tr>
+<td>to matter</td>
+<td><span lang="fonipa">&#47;<strong>mæ</strong>tɝ&#47;</span></td>
+<td>importer</td>
+<td>504</td>
+<td></td>
+</tr>
+<tr>
+<td>to touch</td>
+<td><span lang="fonipa">&#47;tətʃ&#47;</span></td>
+<td>toucher</td>
+<td>510</td>
+<td></td>
+</tr>
+<tr>
+<td>to amaze</td>
+<td><span lang="fonipa">&#47;ə<strong>meɪz</strong>&#47;</span></td>
+<td>étonner</td>
+<td>516</td>
+<td></td>
+</tr>
+<tr>
+<td>to smell</td>
+<td><span lang="fonipa">&#47;smɛɫ&#47;</span></td>
+<td>sentir</td>
+<td>517</td>
+<td></td>
+</tr>
+<tr>
+<td>to plan</td>
+<td><span lang="fonipa">&#47;pɫæn&#47;</span></td>
+<td>planifier</td>
+<td>520</td>
+<td></td>
+</tr>
+<tr>
+<td>to order</td>
+<td><span lang="fonipa">&#47;<strong>ɔɹ</strong>dɝ&#47;</span></td>
+<td>commander</td>
+<td>523</td>
+<td></td>
+</tr>
+<tr>
+<td>to cry</td>
+<td><span lang="fonipa">&#47;kɹaɪ&#47;</span></td>
+<td>pleurer</td>
+<td>524</td>
+<td></td>
+</tr>
+<tr>
+<td>to drop</td>
+<td><span lang="fonipa">&#47;drɑp&#47;</span></td>
+<td>faire tomber</td>
+<td>526</td>
+<td></td>
+</tr>
+<tr>
+<td>to act</td>
+<td><span lang="fonipa">&#47;ækt&#47;</span></td>
+<td>agir</td>
+<td>527</td>
+<td></td>
+</tr>
+<tr>
+<td>to finish</td>
+<td><span lang="fonipa">&#47;<strong>fɪ</strong>nɪʃ&#47;</span></td>
+<td>achever</td>
+<td>536</td>
+<td></td>
+</tr>
+<tr>
+<td>to hand</td>
+<td><span lang="fonipa">&#47;hænd&#47;</span></td>
+<td>donner</td>
+<td>538</td>
+<td></td>
+</tr>
+<tr>
+<td>to point</td>
+<td><span lang="fonipa">&#47;pɔɪnt&#47;</span></td>
+<td>montrer, indiquer</td>
+<td>539</td>
+<td></td>
+</tr>
+<tr>
+<td>to pass</td>
+<td><span lang="fonipa">&#47;pæs&#47;</span></td>
+<td>passer</td>
+<td>545</td>
+<td></td>
+</tr>
+<tr>
+<td>to kick</td>
+<td><span lang="fonipa">&#47;kɪk&#47;</span></td>
+<td>frapper avec le pied</td>
+<td>552</td>
+<td></td>
+</tr>
+<tr>
+<td>to excite</td>
+<td><span lang="fonipa">&#47;ɪk<strong>saɪt</strong>&#47;</span></td>
+<td>enthousiasmer</td>
+<td>556</td>
+<td></td>
+</tr>
+<tr>
+<td>to question</td>
+<td><span lang="fonipa">&#47;<strong>kwɛs</strong>tʃən&#47;</span></td>
+<td>interroger</td>
+<td>561</td>
+<td></td>
+</tr>
+<tr>
+<td>to invite</td>
+<td><span lang="fonipa">&#47;ɪn<strong>vaɪt</strong>&#47;</span></td>
+<td>inviter</td>
+<td>567</td>
+<td></td>
+</tr>
+<tr>
+<td>to dress</td>
+<td><span lang="fonipa">&#47;dɹɛs&#47;</span></td>
+<td>habiller</td>
+<td>573</td>
+<td></td>
+</tr>
+<tr>
+<td>to laugh</td>
+<td><span lang="fonipa">&#47;ɫæf&#47;</span></td>
+<td>rire</td>
+<td>575</td>
+<td></td>
+</tr>
+<tr>
+<td>to agree</td>
+<td><span lang="fonipa">&#47;əg<strong>ɹi</strong>&#47;</span></td>
+<td>être d'accord</td>
+<td>577</td>
+<td></td>
+</tr>
+<tr>
+<td>to return</td>
+<td><span lang="fonipa">&#47;ɹɪ<strong>tɝn</strong>&#47;</span></td>
+<td>retourner</td>
+<td>580</td>
+<td></td>
+</tr>
+<tr>
+<td>to follow</td>
+<td><span lang="fonipa">&#47;<strong>fɑ</strong>ɫoʊ&#47;</span></td>
+<td>suivre</td>
+<td>585</td>
+<td></td>
+</tr>
+<tr>
+<td>to scare</td>
+<td><span lang="fonipa">&#47;skɛɹ&#47;</span></td>
+<td>effrayer</td>
+<td>594</td>
+<td></td>
+</tr>
+<tr>
+<td>to notice</td>
+<td><span lang="fonipa">&#47;<strong>noʊ</strong>təs&#47;</span></td>
+<td>remarquer</td>
+<td>595</td>
+<td></td>
+</tr>
+<tr>
+<td>to join</td>
+<td><span lang="fonipa">&#47;dʒɔɪn&#47;</span></td>
+<td>(re)joindre</td>
+<td>599</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3
+  id="Les_verbes_irreguliers_les_plus_utilises_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Les_verbes_irreguliers_les_plus_utilises_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a><a href="https://bilingueanglais.com/blog/18461/principaux-verbes-irreguliers/">Les verbes irréguliers les plus utilisés en anglais</a></h3>
+<p>Et maintenant, les fameux <strong>verbes irréguliers anglais</strong> ! C'est une partie compliquée de la <a href="https://bilingueanglais.com/blog/rubriques/grammaire-anglaise/">grammaire anglaise</a> car ces verbes-là ne suivent ni modèle, ni logique, on n'a d'autre choix que d'apprendre leurs formes par cœur. Découvrez aussi d'<a href="https://bilingueanglais.com/blog/19201/comment-apprendre-verbes-irreguliers/">autres façons d'apprendre les verbes irréguliers en anglais</a>. </p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>to be</td>
+<td><span lang="fonipa">&#47;bi&#47;</span></td>
+<td>être</td>
+<td>1</td>
+</tr>
+<tr>
+<td>to do</td>
+<td><span lang="fonipa">&#47;du&#47;</span></td>
+<td>faire</td>
+<td>12</td>
+</tr>
+<tr>
+<td>to have</td>
+<td><span lang="fonipa">&#47;hæv&#47;</span></td>
+<td>avoir</td>
+<td>13</td>
+</tr>
+<tr>
+<td>to get</td>
+<td><span lang="fonipa">&#47;gɛt&#47;</span></td>
+<td>recevoir</td>
+<td>17</td>
+</tr>
+<tr>
+<td>to go</td>
+<td><span lang="fonipa">&#47;goʊ&#47;</span></td>
+<td>aller</td>
+<td>21</td>
+</tr>
+<tr>
+<td>can</td>
+<td><span lang="fonipa">&#47;kæn&#47;</span></td>
+<td>pouvoir</td>
+<td>23</td>
+</tr>
+<tr>
+<td>to know</td>
+<td><span lang="fonipa">&#47;noʊ&#47;</span></td>
+<td>savoir, connaître</td>
+<td>27</td>
+</tr>
+<tr>
+<td>to think</td>
+<td><span lang="fonipa">&#47;θɪŋk&#47;</span></td>
+<td>penser</td>
+<td>38</td>
+</tr>
+<tr>
+<td>to come</td>
+<td><span lang="fonipa">&#47;kəm&#47;</span></td>
+<td>venir</td>
+<td>44</td>
+</tr>
+<tr>
+<td>to say</td>
+<td><span lang="fonipa">&#47;seɪ&#47;</span></td>
+<td>dire</td>
+<td>46</td>
+</tr>
+<tr>
+<td>to see</td>
+<td><span lang="fonipa">&#47;si&#47;</span></td>
+<td>voir</td>
+<td>52</td>
+</tr>
+<tr>
+<td>to make</td>
+<td><span lang="fonipa">&#47;meɪk&#47;</span></td>
+<td>faire</td>
+<td>58</td>
+</tr>
+<tr>
+<td>to take</td>
+<td><span lang="fonipa">&#47;teɪk&#47;</span></td>
+<td>prendre</td>
+<td>61</td>
+</tr>
+<tr>
+<td>to let</td>
+<td><span lang="fonipa">&#47;ɫɛt&#47;</span></td>
+<td>permettre</td>
+<td>62</td>
+</tr>
+<tr>
+<td>to tell</td>
+<td><span lang="fonipa">&#47;tɛɫ&#47;</span></td>
+<td>dire</td>
+<td>67</td>
+</tr>
+<tr>
+<td>will</td>
+<td><span lang="fonipa">&#47;wɪɫ&#47;</span></td>
+<td>utilisé pour former le futur</td>
+<td>75</td>
+</tr>
+<tr>
+<td>to mean</td>
+<td><span lang="fonipa">&#47;min&#47;</span></td>
+<td>signifier, vouloir dire</td>
+<td>85</td>
+</tr>
+<tr>
+<td>to give</td>
+<td><span lang="fonipa">&#47;gɪv&#47;</span></td>
+<td>donner</td>
+<td>88</td>
+</tr>
+<tr>
+<td>shall</td>
+<td><span lang="fonipa">&#47;ʃæl&#47;</span></td>
+<td>vouloir</td>
+<td>94</td>
+</tr>
+<tr>
+<td>to feel</td>
+<td><span lang="fonipa">&#47;fiɫ&#47;</span></td>
+<td>sentir, ressentir</td>
+<td>124</td>
+</tr>
+<tr>
+<td>to find</td>
+<td><span lang="fonipa">&#47;faɪnd&#47;</span></td>
+<td>trouver</td>
+<td>128</td>
+</tr>
+<tr>
+<td>to put</td>
+<td><span lang="fonipa">&#47;pʊt&#47;</span></td>
+<td>poser, mettre</td>
+<td>132</td>
+</tr>
+<tr>
+<td>to leave</td>
+<td><span lang="fonipa">&#47;ɫiv&#47;</span></td>
+<td>partir, quitter</td>
+<td>144</td>
+</tr>
+<tr>
+<td>to hear</td>
+<td><span lang="fonipa">&#47;hiɹ&#47;</span></td>
+<td>entendre</td>
+<td>146</td>
+</tr>
+<tr>
+<td>may</td>
+<td><span lang="fonipa">&#47;meɪ&#47;</span></td>
+<td>il se peut que</td>
+<td>153</td>
+</tr>
+<tr>
+<td>to keep</td>
+<td><span lang="fonipa">&#47;kip&#47;</span></td>
+<td>garder</td>
+<td>166</td>
+</tr>
+<tr>
+<td>to meet</td>
+<td><span lang="fonipa">&#47;mit&#47;</span></td>
+<td>rencontrer, retrouver</td>
+<td>179</td>
+</tr>
+<tr>
+<td>to eat</td>
+<td><span lang="fonipa">&#47;it&#47;</span></td>
+<td>manger</td>
+<td>194</td>
+</tr>
+<tr>
+<td>to bring</td>
+<td><span lang="fonipa">&#47;bɹɪŋ&#47;</span></td>
+<td>apporter, amener</td>
+<td>199</td>
+</tr>
+<tr>
+<td>to run</td>
+<td><span lang="fonipa">&#47;ɹən&#47;</span></td>
+<td>courir</td>
+<td>212</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Les 30 verbes irréguliers anglais les plus utilisés sont parmi les 200 mots les plus courants</strong>. Si vous les avez déjà étudiés, mais que vous ne pouvez toujours pas les comprendre ou bien les utiliser, je vous invite à lire notre article <a href="https://bilingueanglais.com/blog/54752/apprendre-des-mots-en-anglais/">Comment apprendre un mot en anglais</a>.</p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>to break</td>
+<td><span lang="fonipa">&#47;bɹeɪk&#47;</span></td>
+<td>casser</td>
+<td>230</td>
+<td></td>
+</tr>
+<tr>
+<td>must</td>
+<td><span lang="fonipa">&#47;məst&#47;</span></td>
+<td>falloir, devoir</td>
+<td>233</td>
+<td></td>
+</tr>
+<tr>
+<td>to buy</td>
+<td><span lang="fonipa">&#47;baɪ&#47;</span></td>
+<td>acheter</td>
+<td>235</td>
+<td></td>
+</tr>
+<tr>
+<td>to lose</td>
+<td><span lang="fonipa">&#47;ɫuz&#47;</span></td>
+<td>perdre</td>
+<td>241</td>
+<td></td>
+</tr>
+<tr>
+<td>to sit</td>
+<td><span lang="fonipa">&#47;sɪt&#47;</span></td>
+<td>s'asseoir</td>
+<td>251</td>
+<td></td>
+</tr>
+<tr>
+<td>to hold</td>
+<td><span lang="fonipa">&#47;hoʊɫd&#47;</span></td>
+<td>tenir</td>
+<td>254</td>
+<td></td>
+</tr>
+<tr>
+<td>to forget</td>
+<td><span lang="fonipa">&#47;fɝ<strong>ɡɛt</strong>&#47;</span></td>
+<td>oublier</td>
+<td>256</td>
+<td></td>
+</tr>
+<tr>
+<td>to wear</td>
+<td><span lang="fonipa">&#47;wɛɹ&#47;</span></td>
+<td>porter</td>
+<td>266</td>
+<td></td>
+</tr>
+<tr>
+<td>to understand</td>
+<td><span lang="fonipa">&#47;<strong>ən</strong>dɚstænd&#47;</span></td>
+<td>comprendre</td>
+<td>277</td>
+<td></td>
+</tr>
+<tr>
+<td>to win</td>
+<td><span lang="fonipa">&#47;wɪn&#47;</span></td>
+<td>gagner</td>
+<td>299</td>
+<td></td>
+</tr>
+<tr>
+<td>to read</td>
+<td><span lang="fonipa">&#47;ɹid&#47;</span></td>
+<td>lire</td>
+<td>308</td>
+<td></td>
+</tr>
+<tr>
+<td>to drink</td>
+<td><span lang="fonipa">&#47;dɹɪŋk&#47;</span></td>
+<td>boire</td>
+<td>309</td>
+<td></td>
+</tr>
+<tr>
+<td>to sleep</td>
+<td><span lang="fonipa">&#47;sɫip&#47;</span></td>
+<td>dormir</td>
+<td>310</td>
+<td></td>
+</tr>
+<tr>
+<td>to write</td>
+<td><span lang="fonipa">&#47;ɹaɪt&#47;</span></td>
+<td>écrire</td>
+<td>312</td>
+<td></td>
+</tr>
+<tr>
+<td>to drive</td>
+<td><span lang="fonipa">&#47;dɹaɪv&#47;</span></td>
+<td>conduire</td>
+<td>326</td>
+<td></td>
+</tr>
+<tr>
+<td>to hang</td>
+<td><span lang="fonipa">&#47;hæŋ&#47;</span></td>
+<td>accrocher</td>
+<td>329</td>
+<td></td>
+</tr>
+<tr>
+<td>to throw</td>
+<td><span lang="fonipa">&#47;θɹoʊ&#47;</span></td>
+<td>jeter</td>
+<td>331</td>
+<td></td>
+</tr>
+<tr>
+<td>to stand</td>
+<td><span lang="fonipa">&#47;stænd&#47;</span></td>
+<td>se lever</td>
+<td>334</td>
+<td></td>
+</tr>
+<tr>
+<td>to shut</td>
+<td><span lang="fonipa">&#47;ʃət&#47;</span></td>
+<td>fermer</td>
+<td>344</td>
+<td></td>
+</tr>
+<tr>
+<td>to spend</td>
+<td><span lang="fonipa">&#47;spɛnd&#47;</span></td>
+<td>dépenser</td>
+<td>349</td>
+<td></td>
+</tr>
+<tr>
+<td>to hit</td>
+<td><span lang="fonipa">&#47;hɪt&#47;</span></td>
+<td>frapper</td>
+<td>351</td>
+<td></td>
+</tr>
+<tr>
+<td>to send</td>
+<td><span lang="fonipa">&#47;sɛnd&#47;</span></td>
+<td>envoyer</td>
+<td>359</td>
+<td></td>
+</tr>
+<tr>
+<td>to hurt</td>
+<td><span lang="fonipa">&#47;hɚt&#47;</span></td>
+<td>blesser</td>
+<td>380</td>
+<td></td>
+</tr>
+<tr>
+<td>to lie</td>
+<td><span lang="fonipa">&#47;ɫaɪ&#47;</span></td>
+<td>mentir, s'allonger</td>
+<td>384</td>
+<td></td>
+</tr>
+<tr>
+<td>to fall</td>
+<td><span lang="fonipa">&#47;fɔɫ&#47;</span></td>
+<td>tomber</td>
+<td>401</td>
+<td></td>
+</tr>
+<tr>
+<td>to shoot</td>
+<td><span lang="fonipa">&#47;ʃut&#47;</span></td>
+<td>tirer</td>
+<td>406</td>
+<td></td>
+</tr>
+<tr>
+<td>to sell</td>
+<td><span lang="fonipa">&#47;sɛɫ&#47;</span></td>
+<td>vendre</td>
+<td>408</td>
+<td></td>
+</tr>
+<tr>
+<td>to cut</td>
+<td><span lang="fonipa">&#47;kət&#47;</span></td>
+<td>couper</td>
+<td>414</td>
+<td></td>
+</tr>
+<tr>
+<td>to become</td>
+<td><span lang="fonipa">&#47;bɪ<strong>kəm</strong>&#47;</span></td>
+<td>devenir</td>
+<td>417</td>
+<td></td>
+</tr>
+<tr>
+<td>to bite</td>
+<td><span lang="fonipa">&#47;baɪt&#47;</span></td>
+<td>mordre</td>
+<td>420</td>
+<td></td>
+</tr>
+<tr>
+<td>to catch</td>
+<td><span lang="fonipa">&#47;kætʃ&#47;</span></td>
+<td>attraper</td>
+<td>426</td>
+<td></td>
+</tr>
+<tr>
+<td>to set</td>
+<td><span lang="fonipa">&#47;sɛt&#47;</span></td>
+<td>poser</td>
+<td>429</td>
+<td></td>
+</tr>
+<tr>
+<td>to speak</td>
+<td><span lang="fonipa">&#47;spik&#47;</span></td>
+<td>parler</td>
+<td>431</td>
+<td></td>
+</tr>
+<tr>
+<td>to stick</td>
+<td><span lang="fonipa">&#47;stɪk&#47;</span></td>
+<td>coller</td>
+<td>436</td>
+<td></td>
+</tr>
+<tr>
+<td>to fight</td>
+<td><span lang="fonipa">&#47;faɪt&#47;</span></td>
+<td>combattre</td>
+<td>453</td>
+<td></td>
+</tr>
+<tr>
+<td>to bet</td>
+<td><span lang="fonipa">&#47;bɛt&#47;</span></td>
+<td>parier</td>
+<td>470</td>
+<td></td>
+</tr>
+<tr>
+<td>to steal</td>
+<td><span lang="fonipa">&#47;stiɫ&#47;</span></td>
+<td>voler</td>
+<td>482</td>
+<td></td>
+</tr>
+<tr>
+<td>to grow</td>
+<td><span lang="fonipa">&#47;gɹoʊ&#47;</span></td>
+<td>pousser</td>
+<td>500</td>
+<td></td>
+</tr>
+<tr>
+<td>to build</td>
+<td><span lang="fonipa">&#47;biɫd&#47;</span></td>
+<td>construire</td>
+<td>501</td>
+<td></td>
+</tr>
+<tr>
+<td>to teach</td>
+<td><span lang="fonipa">&#47;titʃ&#47;</span></td>
+<td>enseigner</td>
+<td>505</td>
+<td></td>
+</tr>
+<tr>
+<td>to blow</td>
+<td><span lang="fonipa">&#47;bɫoʊ&#47;</span></td>
+<td>souffler</td>
+<td>510</td>
+<td></td>
+</tr>
+<tr>
+<td>to sing</td>
+<td><span lang="fonipa">&#47;sɪŋ&#47;</span></td>
+<td>chanter</td>
+<td>544</td>
+<td></td>
+</tr>
+<tr>
+<td>to beat</td>
+<td><span lang="fonipa">&#47;bit&#47;</span></td>
+<td>frapper, battre</td>
+<td>546</td>
+<td></td>
+</tr>
+<tr>
+<td>to ride</td>
+<td><span lang="fonipa">&#47;ɹaɪd&#47;</span></td>
+<td>faire (le vélo, la moto, etc.)</td>
+<td>597</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>🤓 Et si cette liste ne vous suffit pas, je vous invite à découvrir notre <a href="https://bilingueanglais.com/blog/19861/liste-complete-verbes-irreguliers/">liste complète des verbes irréguliers en anglais</a> ! Vous pouvez commencer par les principaux <a href="https://bilingueanglais.com/blog/18461/principaux-verbes-irreguliers/#Les_60_verbes_irreguliers">60 verbes irréguliers en anglais</a>, qui vous permettront d'<a href="https://bilingueanglais.com/blog/48621/niveau-a1-anglais/">atteindre le niveau A1</a>. </p>
+<h2
+  id="Les_adverbes_les_plus_utilises_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Les_adverbes_les_plus_utilises_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Les adverbes les plus utilisés en anglais</h2>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>just</td>
+<td><span lang="fonipa">&#47;dʒəst&#47;</span></td>
+<td>justement, de peu</td>
+<td>28</td>
+<td></td>
+</tr>
+<tr>
+<td>so</td>
+<td><span lang="fonipa">&#47;soʊ&#47;</span></td>
+<td>alors, tellement</td>
+<td>32</td>
+<td></td>
+</tr>
+<tr>
+<td>yeah</td>
+<td><span lang="fonipa">&#47;jæ&#47;</span></td>
+<td>oui, ouais</td>
+<td>36</td>
+<td></td>
+</tr>
+<tr>
+<td>well</td>
+<td><span lang="fonipa">&#47;wɛɫ&#47;</span></td>
+<td>bien</td>
+<td>37</td>
+<td></td>
+</tr>
+<tr>
+<td>here</td>
+<td><span lang="fonipa">&#47;hiɹ&#47;</span></td>
+<td>ici</td>
+<td>39</td>
+<td></td>
+</tr>
+<tr>
+<td>out</td>
+<td><span lang="fonipa">&#47;aʊt&#47;</span></td>
+<td>dehors</td>
+<td>41</td>
+<td></td>
+</tr>
+<tr>
+<td>up</td>
+<td><span lang="fonipa">&#47;əp&#47;</span></td>
+<td>debout, en haut</td>
+<td>45</td>
+<td></td>
+</tr>
+<tr>
+<td>now</td>
+<td><span lang="fonipa">&#47;naʊ&#47;</span></td>
+<td>maintenant</td>
+<td>47</td>
+<td></td>
+</tr>
+<tr>
+<td>how</td>
+<td><span lang="fonipa">&#47;haʊ&#47;</span></td>
+<td>comment</td>
+<td>54</td>
+<td></td>
+</tr>
+<tr>
+<td>really</td>
+<td><span lang="fonipa">&#47;<strong>ɹɪ</strong>ɫi&#47;</span></td>
+<td>vraiment</td>
+<td>63</td>
+<td></td>
+</tr>
+<tr>
+<td>okay</td>
+<td><span lang="fonipa">&#47;<strong>oʊ</strong>keɪ&#47;</span></td>
+<td>correctement</td>
+<td>64</td>
+<td></td>
+</tr>
+<tr>
+<td>why</td>
+<td><span lang="fonipa">&#47;waɪ&#47;</span></td>
+<td>pourquoi</td>
+<td>69</td>
+<td></td>
+</tr>
+<tr>
+<td>there</td>
+<td><span lang="fonipa">&#47;ðɛɹ&#47;</span></td>
+<td>là, là-bas</td>
+<td>70</td>
+<td></td>
+</tr>
+<tr>
+<td>like</td>
+<td><span lang="fonipa">&#47;ɫaɪk&#47;</span></td>
+<td>genre, environ</td>
+<td>76</td>
+<td></td>
+</tr>
+<tr>
+<td>when</td>
+<td><span lang="fonipa">&#47;wɛn&#47;</span></td>
+<td>quand</td>
+<td>77</td>
+<td></td>
+</tr>
+<tr>
+<td>yes</td>
+<td><span lang="fonipa">&#47;jɛs&#47;</span></td>
+<td>oui</td>
+<td>82</td>
+<td></td>
+</tr>
+<tr>
+<td>back (adossé à un verbe)</td>
+<td><span lang="fonipa">&#47;bæk&#47;</span></td>
+<td>revenir, retourner</td>
+<td>84</td>
+<td></td>
+</tr>
+<tr>
+<td>then</td>
+<td><span lang="fonipa">&#47;ðɛn&#47;</span></td>
+<td>puis, ensuite</td>
+<td>93</td>
+<td></td>
+</tr>
+<tr>
+<td>where</td>
+<td><span lang="fonipa">&#47;wɛɹ&#47;</span></td>
+<td>où</td>
+<td>99</td>
+<td></td>
+</tr>
+<tr>
+<td>never</td>
+<td><span lang="fonipa">&#47;<strong>nɛ</strong>vɝ&#47;</span></td>
+<td>jamais</td>
+<td>102</td>
+<td></td>
+</tr>
+<tr>
+<td>too</td>
+<td><span lang="fonipa">&#47;tu&#47;</span></td>
+<td>aussi</td>
+<td>104</td>
+<td></td>
+</tr>
+<tr>
+<td>down</td>
+<td><span lang="fonipa">&#47;daʊn&#47;</span></td>
+<td>en bas, vers le bas</td>
+<td>111</td>
+<td></td>
+</tr>
+<tr>
+<td>very</td>
+<td><span lang="fonipa">&#47;<strong>vɛ</strong>ɹi&#47;</span></td>
+<td>très</td>
+<td>116</td>
+<td></td>
+</tr>
+<tr>
+<td>maybe</td>
+<td><span lang="fonipa">&#47;<strong>meɪ</strong>bi&#47;</span></td>
+<td>peut-être</td>
+<td>123</td>
+<td></td>
+</tr>
+<tr>
+<td>even</td>
+<td><span lang="fonipa">&#47;<strong>i</strong>vɪn&#47;</span></td>
+<td>même</td>
+<td>126</td>
+<td></td>
+</tr>
+<tr>
+<td>please</td>
+<td><span lang="fonipa">&#47;pɫiz&#47;</span></td>
+<td>volontiers</td>
+<td>133</td>
+<td></td>
+</tr>
+<tr>
+<td>right</td>
+<td><span lang="fonipa">&#47;ɹaɪt&#47;</span></td>
+<td>à droite</td>
+<td>147</td>
+<td></td>
+</tr>
+<tr>
+<td>ever</td>
+<td><span lang="fonipa">&#47;<strong>ɛ</strong>vɝ&#47;</span></td>
+<td>déjà, jamais</td>
+<td>148</td>
+<td></td>
+</tr>
+<tr>
+<td>again</td>
+<td><span lang="fonipa">&#47;ə<strong>ɡɛn</strong>&#47;</span></td>
+<td>encore</td>
+<td>150</td>
+<td></td>
+</tr>
+<tr>
+<td>still</td>
+<td><span lang="fonipa">&#47;stɪɫ&#47;</span></td>
+<td>toujours, encore</td>
+<td>158</td>
+<td></td>
+</tr>
+<tr>
+<td>only</td>
+<td><span lang="fonipa">&#47;<strong>oʊn</strong>ɫi&#47;</span></td>
+<td>seulement</td>
+<td>161</td>
+<td></td>
+</tr>
+<tr>
+<td>always</td>
+<td><span lang="fonipa">&#47;ɔɫ<strong>weɪz</strong>&#47;</span></td>
+<td>toujours</td>
+<td>187</td>
+<td></td>
+</tr>
+<tr>
+<td>actually</td>
+<td><span lang="fonipa">&#47;æk<strong>tʃu</strong>əɫi&#47;</span></td>
+<td>en réalité</td>
+<td>193</td>
+<td></td>
+</tr>
+<tr>
+<td>away</td>
+<td><span lang="fonipa">&#47;ə<strong>weɪ</strong>&#47;</span></td>
+<td>loin de</td>
+<td>197</td>
+<td></td>
+</tr>
+<tr>
+<td>today</td>
+<td><span lang="fonipa">&#47;tə<strong>deɪ</strong>&#47;</span></td>
+<td>aujourd'hui</td>
+<td>221</td>
+<td></td>
+</tr>
+<tr>
+<td>together</td>
+<td><span lang="fonipa">&#47;tə<strong>ɡɛ</strong>ðɚ&#47;</span></td>
+<td>ensemble</td>
+<td>237</td>
+<td></td>
+</tr>
+<tr>
+<td>long</td>
+<td><span lang="fonipa">&#47;ɫɔŋ&#47;</span></td>
+<td>longtemps</td>
+<td>248</td>
+<td></td>
+</tr>
+<tr>
+<td>tonight</td>
+<td><span lang="fonipa">&#47;tə<strong>naɪt</strong>&#47;</span></td>
+<td>ce soir</td>
+<td>249</td>
+<td></td>
+</tr>
+<tr>
+<td>else</td>
+<td><span lang="fonipa">&#47;ɛɫs&#47;</span></td>
+<td>autrement</td>
+<td>257</td>
+<td></td>
+</tr>
+<tr>
+<td>already</td>
+<td><span lang="fonipa">&#47;ɔɫ<strong>ɹɛ</strong>di&#47;</span></td>
+<td>déjà</td>
+<td>303</td>
+<td></td>
+</tr>
+<tr>
+<td>once</td>
+<td><span lang="fonipa">&#47;wəns&#47;</span></td>
+<td>une fois, autrefois</td>
+<td>319</td>
+<td></td>
+</tr>
+<tr>
+<td>probably</td>
+<td><span lang="fonipa">&#47;<strong>pɹɑ</strong>bəbɫi&#47;</span></td>
+<td>probablement</td>
+<td>321</td>
+<td></td>
+</tr>
+<tr>
+<td>anyway</td>
+<td><span lang="fonipa">&#47;<strong>ɛ</strong>niweɪ&#47;</span></td>
+<td>enfin, quand même</td>
+<td>341</td>
+<td></td>
+</tr>
+<tr>
+<td>anymore</td>
+<td><span lang="fonipa">&#47;ɛni<strong>mɔɹ</strong>&#47;</span></td>
+<td>ne plus</td>
+<td>361</td>
+<td></td>
+</tr>
+<tr>
+<td>also</td>
+<td><span lang="fonipa">&#47;<strong>ɔɫ</strong>soʊ&#47;</span></td>
+<td>également</td>
+<td>362</td>
+<td></td>
+</tr>
+<tr>
+<td>totally</td>
+<td><span lang="fonipa">&#47;<strong>toʊ</strong>təɫi&#47;</span></td>
+<td>totalement</td>
+<td>370</td>
+<td></td>
+</tr>
+<tr>
+<td>exactly</td>
+<td><span lang="fonipa">&#47;ɪg<strong>zæk</strong>ɫi&#47;</span></td>
+<td>exactement</td>
+<td>373</td>
+<td></td>
+</tr>
+<tr>
+<td>OK</td>
+<td><span lang="fonipa">&#47;<strong>oʊ</strong>keɪ&#47;</span></td>
+<td>bien</td>
+<td>382</td>
+<td></td>
+</tr>
+<tr>
+<td>ago</td>
+<td><span lang="fonipa">&#47;ə<strong>goʊ</strong>&#47;</span></td>
+<td>il y a</td>
+<td>392</td>
+<td></td>
+</tr>
+<tr>
+<td>finally</td>
+<td><span lang="fonipa">&#47;<strong>faɪ</strong>nəɫi&#47;</span></td>
+<td>enfin</td>
+<td>396</td>
+<td></td>
+</tr>
+<tr>
+<td>sometimes</td>
+<td><span lang="fonipa">&#47;<strong>səm</strong>taɪmz&#47;</span></td>
+<td>parfois</td>
+<td>433</td>
+<td></td>
+</tr>
+<tr>
+<td>soon</td>
+<td><span lang="fonipa">&#47;sun&#47;</span></td>
+<td>bientôt</td>
+<td>445</td>
+<td></td>
+</tr>
+<tr>
+<td>almost</td>
+<td><span lang="fonipa">&#47;<strong>ɔɫ</strong>moʊst&#47;</span></td>
+<td>presque</td>
+<td>452</td>
+<td></td>
+</tr>
+<tr>
+<td>ahead</td>
+<td><span lang="fonipa">&#47;ə<strong>hɛd</strong>&#47;</span></td>
+<td>devant</td>
+<td>486</td>
+<td></td>
+</tr>
+<tr>
+<td>seriously</td>
+<td><span lang="fonipa">&#47;<strong>sɪ</strong>ɹiəɫsi&#47;</span></td>
+<td>sérieusement</td>
+<td>558</td>
+<td></td>
+</tr>
+<tr>
+<td>quite</td>
+<td><span lang="fonipa">&#47;kwaɪt&#47;</span></td>
+<td>assez</td>
+<td>563</td>
+<td></td>
+</tr>
+<tr>
+<td>yep</td>
+<td><span lang="fonipa">&#47;jəp&#47;</span></td>
+<td>ouais</td>
+<td>579</td>
+<td></td>
+</tr>
+<tr>
+<td>absolutely</td>
+<td><span lang="fonipa">&#47;æbsə<strong>ɫut</strong>ɫi&#47;</span></td>
+<td>absolument</td>
+<td>589</td>
+<td></td>
+</tr>
+<tr>
+<td>next</td>
+<td><span lang="fonipa">&#47;nɛkst&#47;</span></td>
+<td>après</td>
+<td>590</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>🧩 Qu'est-ce qu'un adverbe, en fait ? Tout comme un adjectif modifie un nom, l'adverbe, lui, modifie un verbe ! Les adverbes indiquent souvent la manière dont on fait quelque chose (bien, vite, etc.) mais ils peuvent également nous donner des informations telles que la fréquence, le lieu, le temps, l'intensité ou, la certitude, par exemple !</p>
+<h2
+  id="Les_noms_les_plus_utilises_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Les_noms_les_plus_utilises_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Les noms les plus utilisés en anglais</h2>
+<p>On va maintenant voir <strong>les subtantifs les plus utilisés en anglais</strong>, n'oubliez pas que vous ne verrez qu'une seule forme du mot dans cette liste, assurez-vous de connaître également sa forme au pluriel !</p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>guy</td>
+<td><span lang="fonipa">&#47;gaɪ&#47;</span></td>
+<td>mec, gars</td>
+<td>60</td>
+<td></td>
+</tr>
+<tr>
+<td>time</td>
+<td><span lang="fonipa">&#47;taɪm&#47;</span></td>
+<td>temps</td>
+<td>72</td>
+<td></td>
+</tr>
+<tr>
+<td>thing</td>
+<td><span lang="fonipa">&#47;θɪŋ&#47;</span></td>
+<td>chose, truc</td>
+<td>73</td>
+<td></td>
+</tr>
+<tr>
+<td>man</td>
+<td><span lang="fonipa">&#47;mæn&#47;</span></td>
+<td>homme</td>
+<td>86</td>
+<td></td>
+</tr>
+<tr>
+<td>way</td>
+<td><span lang="fonipa">&#47;weɪ&#47;</span></td>
+<td>façon, chemin</td>
+<td>101</td>
+<td></td>
+</tr>
+<tr>
+<td>day</td>
+<td><span lang="fonipa">&#47;deɪ&#47;</span></td>
+<td>jour</td>
+<td>112</td>
+<td></td>
+</tr>
+<tr>
+<td>people</td>
+<td><span lang="fonipa">&#47;<strong>pi</strong>pəɫ&#47;</span></td>
+<td>les gens</td>
+<td>114</td>
+<td></td>
+</tr>
+<tr>
+<td>dad</td>
+<td><span lang="fonipa">&#47;dæd&#47;</span></td>
+<td>papa</td>
+<td>122</td>
+<td></td>
+</tr>
+<tr>
+<td>friend</td>
+<td><span lang="fonipa">&#47;fɹɛnd&#47;</span></td>
+<td>ami</td>
+<td>125</td>
+<td></td>
+</tr>
+<tr>
+<td>kid</td>
+<td><span lang="fonipa">&#47;kɪd&#47;</span></td>
+<td>enfant, gamin</td>
+<td>129</td>
+<td></td>
+</tr>
+<tr>
+<td>boy</td>
+<td><span lang="fonipa">&#47;bɔɪ&#47;</span></td>
+<td>garçon</td>
+<td>131</td>
+<td></td>
+</tr>
+<tr>
+<td>night</td>
+<td><span lang="fonipa">&#47;naɪt&#47;</span></td>
+<td>nuit</td>
+<td>137</td>
+<td></td>
+</tr>
+<tr>
+<td>year</td>
+<td><span lang="fonipa">&#47;jɪɹ&#47;</span></td>
+<td>an, année</td>
+<td>145</td>
+<td></td>
+</tr>
+<tr>
+<td>Mr</td>
+<td><span lang="fonipa">&#47;<strong>mɪs</strong>tɚ&#47;</span></td>
+<td>monsieur</td>
+<td>149</td>
+<td></td>
+</tr>
+<tr>
+<td>mom</td>
+<td><span lang="fonipa">&#47;mɑm&#47;</span></td>
+<td>maman</td>
+<td>152</td>
+<td></td>
+</tr>
+<tr>
+<td>life</td>
+<td><span lang="fonipa">&#47;ɫaɪf&#47;</span></td>
+<td>vie</td>
+<td>155</td>
+<td></td>
+</tr>
+<tr>
+<td>kind</td>
+<td><span lang="fonipa">&#47;kaɪnd&#47;</span></td>
+<td>sorte, type</td>
+<td>159</td>
+<td></td>
+</tr>
+<tr>
+<td>baby</td>
+<td><span lang="fonipa">&#47;<strong>beɪ</strong>bi&#47;</span></td>
+<td>bébé</td>
+<td>162</td>
+<td></td>
+</tr>
+<tr>
+<td>girl</td>
+<td><span lang="fonipa">&#47;gɝɫ&#47;</span></td>
+<td>fille</td>
+<td>167</td>
+<td></td>
+</tr>
+<tr>
+<td>woman</td>
+<td><span lang="fonipa">&#47;<strong>wʊ</strong>mən&#47;</span></td>
+<td>femme</td>
+<td>170</td>
+<td></td>
+</tr>
+<tr>
+<td>lot</td>
+<td><span lang="fonipa">&#47;ɫɑt&#47;</span></td>
+<td>beaucoup</td>
+<td>171</td>
+<td></td>
+</tr>
+<tr>
+<td>home</td>
+<td><span lang="fonipa">&#47;hoʊm&#47;</span></td>
+<td>maison, domicile</td>
+<td>175</td>
+<td></td>
+</tr>
+<tr>
+<td>hell</td>
+<td><span lang="fonipa">&#47;hɛɫ&#47;</span></td>
+<td>enfer</td>
+<td>185</td>
+<td></td>
+</tr>
+<tr>
+<td>minute</td>
+<td><span lang="fonipa">&#47;<strong>mɪ</strong>nət&#47;</span></td>
+<td>minute</td>
+<td>192</td>
+<td></td>
+</tr>
+<tr>
+<td>place</td>
+<td><span lang="fonipa">&#47;pɫeɪs&#47;</span></td>
+<td>endroit</td>
+<td>195</td>
+<td></td>
+</tr>
+<tr>
+<td>money</td>
+<td><span lang="fonipa">&#47;<strong>mə</strong>ni&#47;</span></td>
+<td>argent</td>
+<td>202</td>
+<td></td>
+</tr>
+<tr>
+<td>person</td>
+<td><span lang="fonipa">&#47;<strong>pɝ</strong>sən&#47;</span></td>
+<td>personne</td>
+<td>203</td>
+<td></td>
+</tr>
+<tr>
+<td>house</td>
+<td><span lang="fonipa">&#47;haʊs&#47;</span></td>
+<td>maison</td>
+<td>207</td>
+<td></td>
+</tr>
+<tr>
+<td>school</td>
+<td><span lang="fonipa">&#47;skuɫ&#47;</span></td>
+<td>école</td>
+<td>210</td>
+<td></td>
+</tr>
+<tr>
+<td>car</td>
+<td><span lang="fonipa">&#47;kɑɹ&#47;</span></td>
+<td>voiture</td>
+<td>215</td>
+<td></td>
+</tr>
+<tr>
+<td>idea</td>
+<td><span lang="fonipa">&#47;aɪ<strong>di</strong>ə&#47;</span></td>
+<td>idée</td>
+<td>218</td>
+<td></td>
+</tr>
+<tr>
+<td>week</td>
+<td><span lang="fonipa">&#47;wik&#47;</span></td>
+<td>semaine</td>
+<td>226</td>
+<td></td>
+</tr>
+<tr>
+<td>job</td>
+<td><span lang="fonipa">&#47;dʒɑb&#47;</span></td>
+<td>travail</td>
+<td>227</td>
+<td></td>
+</tr>
+<tr>
+<td>fun</td>
+<td><span lang="fonipa">&#47;fən&#47;</span></td>
+<td>amusement</td>
+<td>228</td>
+<td></td>
+</tr>
+<tr>
+<td>problem</td>
+<td><span lang="fonipa">&#47;<strong>pɹɑb</strong>ləm&#47;</span></td>
+<td>problème</td>
+<td>229</td>
+<td></td>
+</tr>
+<tr>
+<td>world</td>
+<td><span lang="fonipa">&#47;wɝɫd&#47;</span></td>
+<td>monde</td>
+<td>231</td>
+<td></td>
+</tr>
+<tr>
+<td>party</td>
+<td><span lang="fonipa">&#47;<strong>pɑɹ</strong>ti&#47;</span></td>
+<td>fête</td>
+<td>234</td>
+<td></td>
+</tr>
+<tr>
+<td>room</td>
+<td><span lang="fonipa">&#47;ɹum&#47;</span></td>
+<td>pièce, chambre</td>
+<td>238</td>
+<td></td>
+</tr>
+<tr>
+<td>family</td>
+<td><span lang="fonipa">&#47;<strong>fæ</strong>məɫi&#47;</span></td>
+<td>famille</td>
+<td>239</td>
+<td></td>
+</tr>
+<tr>
+<td>stuff</td>
+<td><span lang="fonipa">&#47;stəf&#47;</span></td>
+<td>affaires, choses</td>
+<td>242</td>
+<td></td>
+</tr>
+<tr>
+<td>son</td>
+<td><span lang="fonipa">&#47;sən&#47;</span></td>
+<td>fils</td>
+<td>243</td>
+<td></td>
+</tr>
+<tr>
+<td>name</td>
+<td><span lang="fonipa">&#47;neɪm&#47;</span></td>
+<td>nom, prénom</td>
+<td>245</td>
+<td></td>
+</tr>
+<tr>
+<td>child</td>
+<td><span lang="fonipa">&#47;tʃaɪɫd&#47;</span></td>
+<td>enfant</td>
+<td>250</td>
+<td></td>
+</tr>
+<tr>
+<td>course</td>
+<td><span lang="fonipa">&#47;kɔɹs&#47;</span></td>
+<td>cours, route</td>
+<td>252</td>
+<td></td>
+</tr>
+<tr>
+<td>game</td>
+<td><span lang="fonipa">&#47;geɪm&#47;</span></td>
+<td>jeu</td>
+<td>255</td>
+<td></td>
+</tr>
+<tr>
+<td>doctor</td>
+<td><span lang="fonipa">&#47;<strong>dɑk</strong>tɚ&#47;</span></td>
+<td>médecin</td>
+<td>261</td>
+<td></td>
+</tr>
+<tr>
+<td>dollar</td>
+<td><span lang="fonipa">&#47;<strong>dɑ</strong>ɫɚ&#47;</span></td>
+<td>dollar</td>
+<td>262</td>
+<td></td>
+</tr>
+<tr>
+<td>dog</td>
+<td><span lang="fonipa">&#47;dɔg&#47;</span></td>
+<td>chien</td>
+<td>264</td>
+<td></td>
+</tr>
+<tr>
+<td>sir</td>
+<td><span lang="fonipa">&#47;sɚ&#47;</span></td>
+<td>monsieur</td>
+<td>268</td>
+<td></td>
+</tr>
+<tr>
+<td>honey</td>
+<td><span lang="fonipa">&#47;<strong>hə</strong>ni&#47;</span></td>
+<td>miel</td>
+<td>270</td>
+<td></td>
+</tr>
+<tr>
+<td>sex</td>
+<td><span lang="fonipa">&#47;sɛks&#47;</span></td>
+<td>sexe</td>
+<td>272</td>
+<td></td>
+</tr>
+<tr>
+<td>head</td>
+<td><span lang="fonipa">&#47;hɛd&#47;</span></td>
+<td>tête</td>
+<td>276</td>
+<td></td>
+</tr>
+<tr>
+<td>movie</td>
+<td><span lang="fonipa">&#47;<strong>mu</strong>vi&#47;</span></td>
+<td>film</td>
+<td>279</td>
+<td></td>
+</tr>
+<tr>
+<td>hour</td>
+<td><span lang="fonipa">&#47;<strong>a</strong>ʊɚ&#47;</span></td>
+<td>heure</td>
+<td>285</td>
+<td></td>
+</tr>
+<tr>
+<td>mother</td>
+<td><span lang="fonipa">&#47;<strong>mə</strong>ðɚ&#47;</span></td>
+<td>mère</td>
+<td>291</td>
+<td></td>
+</tr>
+<tr>
+<td>word</td>
+<td><span lang="fonipa">&#47;wɚd&#47;</span></td>
+<td>mot</td>
+<td>294</td>
+<td></td>
+</tr>
+<tr>
+<td>father</td>
+<td><span lang="fonipa">&#47;<strong>fɑ</strong>ðɚ&#47;</span></td>
+<td>père</td>
+<td>301</td>
+<td></td>
+</tr>
+<tr>
+<td>story</td>
+<td><span lang="fonipa">&#47;<strong>stɔ</strong>ɹi&#47;</span></td>
+<td>histoire</td>
+<td>302</td>
+<td></td>
+</tr>
+<tr>
+<td>part</td>
+<td><span lang="fonipa">&#47;pɔɹt&#47;</span></td>
+<td>partie</td>
+<td>305</td>
+<td></td>
+</tr>
+<tr>
+<td>lady</td>
+<td><span lang="fonipa">&#47;<strong>ɫeɪ</strong>di&#47;</span></td>
+<td>dame</td>
+<td>307</td>
+<td></td>
+</tr>
+<tr>
+<td>number</td>
+<td><span lang="fonipa">&#47;<strong>nəm</strong>bɚ&#47;</span></td>
+<td>nombre</td>
+<td>311</td>
+<td></td>
+</tr>
+<tr>
+<td>morning</td>
+<td><span lang="fonipa">&#47;<strong>mɔɹ</strong>nɪŋ&#47;</span></td>
+<td>matin</td>
+<td>313</td>
+<td></td>
+</tr>
+<tr>
+<td>tomorrow</td>
+<td><span lang="fonipa">&#47;tə<strong>mɑ</strong>ɹoʊ&#47;</span></td>
+<td>demain</td>
+<td>314</td>
+<td></td>
+</tr>
+<tr>
+<td>phone</td>
+<td><span lang="fonipa">&#47;foʊn&#47;</span></td>
+<td>téléphone</td>
+<td>316</td>
+<td></td>
+</tr>
+<tr>
+<td>eye</td>
+<td><span lang="fonipa">&#47;aɪ&#47;</span></td>
+<td>œil</td>
+<td>325</td>
+<td></td>
+</tr>
+<tr>
+<td>wife</td>
+<td><span lang="fonipa">&#47;waɪf&#47;</span></td>
+<td>épouse</td>
+<td>327</td>
+<td></td>
+</tr>
+<tr>
+<td>book</td>
+<td><span lang="fonipa">&#47;bʊk&#47;</span></td>
+<td>livre</td>
+<td>328</td>
+<td></td>
+</tr>
+<tr>
+<td>dinner</td>
+<td><span lang="fonipa">&#47;<strong>dɪ</strong>nɚ&#47;</span></td>
+<td>dîner</td>
+<td>337</td>
+<td></td>
+</tr>
+<tr>
+<td>hand</td>
+<td><span lang="fonipa">&#47;hænd&#47;</span></td>
+<td>main</td>
+<td>339</td>
+<td></td>
+</tr>
+<tr>
+<td>television</td>
+<td><span lang="fonipa">&#47;tɛɫə<strong>vɪ</strong>ʒən&#47;</span></td>
+<td>télévision</td>
+<td>342</td>
+<td></td>
+</tr>
+<tr>
+<td>town</td>
+<td><span lang="fonipa">&#47;taʊn&#47;</span></td>
+<td>ville</td>
+<td>345</td>
+<td></td>
+</tr>
+<tr>
+<td>date</td>
+<td>/deɪt</td>
+<td>date, rendez-vous</td>
+<td>348</td>
+<td></td>
+</tr>
+<tr>
+<td>office</td>
+<td><span lang="fonipa">&#47;<strong>ɔ</strong>fəs&#47;</span></td>
+<td>bureau</td>
+<td>350</td>
+<td></td>
+</tr>
+<tr>
+<td>food</td>
+<td><span lang="fonipa">&#47;fud&#47;</span></td>
+<td>nourriture</td>
+<td>357</td>
+<td></td>
+</tr>
+<tr>
+<td>news</td>
+<td><span lang="fonipa">&#47;nuz&#47;</span></td>
+<td>nouvelles, info</td>
+<td>363</td>
+<td></td>
+</tr>
+<tr>
+<td>ass</td>
+<td><span lang="fonipa">&#47;æs&#47;</span></td>
+<td>cul</td>
+<td>366</td>
+<td></td>
+</tr>
+<tr>
+<td>business</td>
+<td><span lang="fonipa">&#47;<strong>bɪz</strong>nəs&#47;</span></td>
+<td>commerce</td>
+<td>367</td>
+<td></td>
+</tr>
+<tr>
+<td>couple</td>
+<td><span lang="fonipa">&#47;<strong>kə</strong>pəɫ&#47;</span></td>
+<td>couple</td>
+<td>369</td>
+<td></td>
+</tr>
+<tr>
+<td>door</td>
+<td><span lang="fonipa">&#47;dɔɹ&#47;</span></td>
+<td>porte</td>
+<td>371</td>
+<td></td>
+</tr>
+<tr>
+<td>parent</td>
+<td><span lang="fonipa">&#47;<strong>pɛ</strong>ɹənt&#47;</span></td>
+<td>parent</td>
+<td>374</td>
+<td></td>
+</tr>
+<tr>
+<td>month</td>
+<td><span lang="fonipa">&#47;mənθ&#47;</span></td>
+<td>mois</td>
+<td>376</td>
+<td></td>
+</tr>
+<tr>
+<td>deal</td>
+<td><span lang="fonipa">&#47;diɫ&#47;</span></td>
+<td>accord</td>
+<td>378</td>
+<td></td>
+</tr>
+<tr>
+<td>brother</td>
+<td><span lang="fonipa">&#47;<strong>bɹə</strong>ðɚ&#47;</span></td>
+<td>frère</td>
+<td>389</td>
+<td></td>
+</tr>
+<tr>
+<td>work</td>
+<td><span lang="fonipa">&#47;wɚk&#47;</span></td>
+<td>travail</td>
+<td>390</td>
+<td></td>
+</tr>
+<tr>
+<td>other</td>
+<td><span lang="fonipa">&#47;<strong>ə</strong>ðɚ&#47;</span></td>
+<td>autre</td>
+<td>394</td>
+<td></td>
+</tr>
+<tr>
+<td>ball</td>
+<td><span lang="fonipa">&#47;bɔɫ&#47;</span></td>
+<td>balle</td>
+<td>395</td>
+<td></td>
+</tr>
+<tr>
+<td>line</td>
+<td><span lang="fonipa">&#47;ɫaɪn&#47;</span></td>
+<td>ligne</td>
+<td>397</td>
+<td></td>
+</tr>
+<tr>
+<td>heart</td>
+<td><span lang="fonipa">&#47;hɑɹt&#47;</span></td>
+<td>cœur</td>
+<td>402</td>
+<td></td>
+</tr>
+<tr>
+<td>class</td>
+<td><span lang="fonipa">&#47;kɫæs&#47;</span></td>
+<td>classe, cours</td>
+<td>405</td>
+<td></td>
+</tr>
+<tr>
+<td>picture</td>
+<td><span lang="fonipa">&#47;<strong>pɪk</strong>tʃɝ&#47;</span></td>
+<td>photo</td>
+<td>407</td>
+<td></td>
+</tr>
+<tr>
+<td>side</td>
+<td><span lang="fonipa">&#47;saɪd&#47;</span></td>
+<td>côté</td>
+<td>409</td>
+<td></td>
+</tr>
+<tr>
+<td>love</td>
+<td><span lang="fonipa">&#47;ɫəv&#47;</span></td>
+<td>amour</td>
+<td>411</td>
+<td></td>
+</tr>
+<tr>
+<td>mind</td>
+<td><span lang="fonipa">&#47;maɪnd&#47;</span></td>
+<td>esprit</td>
+<td>412</td>
+<td></td>
+</tr>
+<tr>
+<td>hair</td>
+<td><span lang="fonipa">&#47;hɛɹ&#47;</span></td>
+<td>cheveux</td>
+<td>413</td>
+<td></td>
+</tr>
+<tr>
+<td>wedding</td>
+<td><span lang="fonipa">&#47;<strong>wɛ</strong>dɪŋ&#47;</span></td>
+<td>mariage</td>
+<td>415</td>
+<td></td>
+</tr>
+<tr>
+<td>reason</td>
+<td><span lang="fonipa">&#47;<strong>ɹi</strong>zən&#47;</span></td>
+<td>raison</td>
+<td>416</td>
+<td></td>
+</tr>
+<tr>
+<td>look</td>
+<td><span lang="fonipa">&#47;ɫʊk&#47;</span></td>
+<td>apparence, coup d'œil</td>
+<td>419</td>
+<td></td>
+</tr>
+<tr>
+<td>bed</td>
+<td><span lang="fonipa">&#47;bɛd&#47;</span></td>
+<td>lit</td>
+<td>423</td>
+<td></td>
+</tr>
+<tr>
+<td>paper</td>
+<td><span lang="fonipa">&#47;<strong>peɪ</strong>pɚ&#47;</span></td>
+<td>papier</td>
+<td>424</td>
+<td></td>
+</tr>
+<tr>
+<td>face</td>
+<td><span lang="fonipa">&#47;feɪs&#47;</span></td>
+<td>visage</td>
+<td>430</td>
+<td></td>
+</tr>
+<tr>
+<td>city</td>
+<td><span lang="fonipa">&#47;<strong>sɪ</strong>ti&#47;</span></td>
+<td>ville</td>
+<td>434</td>
+<td></td>
+</tr>
+<tr>
+<td>question</td>
+<td><span lang="fonipa">&#47;<strong>kwɛs</strong>tʃən&#47;</span></td>
+<td>question</td>
+<td>437</td>
+<td></td>
+</tr>
+<tr>
+<td>dude</td>
+<td><span lang="fonipa">&#47;dud&#47;</span></td>
+<td>mec</td>
+<td>438</td>
+<td></td>
+</tr>
+<tr>
+<td>birthday</td>
+<td><span lang="fonipa">&#47;<strong>bɝθ</strong>deɪ&#47;</span></td>
+<td>anniversaire</td>
+<td>440</td>
+<td></td>
+</tr>
+<tr>
+<td>point</td>
+<td><span lang="fonipa">&#47;pɔɪnt&#47;</span></td>
+<td>point</td>
+<td>441</td>
+<td></td>
+</tr>
+<tr>
+<td>fact</td>
+<td><span lang="fonipa">&#47;fækt&#47;</span></td>
+<td>fait</td>
+<td>443</td>
+<td></td>
+</tr>
+<tr>
+<td>bar</td>
+<td><span lang="fonipa">&#47;bɑɹ&#47;</span></td>
+<td>bar</td>
+<td>446</td>
+<td></td>
+</tr>
+<tr>
+<td>joke</td>
+<td><span lang="fonipa">&#47;dʒoʊk&#47;</span></td>
+<td>rigoler</td>
+<td>448</td>
+<td></td>
+</tr>
+<tr>
+<td>relationship</td>
+<td><span lang="fonipa">&#47;ɹɪ<strong>ɫeɪ</strong>ʃənʃɪp&#47;</span></td>
+<td>relation</td>
+<td>449</td>
+<td></td>
+</tr>
+<tr>
+<td>chance</td>
+<td><span lang="fonipa">&#47;tʃæns&#47;</span></td>
+<td>chance</td>
+<td>450</td>
+<td></td>
+</tr>
+<tr>
+<td>card</td>
+<td><span lang="fonipa">&#47;kɑɹd&#47;</span></td>
+<td>carte</td>
+<td>454</td>
+<td></td>
+</tr>
+<tr>
+<td>song</td>
+<td><span lang="fonipa">&#47;sɔŋ&#47;</span></td>
+<td>chanson</td>
+<td>455</td>
+<td></td>
+</tr>
+<tr>
+<td>coffee</td>
+<td><span lang="fonipa">&#47;<strong>kɑ</strong>fi&#47;</span></td>
+<td>café</td>
+<td>458</td>
+<td></td>
+</tr>
+<tr>
+<td>apartment</td>
+<td><span lang="fonipa">&#47;ə<strong>pɑɹt</strong>mənt&#47;</span></td>
+<td>appartement</td>
+<td>461</td>
+<td></td>
+</tr>
+<tr>
+<td>back</td>
+<td><span lang="fonipa">&#47;bæk&#47;</span></td>
+<td>dos</td>
+<td>463</td>
+<td></td>
+</tr>
+<tr>
+<td>box</td>
+<td><span lang="fonipa">&#47;bɑks&#47;</span></td>
+<td>boîte</td>
+<td>466</td>
+<td></td>
+</tr>
+<tr>
+<td>dream</td>
+<td><span lang="fonipa">&#47;dɹim&#47;</span></td>
+<td>rêve</td>
+<td>467</td>
+<td></td>
+</tr>
+<tr>
+<td>water</td>
+<td><span lang="fonipa">&#47;<strong>wɔ</strong>tɝ&#47;</span></td>
+<td>eau</td>
+<td>468</td>
+<td></td>
+</tr>
+<tr>
+<td>store</td>
+<td><span lang="fonipa">&#47;stɔɹ&#47;</span></td>
+<td>magasin</td>
+<td>470</td>
+<td></td>
+</tr>
+<tr>
+<td>lunch</td>
+<td><span lang="fonipa">&#47;ɫəntʃ&#47;</span></td>
+<td>déjeuner</td>
+<td>472</td>
+<td></td>
+</tr>
+<tr>
+<td>buddy</td>
+<td><span lang="fonipa">&#47;<strong>bə</strong>di&#47;</span></td>
+<td>pote</td>
+<td>476</td>
+<td></td>
+</tr>
+<tr>
+<td>bathroom</td>
+<td><span lang="fonipa">&#47;<strong>bæθ</strong>ɹum&#47;</span></td>
+<td>salle de bains</td>
+<td>479</td>
+<td></td>
+</tr>
+<tr>
+<td>show</td>
+<td><span lang="fonipa">&#47;ʃoʊ&#47;</span></td>
+<td>spectacle</td>
+<td>480</td>
+<td></td>
+</tr>
+<tr>
+<td>company</td>
+<td><span lang="fonipa">&#47;<strong>kəm</strong>pəni&#47;</span></td>
+<td>entreprise</td>
+<td>484</td>
+<td></td>
+</tr>
+<tr>
+<td>front</td>
+<td><span lang="fonipa">&#47;fɹənt&#47;</span></td>
+<td>devant</td>
+<td>485</td>
+<td></td>
+</tr>
+<tr>
+<td>moment</td>
+<td><span lang="fonipa">&#47;<strong>moʊ</strong>mənt&#47;</span></td>
+<td>moment</td>
+<td>487</td>
+<td></td>
+</tr>
+<tr>
+<td>case</td>
+<td><span lang="fonipa">&#47;keɪs&#47;</span></td>
+<td>cas</td>
+<td>488</td>
+<td></td>
+</tr>
+<tr>
+<td>body</td>
+<td><span lang="fonipa">&#47;<strong>bɑ</strong>di&#47;</span></td>
+<td>corps</td>
+<td>491</td>
+<td></td>
+</tr>
+<tr>
+<td>Mrs</td>
+<td><span lang="fonipa">&#47;<strong>mɪ</strong>sɪz&#47;</span></td>
+<td>Mme</td>
+<td>492</td>
+<td></td>
+</tr>
+<tr>
+<td>pants</td>
+<td><span lang="fonipa">&#47;pænts&#47;</span></td>
+<td>pantalon</td>
+<td>493</td>
+<td></td>
+</tr>
+<tr>
+<td>bitch</td>
+<td><span lang="fonipa">&#47;bɪtʃ&#47;</span></td>
+<td>garce</td>
+<td>494</td>
+<td></td>
+</tr>
+<tr>
+<td>table</td>
+<td><span lang="fonipa">&#47;<strong>teɪ</strong>bəɫ&#47;</span></td>
+<td>table</td>
+<td>502</td>
+<td></td>
+</tr>
+<tr>
+<td>ticket</td>
+<td><span lang="fonipa">&#47;<strong>tɪ</strong>kət&#47;</span></td>
+<td>billet</td>
+<td>503</td>
+<td></td>
+</tr>
+<tr>
+<td>cat</td>
+<td><span lang="fonipa">&#47;kæt&#47;</span></td>
+<td>chat</td>
+<td>506</td>
+<td></td>
+</tr>
+<tr>
+<td>sister</td>
+<td><span lang="fonipa">&#47;<strong>sɪs</strong>tɝ&#47;</span></td>
+<td>sœur</td>
+<td>507</td>
+<td></td>
+</tr>
+<tr>
+<td>girlfriend</td>
+<td><span lang="fonipa">&#47;<strong>ɡɝɫ</strong>fɹɛnd&#47;</span></td>
+<td>copine</td>
+<td>508</td>
+<td></td>
+</tr>
+<tr>
+<td>hat</td>
+<td><span lang="fonipa">&#47;hæt&#47;</span></td>
+<td>chapeau</td>
+<td>509</td>
+<td></td>
+</tr>
+<tr>
+<td>beer</td>
+<td><span lang="fonipa">&#47;bɪɹ&#47;</span></td>
+<td>bière</td>
+<td>512</td>
+<td></td>
+</tr>
+<tr>
+<td>club</td>
+<td><span lang="fonipa">&#47;kɫəb&#47;</span></td>
+<td>club</td>
+<td>515</td>
+<td></td>
+</tr>
+<tr>
+<td>gift</td>
+<td><span lang="fonipa">&#47;gɪft&#47;</span></td>
+<td>cadeau</td>
+<td>518</td>
+<td></td>
+</tr>
+<tr>
+<td>street</td>
+<td><span lang="fonipa">&#47;stɹit&#47;</span></td>
+<td>rue</td>
+<td>521</td>
+<td></td>
+</tr>
+<tr>
+<td>team</td>
+<td><span lang="fonipa">&#47;tim&#47;</span></td>
+<td>équipe</td>
+<td>522</td>
+<td></td>
+</tr>
+<tr>
+<td>seat</td>
+<td><span lang="fonipa">&#47;sit&#47;</span></td>
+<td>siège</td>
+<td>529</td>
+<td></td>
+</tr>
+<tr>
+<td>foot</td>
+<td><span lang="fonipa">&#47;fʊt&#47;</span></td>
+<td>pied</td>
+<td>534</td>
+<td></td>
+</tr>
+<tr>
+<td>gentleman</td>
+<td><span lang="fonipa">&#47;<strong>dʒɛn</strong>təɫmən&#47;</span></td>
+<td>gentleman</td>
+<td>537</td>
+<td></td>
+</tr>
+<tr>
+<td>trouble</td>
+<td><span lang="fonipa">&#47;<strong>tɹə</strong>bəɫ&#47;</span></td>
+<td>ennuis, difficultés</td>
+<td>542</td>
+<td></td>
+</tr>
+<tr>
+<td>sweetie</td>
+<td><span lang="fonipa">&#47;<strong>swi</strong>ti&#47;</span></td>
+<td>bonbon</td>
+<td>543</td>
+<td></td>
+</tr>
+<tr>
+<td>piece</td>
+<td><span lang="fonipa">&#47;pis&#47;</span></td>
+<td>morceau</td>
+<td>547</td>
+<td></td>
+</tr>
+<tr>
+<td>shoe</td>
+<td><span lang="fonipa">&#47;ʃu&#47;</span></td>
+<td>chaussure</td>
+<td>548</td>
+<td></td>
+</tr>
+<tr>
+<td>god</td>
+<td><span lang="fonipa">&#47;gɑd&#47;</span></td>
+<td>dieu</td>
+<td>550</td>
+<td></td>
+</tr>
+<tr>
+<td>bag</td>
+<td><span lang="fonipa">&#47;bæg&#47;</span></td>
+<td>sac</td>
+<td>553</td>
+<td></td>
+</tr>
+<tr>
+<td>fire</td>
+<td><span lang="fonipa">&#47;<strong>faɪ</strong>ɝ&#47;</span></td>
+<td>feu</td>
+<td>554</td>
+<td></td>
+</tr>
+<tr>
+<td>country</td>
+<td><span lang="fonipa">&#47;<strong>kən</strong>tɹɪ&#47;</span></td>
+<td>pays</td>
+<td>559</td>
+<td></td>
+</tr>
+<tr>
+<td>mouth</td>
+<td><span lang="fonipa">&#47;maʊθ&#47;</span></td>
+<td>bouche</td>
+<td>560</td>
+<td></td>
+</tr>
+<tr>
+<td>husband</td>
+<td><span lang="fonipa">&#47;<strong>həz</strong>bənd&#47;</span></td>
+<td>mari, époux</td>
+<td>565</td>
+<td></td>
+</tr>
+<tr>
+<td>rest</td>
+<td><span lang="fonipa">&#47;ɹɛst&#47;</span></td>
+<td>repos</td>
+<td>568</td>
+<td></td>
+</tr>
+<tr>
+<td>key</td>
+<td><span lang="fonipa">&#47;ki&#47;</span></td>
+<td>clé</td>
+<td>571</td>
+<td></td>
+</tr>
+<tr>
+<td>end</td>
+<td><span lang="fonipa">&#47;ɛnd&#47;</span></td>
+<td>fin</td>
+<td>572</td>
+<td></td>
+</tr>
+<tr>
+<td>help</td>
+<td><span lang="fonipa">&#47;hɛɫp&#47;</span></td>
+<td>aide</td>
+<td>576</td>
+<td></td>
+</tr>
+<tr>
+<td>machine</td>
+<td><span lang="fonipa">&#47;mə<strong>ʃin</strong>&#47;</span></td>
+<td>machine</td>
+<td>578</td>
+<td></td>
+</tr>
+<tr>
+<td>space</td>
+<td><span lang="fonipa">&#47;speɪs&#47;</span></td>
+<td>espace</td>
+<td>581</td>
+<td></td>
+</tr>
+<tr>
+<td>truth</td>
+<td><span lang="fonipa">&#47;tɹuθ&#47;</span></td>
+<td>vérité</td>
+<td>583</td>
+<td></td>
+</tr>
+<tr>
+<td>ice</td>
+<td><span lang="fonipa">&#47;aɪs&#47;</span></td>
+<td>glace</td>
+<td>584</td>
+<td></td>
+</tr>
+<tr>
+<td>idiot</td>
+<td><span lang="fonipa">&#47;<strong>ɪ</strong>diət&#47;</span></td>
+<td>idiot</td>
+<td>587</td>
+<td></td>
+</tr>
+<tr>
+<td>rule</td>
+<td><span lang="fonipa">&#47;ɹuɫ&#47;</span></td>
+<td>règle</td>
+<td>588</td>
+<td></td>
+</tr>
+<tr>
+<td>need</td>
+<td><span lang="fonipa">&#47;nid&#47;</span></td>
+<td>besoin</td>
+<td>593</td>
+<td></td>
+</tr>
+<tr>
+<td>chicken</td>
+<td><span lang="fonipa">&#47;<strong>tʃɪ</strong>kən&#47;</span></td>
+<td>poulet</td>
+<td>596</td>
+<td></td>
+</tr>
+<tr>
+<td>music</td>
+<td><span lang="fonipa">&#47;<strong>mju</strong>zɪk&#47;</span></td>
+<td>musique</td>
+<td>598</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2
+  id="Les_adjectifs_les_plus_utilises_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Les_adjectifs_les_plus_utilises_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Les adjectifs les plus utilisés en anglais</h2>
+<p>Heureusement, <strong>les adjectifs anglais</strong> ne changent pas autant que les adjectifs français ! Pas besoin penser au genre ou au nombre du mot ; par contre, n'oubliez pas d'étudier les formes comparatives et superlatives ! </p>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Les mots les plus courants en anglais" data-src="https://blog-content.bilingueanglais.com/uploads/2020/08/Avec-les-adjectifs-les-plus-utilisés-en-anglais-vous-pourrez-commencer-à-décrire-tout-autour-de-vous.jpg" decoding="async" class="lazyload ewww_webp_lazy_load" data-src-webp="https://blog-content.bilingueanglais.com/uploads/2020/08/Avec-les-adjectifs-les-plus-utilisés-en-anglais-vous-pourrez-commencer-à-décrire-tout-autour-de-vous.jpg.webp" /><noscript><img src="https://blog-content.bilingueanglais.com/uploads/2020/08/Avec-les-adjectifs-les-plus-utilisés-en-anglais-vous-pourrez-commencer-à-décrire-tout-autour-de-vous.jpg" alt="Les mots les plus courants en anglais" data-eio="l" /></noscript>
+<em>Avec les adjectifs les plus utilisés en anglais vous pourrez <br> commencer à décrire tout ce qui se trouve autour de vous !</em></p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>good</td>
+<td><span lang="fonipa">&#47;gʊd&#47;</span></td>
+<td>bon</td>
+<td>44</td>
+<td></td>
+</tr>
+<tr>
+<td>right</td>
+<td><span lang="fonipa">&#47;ɹaɪt&#47;</span></td>
+<td>correct</td>
+<td>59</td>
+<td></td>
+</tr>
+<tr>
+<td>little</td>
+<td><span lang="fonipa">&#47;<strong>ɫɪ</strong>təɫ&#47;</span></td>
+<td>petit</td>
+<td>87</td>
+<td></td>
+</tr>
+<tr>
+<td>okay</td>
+<td><span lang="fonipa">&#47;<strong>oʊ</strong>keɪ&#47;</span></td>
+<td>bien, pas grave</td>
+<td>97</td>
+<td></td>
+</tr>
+<tr>
+<td>great</td>
+<td><span lang="fonipa">&#47;gɹeɪt&#47;</span></td>
+<td>génial</td>
+<td>100</td>
+<td></td>
+</tr>
+<tr>
+<td>sorry</td>
+<td><span lang="fonipa">&#47;<strong>sɑ</strong>ɹi&#47;</span></td>
+<td>désolé</td>
+<td>106</td>
+<td></td>
+</tr>
+<tr>
+<td>big</td>
+<td><span lang="fonipa">&#47;bɪg&#47;</span></td>
+<td>gros, grand</td>
+<td>120</td>
+<td></td>
+</tr>
+<tr>
+<td>sure</td>
+<td><span lang="fonipa">&#47;ʃʊɹ&#47;</span></td>
+<td>sûr, certain</td>
+<td>127</td>
+<td></td>
+</tr>
+<tr>
+<td>bad</td>
+<td><span lang="fonipa">&#47;bæd&#47;</span></td>
+<td>mauvais</td>
+<td>138</td>
+<td></td>
+</tr>
+<tr>
+<td>nice</td>
+<td><span lang="fonipa">&#47;naɪs&#47;</span></td>
+<td>gentil, sympa</td>
+<td>156</td>
+<td></td>
+</tr>
+<tr>
+<td>new</td>
+<td><span lang="fonipa">&#47;nu&#47;</span></td>
+<td>nouveau</td>
+<td>157</td>
+<td></td>
+</tr>
+<tr>
+<td>fine</td>
+<td><span lang="fonipa">&#47;faɪn&#47;</span></td>
+<td>bon, bien</td>
+<td>164</td>
+<td></td>
+</tr>
+<tr>
+<td>old</td>
+<td><span lang="fonipa">&#47;oʊɫd&#47;</span></td>
+<td>vieux</td>
+<td>184</td>
+<td></td>
+</tr>
+<tr>
+<td>other</td>
+<td><span lang="fonipa">&#47;<strong>ə</strong>ðɝ&#47;</span></td>
+<td>autre</td>
+<td>205</td>
+<td></td>
+</tr>
+<tr>
+<td>wrong</td>
+<td><span lang="fonipa">&#47;ɹɔŋ&#47;</span></td>
+<td>faux</td>
+<td>208</td>
+<td></td>
+</tr>
+<tr>
+<td>late</td>
+<td><span lang="fonipa">&#47;ɫeɪt&#47;</span></td>
+<td>tard</td>
+<td>213</td>
+<td></td>
+</tr>
+<tr>
+<td>real</td>
+<td><span lang="fonipa">&#47;ɹiɫ&#47;</span></td>
+<td>réel, vrai</td>
+<td>223</td>
+<td></td>
+</tr>
+<tr>
+<td>happy</td>
+<td><span lang="fonipa">&#47;<strong>hæ</strong>pi&#47;</span></td>
+<td>heureux</td>
+<td>224</td>
+<td></td>
+</tr>
+<tr>
+<td>whole</td>
+<td><span lang="fonipa">&#47;hoʊɫ&#47;</span></td>
+<td>entier</td>
+<td>225</td>
+<td></td>
+</tr>
+<tr>
+<td>stupid</td>
+<td><span lang="fonipa">&#47;<strong>stu</strong>pəd&#47;</span></td>
+<td>stupide</td>
+<td>244</td>
+<td></td>
+</tr>
+<tr>
+<td>pretty</td>
+<td><span lang="fonipa">&#47;<strong>pɹɪ</strong>ti&#47;</span></td>
+<td>joli</td>
+<td>253</td>
+<td></td>
+</tr>
+<tr>
+<td>own</td>
+<td><span lang="fonipa">&#47;oʊn&#47;</span></td>
+<td>propre</td>
+<td>258</td>
+<td></td>
+</tr>
+<tr>
+<td>funny</td>
+<td><span lang="fonipa">&#47;<strong>fə</strong>ni&#47;</span></td>
+<td>marrant</td>
+<td>265</td>
+<td></td>
+</tr>
+<tr>
+<td>hard</td>
+<td><span lang="fonipa">&#47;hɑɹd&#47;</span></td>
+<td>dur</td>
+<td>269</td>
+<td></td>
+</tr>
+<tr>
+<td>cool</td>
+<td><span lang="fonipa">&#47;kuɫ&#47;</span></td>
+<td>frais, super</td>
+<td>281</td>
+<td></td>
+</tr>
+<tr>
+<td>crazy</td>
+<td><span lang="fonipa">&#47;<strong>kɹeɪ</strong>zi&#47;</span></td>
+<td>fou</td>
+<td>286</td>
+<td></td>
+</tr>
+<tr>
+<td>hot</td>
+<td><span lang="fonipa">&#47;hɑt&#47;</span></td>
+<td>chaud</td>
+<td>288</td>
+<td></td>
+</tr>
+<tr>
+<td>same</td>
+<td><span lang="fonipa">&#47;seɪm&#47;</span></td>
+<td>même</td>
+<td>295</td>
+<td></td>
+</tr>
+<tr>
+<td>ready</td>
+<td><span lang="fonipa">&#47;<strong>ɹɛ</strong>di&#47;</span></td>
+<td>prêt</td>
+<td>297</td>
+<td></td>
+</tr>
+<tr>
+<td>next</td>
+<td><span lang="fonipa">&#47;nɛkst&#47;</span></td>
+<td>prochain, suivant</td>
+<td>315</td>
+<td></td>
+</tr>
+<tr>
+<td>dead</td>
+<td><span lang="fonipa">&#47;dɛd&#47;</span></td>
+<td>mort</td>
+<td>333</td>
+<td></td>
+</tr>
+<tr>
+<td>beautiful</td>
+<td><span lang="fonipa">&#47;<strong>bju</strong>təfəɫ&#47;</span></td>
+<td>beau</td>
+<td>346</td>
+<td></td>
+</tr>
+<tr>
+<td>true</td>
+<td><span lang="fonipa">&#47;tɹu&#47;</span></td>
+<td>vrai</td>
+<td>354</td>
+<td></td>
+</tr>
+<tr>
+<td>sweet</td>
+<td><span lang="fonipa">&#47;swit&#47;</span></td>
+<td>sucré, doux</td>
+<td>355</td>
+<td></td>
+</tr>
+<tr>
+<td>high</td>
+<td><span lang="fonipa">&#47;haɪ&#47;</span></td>
+<td>haut</td>
+<td>360</td>
+<td></td>
+</tr>
+<tr>
+<td>only</td>
+<td><span lang="fonipa">&#47;<strong>oʊn</strong>ɫi&#47;</span></td>
+<td>seul</td>
+<td>368</td>
+<td></td>
+</tr>
+<tr>
+<td>gay</td>
+<td><span lang="fonipa">&#47;geɪ&#47;</span></td>
+<td>gai, homosexuel</td>
+<td>372</td>
+<td></td>
+</tr>
+<tr>
+<td>easy</td>
+<td><span lang="fonipa">&#47;<strong>i</strong>zi&#47;</span></td>
+<td>facile</td>
+<td>377</td>
+<td></td>
+</tr>
+<tr>
+<td>perfect</td>
+<td><span lang="fonipa">&#47;<strong>pɝ</strong>fɛkt&#47;</span></td>
+<td>parfait</td>
+<td>383</td>
+<td></td>
+</tr>
+<tr>
+<td>free</td>
+<td><span lang="fonipa">&#47;fɹi&#47;</span></td>
+<td>libre, gratuit</td>
+<td>385</td>
+<td></td>
+</tr>
+<tr>
+<td>young</td>
+<td><span lang="fonipa">&#47;jəŋ&#47;</span></td>
+<td>jeune</td>
+<td>386</td>
+<td></td>
+</tr>
+<tr>
+<td>weird</td>
+<td><span lang="fonipa">&#47;wɪɹd&#47;</span></td>
+<td>bizarre</td>
+<td>387</td>
+<td></td>
+</tr>
+<tr>
+<td>important</td>
+<td><span lang="fonipa">&#47;ɪm<strong>pɔɹ</strong>tənt&#47;</span></td>
+<td>important</td>
+<td>400</td>
+<td></td>
+</tr>
+<tr>
+<td>long</td>
+<td><span lang="fonipa">&#47;ɫɔŋ&#47;</span></td>
+<td>long</td>
+<td>403</td>
+<td></td>
+</tr>
+<tr>
+<td>fat</td>
+<td><span lang="fonipa">&#47;fæt&#47;</span></td>
+<td>gros</td>
+<td>404</td>
+<td></td>
+</tr>
+<tr>
+<td>different</td>
+<td><span lang="fonipa">&#47;<strong>dɪ</strong>fɝənt&#47;</span></td>
+<td>différent</td>
+<td>425</td>
+<td></td>
+</tr>
+<tr>
+<td>special</td>
+<td><span lang="fonipa">&#47;<strong>spɛ</strong>ʃəɫ&#47;</span></td>
+<td>spécial</td>
+<td>435</td>
+<td></td>
+</tr>
+<tr>
+<td>black</td>
+<td><span lang="fonipa">&#47;bɫæk&#47;</span></td>
+<td>noir</td>
+<td>451</td>
+<td></td>
+</tr>
+<tr>
+<td>awesome</td>
+<td><span lang="fonipa">&#47;<strong>ɔ</strong>səm&#47;</span></td>
+<td>génial</td>
+<td>459</td>
+<td></td>
+</tr>
+<tr>
+<td>sick</td>
+<td><span lang="fonipa">&#47;sɪk&#47;</span></td>
+<td>malade</td>
+<td>460</td>
+<td></td>
+</tr>
+<tr>
+<td>afraid</td>
+<td><span lang="fonipa">&#47;əf<strong>ɹeɪd</strong>&#47;</span></td>
+<td>effrayé</td>
+<td>475</td>
+<td></td>
+</tr>
+<tr>
+<td>cute</td>
+<td><span lang="fonipa">&#47;kjut&#47;</span></td>
+<td>mignon</td>
+<td>477</td>
+<td></td>
+</tr>
+<tr>
+<td>close</td>
+<td><span lang="fonipa">&#47;kɫoʊs&#47;</span></td>
+<td>proche</td>
+<td>478</td>
+<td></td>
+</tr>
+<tr>
+<td>full</td>
+<td><span lang="fonipa">&#47;fʊɫ&#47;</span></td>
+<td>plein</td>
+<td>483</td>
+<td></td>
+</tr>
+<tr>
+<td>glad</td>
+<td><span lang="fonipa">&#47;gɫæd&#47;</span></td>
+<td>content</td>
+<td>496</td>
+<td></td>
+</tr>
+<tr>
+<td>terrible</td>
+<td><span lang="fonipa">&#47;<strong>tɛ</strong>ɹəbəɫ&#47;</span></td>
+<td>terrible</td>
+<td>511</td>
+<td></td>
+</tr>
+<tr>
+<td>serious</td>
+<td><span lang="fonipa">&#47;<strong>sɪ</strong>ɹiəs&#47;</span></td>
+<td>sérieux</td>
+<td>519</td>
+<td></td>
+</tr>
+<tr>
+<td>alone</td>
+<td><span lang="fonipa">&#47;ə<strong>ɫoʊn</strong>&#47;</span></td>
+<td>seul</td>
+<td>528</td>
+<td></td>
+</tr>
+<tr>
+<td>small</td>
+<td><span lang="fonipa">&#47;smɔɫ&#47;</span></td>
+<td>petit</td>
+<td>541</td>
+<td></td>
+</tr>
+<tr>
+<td>welcome</td>
+<td><span lang="fonipa">&#47;<strong>wɛɫ</strong>kəm&#47;</span></td>
+<td>bienvenu</td>
+<td>549</td>
+<td></td>
+</tr>
+<tr>
+<td>white</td>
+<td><span lang="fonipa">&#47;waɪt&#47;</span></td>
+<td>blanc</td>
+<td>551</td>
+<td></td>
+</tr>
+<tr>
+<td>early</td>
+<td><span lang="fonipa">&#47;<strong>ɝ</strong>ɫi&#47;</span></td>
+<td>tôt</td>
+<td>555</td>
+<td></td>
+</tr>
+<tr>
+<td>wonderful</td>
+<td><span lang="fonipa">&#47;<strong>wən</strong>dɝfəɫ&#47;</span></td>
+<td>merveilleux</td>
+<td>557</td>
+<td></td>
+</tr>
+<tr>
+<td>dear</td>
+<td><span lang="fonipa">&#47;dɪɹ&#47;</span></td>
+<td>cher</td>
+<td>562</td>
+<td></td>
+</tr>
+<tr>
+<td>smart</td>
+<td><span lang="fonipa">&#47;smɑɹt&#47;</span></td>
+<td>intelligent</td>
+<td>564</td>
+<td></td>
+</tr>
+<tr>
+<td>red</td>
+<td><span lang="fonipa">&#47;ɹɛd&#47;</span></td>
+<td>rouge</td>
+<td>574</td>
+<td></td>
+</tr>
+<tr>
+<td>mad</td>
+<td><span lang="fonipa">&#47;mæd&#47;</span></td>
+<td>en colère</td>
+<td>582</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2
+  id="Les_interjections_les_plus_courantes_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Les_interjections_les_plus_courantes_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Les interjections les plus courantes en anglais</h2>
+<p><strong>Les interjections</strong> sont de petits mots très utiles que l'on néglige souvent. Elles expriment des émotions, des sentiments et des réactions, et vous seront donc très utiles dans une conversation !</p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>oh</td>
+<td><span lang="fonipa">&#47;oʊ&#47;</span></td>
+<td>eh, oh</td>
+<td>22</td>
+</tr>
+<tr>
+<td>hey</td>
+<td><span lang="fonipa">&#47;heɪ&#47;</span></td>
+<td>salut, hé</td>
+<td>50</td>
+</tr>
+<tr>
+<td>uh</td>
+<td><span lang="fonipa">&#47;ə&#47;</span></td>
+<td>euh</td>
+<td>66</td>
+</tr>
+<tr>
+<td>God</td>
+<td><span lang="fonipa">&#47;gɑd&#47;</span></td>
+<td>Dieu</td>
+<td>115</td>
+</tr>
+<tr>
+<td>right</td>
+<td><span lang="fonipa">&#47;ɹaɪt&#47;</span></td>
+<td>hein, n'est-ce pas</td>
+<td>142</td>
+</tr>
+<tr>
+<td>hi</td>
+<td><span lang="fonipa">&#47;haɪ&#47;</span></td>
+<td>salut</td>
+<td>154</td>
+</tr>
+<tr>
+<td>hello</td>
+<td><span lang="fonipa">&#47;hə<strong>ɫoʊ</strong>&#47;</span></td>
+<td>bonjour</td>
+<td>165</td>
+</tr>
+<tr>
+<td>hmm</td>
+<td><span lang="fonipa">&#47;həm&#47;</span></td>
+<td>heu, hum</td>
+<td>177</td>
+</tr>
+<tr>
+<td>huh</td>
+<td><span lang="fonipa">&#47;hə&#47;</span></td>
+<td>hein, bof, quoi</td>
+<td>180</td>
+</tr>
+<tr>
+<td>wow</td>
+<td><span lang="fonipa">&#47;waʊ&#47;</span></td>
+<td>waouh</td>
+<td>189</td>
+</tr>
+<tr>
+<td>thanks</td>
+<td><span lang="fonipa">&#47;θæŋks&#47;</span></td>
+<td>merci</td>
+<td>191</td>
+</tr>
+<tr>
+<td>ah</td>
+<td><span lang="fonipa">&#47;ɑ&#47;</span></td>
+<td>ah, oh</td>
+<td>217</td>
+</tr>
+<tr>
+<td>whoa</td>
+<td><span lang="fonipa">&#47;woʊ&#47;</span></td>
+<td>holà</td>
+<td>278</td>
+</tr>
+<tr>
+<td>aw</td>
+<td><span lang="fonipa">&#47;ɔ&#47;</span></td>
+<td>oh !</td>
+<td>336</td>
+</tr>
+<tr>
+<td>ha</td>
+<td><span lang="fonipa">&#47;hɑ&#47;</span></td>
+<td>ha ha</td>
+<td>399</td>
+</tr>
+<tr>
+<td>bye</td>
+<td><span lang="fonipa">&#47;baɪ&#47;</span></td>
+<td>au revoir, salut</td>
+<td>457</td>
+</tr>
+<tr>
+<td>sorry</td>
+<td><span lang="fonipa">&#47;<strong>sɑ</strong>ɹi&#47;</span></td>
+<td>désolé</td>
+<td>462</td>
+</tr>
+<tr>
+<td>damn</td>
+<td><span lang="fonipa">&#47;dæm&#47;</span></td>
+<td>zut</td>
+<td>513</td>
+</tr>
+<tr>
+<td>mm-hmm</td>
+<td></td>
+<td>oui oui</td>
+<td>514</td>
+</tr>
+<tr>
+<td>eh</td>
+<td><span lang="fonipa">&#47;ɛ&#47;</span></td>
+<td>hein</td>
+<td>530</td>
+</tr>
+<tr>
+<td>shh</td>
+<td><span lang="fonipa">&#47;ʃ&#47;</span></td>
+<td>chut</td>
+<td>566</td>
+</tr>
+</tbody>
+</table>
+<p><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Les mots les plus utilisés en anglais" data-src="https://blog-content.bilingueanglais.com/uploads/2020/08/Wow-je-peux-déjà-comprendre-85-de-langlais-oral.jpg" decoding="async" class="lazyload ewww_webp_lazy_load" data-src-webp="https://blog-content.bilingueanglais.com/uploads/2020/08/Wow-je-peux-déjà-comprendre-85-de-langlais-oral.jpg.webp" /><noscript><img src="https://blog-content.bilingueanglais.com/uploads/2020/08/Wow-je-peux-déjà-comprendre-85-de-langlais-oral.jpg" alt="Les mots les plus utilisés en anglais" data-eio="l" /></noscript>
+<em><span lang="en">Wow</span>, je peux déjà <a href="https://bilingueanglais.com/blog/552/comment-comprendre-anglais-parle/">comprendre 85 % de l'anglais oral</a> !</em></p>
+<h2
+  id="Les_nombres_les_plus_utilises_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Les_nombres_les_plus_utilises_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Les nombres les plus utilisés en anglais</h2>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>one</td>
+<td><span lang="fonipa">&#47;wən&#47;</span></td>
+<td>un, une</td>
+<td>49</td>
+</tr>
+<tr>
+<td>two</td>
+<td><span lang="fonipa">&#47;tu&#47;</span></td>
+<td>deux</td>
+<td>113</td>
+</tr>
+<tr>
+<td>first</td>
+<td><span lang="fonipa">&#47;fɝst&#47;</span></td>
+<td>premier, première</td>
+<td>143</td>
+</tr>
+<tr>
+<td>three</td>
+<td><span lang="fonipa">&#47;θɹi&#47;</span></td>
+<td>trois</td>
+<td>188</td>
+</tr>
+<tr>
+<td>five</td>
+<td><span lang="fonipa">&#47;faɪv&#47;</span></td>
+<td>cinq</td>
+<td>259</td>
+</tr>
+<tr>
+<td>second</td>
+<td><span lang="fonipa">&#47;<strong>sɛ</strong>kənd&#47;</span></td>
+<td>deuxième</td>
+<td>260</td>
+</tr>
+<tr>
+<td>four</td>
+<td><span lang="fonipa">&#47;fɔɹ&#47;</span></td>
+<td>quatre</td>
+<td>317</td>
+</tr>
+<tr>
+<td>last</td>
+<td><span lang="fonipa">&#47;ɫæst&#47;</span></td>
+<td>dernier, dernière</td>
+<td>318</td>
+</tr>
+<tr>
+<td>ten</td>
+<td><span lang="fonipa">&#47;tɛn&#47;</span></td>
+<td>dix</td>
+<td>360</td>
+</tr>
+<tr>
+<td>six</td>
+<td><span lang="fonipa">&#47;sɪks&#47;</span></td>
+<td>six</td>
+<td>428</td>
+</tr>
+<tr>
+<td>zero</td>
+<td><span lang="fonipa">&#47;<strong>zi</strong>ɹoʊ&#47;</span></td>
+<td>zéro</td>
+<td>525</td>
+</tr>
+<tr>
+<td>eight</td>
+<td><span lang="fonipa">&#47;eɪt&#47;</span></td>
+<td>huit</td>
+<td>532</td>
+</tr>
+<tr>
+<td>twenty</td>
+<td><span lang="fonipa">&#47;<strong>twɛn</strong>ti&#47;</span></td>
+<td>vingt</td>
+<td>533</td>
+</tr>
+<tr>
+<td>seven</td>
+<td><span lang="fonipa">&#47;<strong>sɛ</strong>vən&#47;</span></td>
+<td>sept</td>
+<td>535</td>
+</tr>
+</tbody>
+</table>
+<p>🔢 Découvrez tous <a href="https://bilingueanglais.com/blog/1869/chiffres-en-anglais/">les chiffres</a> et tous <a href="https://bilingueanglais.com/blog/22741/nombres-ordinaux-anglais/">les nombres ordinaux</a> en anglais !</p>
+<h2
+  id="Les_noms_propres_les_plus_utilises_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Les_noms_propres_les_plus_utilises_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Les noms propres les plus utilisés en anglais</h2>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>God</td>
+<td><span lang="fonipa">&#47;gɑd&#47;</span></td>
+<td>Dieu</td>
+<td>275</td>
+</tr>
+<tr>
+<td>Christmas</td>
+<td><span lang="fonipa">&#47;<strong>kɹɪs</strong>məs&#47;</span></td>
+<td>Noël</td>
+<td>364</td>
+</tr>
+<tr>
+<td>American</td>
+<td><span lang="fonipa">&#47;ə<strong>mɛ</strong>ɹɪkən&#47;</span></td>
+<td>américain, américaine</td>
+<td>592</td>
+</tr>
+<tr>
+<td>Earth</td>
+<td><span lang="fonipa">&#47;ɝθ&#47;</span></td>
+<td>Terre</td>
+<td>715</td>
+</tr>
+<tr>
+<td>Santa</td>
+<td><span lang="fonipa">&#47;<strong>sæn</strong>tə&#47;</span></td>
+<td>Père Noël</td>
+<td>756</td>
+</tr>
+<tr>
+<td>Saturday</td>
+<td><span lang="fonipa">&#47;<strong>sæ</strong>tɝdi&#47;</span></td>
+<td>samedi</td>
+<td>763</td>
+</tr>
+<tr>
+<td>Jew</td>
+<td><span lang="fonipa">&#47;dʒu&#47;</span></td>
+<td>juif</td>
+<td>910</td>
+</tr>
+<tr>
+<td>Friday</td>
+<td><span lang="fonipa">&#47;<strong>fɹaɪ</strong>di&#47;</span></td>
+<td>vendredi</td>
+<td>933</td>
+</tr>
+<tr>
+<td>Chinese</td>
+<td><span lang="fonipa">&#47;tʃaɪ<strong>niz</strong>&#47;</span></td>
+<td>chinois, chinoise</td>
+<td>942</td>
+</tr>
+<tr>
+<td>Internet</td>
+<td><span lang="fonipa">&#47;ɪntɝ<strong>nɛt</strong>&#47;</span></td>
+<td>Internet</td>
+<td>964</td>
+</tr>
+</tbody>
+</table>
+<p>📅 L'autre raison pour laquelle j'aime bien la liste de fréquence, c'est qu'elle nous donne aussi des informations intéressantes sur la vie et la culture des anglophones. Par exemple, remarquez-vous que <a href="https://bilingueanglais.com/blog/296/les-jours-de-la-semaine-en-anglais/">les jours de la semaine</a> sont parmi les noms propres les plus courants en anglais ? C'est intéressant de voir que les anglophones parlent plus souvent des vendredi et samedi que du lundi ! Ou était-ce évident ?</p>
+<p>N'oubliez pas que les mots en lien avec la <a href="https://bilingueanglais.com/blog/54540/pays-nationalites-anglais/">nationalité</a> peuvent être utilisés en tant que noms ET en tant qu'adjectifs :</p>
+<ul>
+<li><span lang="en">He's French.</span> = Il est français.</li>
+<li><span lang="en">She's learning French.</span> = Elle apprend le français. </li>
+<li><span lang="en">The French drink a lot of wine.</span> = Les Français boivent beaucoup de vin. </li>
+</ul>
+<h2
+  id="Les_abreviations_les_plus_courantes_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Les_abreviations_les_plus_courantes_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Les <a href="https://bilingueanglais.com/blog/4861/langage-sms-anglais/">abréviations</a> les plus courantes en anglais</h2>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AIDS</td>
+<td><span lang="fonipa">&#47;eɪdz&#47;</span></td>
+<td>SIDA</td>
+<td>1725</td>
+</tr>
+<tr>
+<td>DVD</td>
+<td><span lang="fonipa">&#47;dividi&#47;</span></td>
+<td>DVD</td>
+<td>1875</td>
+</tr>
+<tr>
+<td>CD</td>
+<td><span lang="fonipa">&#47;sidi&#47;</span></td>
+<td>CD</td>
+<td>2725</td>
+</tr>
+<tr>
+<td><a href="https://bilingueanglais.com/blog/19951/heure-en-anglais/">a.m.</a></td>
+<td><span lang="fonipa">&#47;eɪem&#47;</span></td>
+<td>du matin</td>
+<td>3027</td>
+</tr>
+<tr>
+<td>DNA</td>
+<td><span lang="fonipa">&#47;diɛneɪ&#47;</span></td>
+<td>ADN</td>
+<td>3458</td>
+</tr>
+</tbody>
+</table>
+<p>📱 Les abréviations sont très courantes dans <a href="https://bilingueanglais.com/blog/4861/langage-sms-anglais/">le langage SMS en anglais</a> !</p>
+<h1
+  id="Comment_apprendre_ce_vocabulaire"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Comment_apprendre_ce_vocabulaire"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Comment apprendre ce vocabulaire ?</h1>
+<p>Avoir une liste des mots les plus utilisés en anglais, c'est bien, mais <strong>comment les apprendre ?</strong> Voici notre <a href="https://bilingueanglais.com/blog/55/la-check-list-pour-l-anglais/">check-list</a> pour apprendre le <a href="https://bilingueanglais.com/blog/rubriques/vocabulaire-anglais/">vocabulaire en anglais</a> : </p>
+<ul>
+<li>Apprenez toutes les formes du mot (elles sont disponibles sur <a href="http://frequencylist.com/">FrequencyList.com</a> ) ;</li>
+<li>Apprenez la bonne <a href="https://bilingueanglais.com/blog/rubriques/orthographe-anglaise/">orthographe</a> du mot ;</li>
+<li>Apprenez la bonne prononciation du mot : en regardant <a href="https://bilingueanglais.com/blog/682/transcription-phonetique-anglais/">leur transcription phonétique</a> et en écoutant un enregistrement du mot prononcé ; </li>
+<li>Connaissez-vous le <a href="https://bilingueanglais.com/blog/5161/registres-de-langue-anglais/">registre</a> dans lequel on utilise ce mot ? C'est-à-dire, est-ce un mot neutre, familier, vulgaire, etc. ? </li>
+<li>Apprenez le mot utilisé en contexte pour connaître ses différents sens : soit dans un <a href="https://sentence.yourdictionary.com/">dictionnaire</a> ou sur un site tel que <a href="http://youglish.com/">Youglish</a>.</li>
+</ul>
+<p>Toutes ces étapes sont un bon début pour maîtriser un mot en anglais, il faudra ensuite le réviser et la façon la plus intelligente et la plus efficace de le faire est avec <a href="https://bilingueanglais.com/decouvrez-clicknspeak/#rythme-ultradien">une répétition espacée</a>. En bref,  après avoir étudié quelque chose (que ce soit un mot anglais ou un fait historique, par exemple), il est certain qu'on l'oublie au bout d'un moment. La répétition espacée remet en mémoire ce que vous êtes sur le point d'oublier et l'ancre ainsi plus profondément dans votre mémoire pour y rester plus longtemps. C'est le système de révision que l'on utilise sur <a href="https://bilingueanglais.com/decouvrez-clicknspeak/">Click &amp; Speak</a> grâce auquel les utilisateurs arrivent à trouver leurs mots en anglais !</p>
+<h1
+  id="Et_maintenant"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Et_maintenant"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Et maintenant ?</h1>
+<p>Comment continuer son apprentissage si on connaît déjà les 600 mots les plus utilisés en anglais ? Voici quelques idées... </p>
+<h1
+  id="Quel_vocabulaire_apprendre_en_anglais_a_votre_niveau"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Quel_vocabulaire_apprendre_en_anglais_a_votre_niveau"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Quel vocabulaire apprendre en anglais à votre niveau ?</h1>
+<p>Si vous visez un des niveaux du CECRL, vous savez certainement qu'il y a <a href="https://bilingueanglais.com/blog/1728/combien-de-mots-anglais/">un certain nombre de mots</a> (ou plutôt une estimation) qu'on doit maîtriser. On vient de voir tout le vocabulaire nécessaire pour atteindre le niveau A1 en anglais, on va vous offrir un petit échantillon du vocabulaire nécessaire pour atteindre chacun des niveaux suivants avec une dizaine de mots pour vous illustrer la richesse de vocabulaire qu'il faut obtenir. Vous avez accès à la liste de fréquence complète sur le site <a href="https://frequencylist.com/">FrequencyList.com</a> : </p>
+<h2
+  id="Vocabulaire_pour_le_niveau_A2_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Vocabulaire_pour_le_niveau_A2_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Vocabulaire pour le niveau A2 en anglais</h2>
+<p>Pour <a href="https://bilingueanglais.com/blog/49461/niveau-a2-anglais/">atteindre le niveau A2</a>, vous devez apprendre <strong>les 1600 mots les plus utilisés en anglais</strong>. En voici un échantillon :</p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>light</td>
+<td><span lang="fonipa">&#47;ɫaɪt&#47;</span></td>
+<td>léger, lumière</td>
+<td>605</td>
+</tr>
+<tr>
+<td>mistake</td>
+<td><span lang="fonipa">&#47;mɪ<strong>steɪk</strong>&#47;</span></td>
+<td>faute, erreur</td>
+<td>619</td>
+</tr>
+<tr>
+<td>far</td>
+<td><span lang="fonipa">&#47;fɑɹ&#47;</span></td>
+<td>loin</td>
+<td>625</td>
+</tr>
+<tr>
+<td>answer</td>
+<td><span lang="fonipa">&#47;<strong>æn</strong>sɝ&#47;</span></td>
+<td>réponse</td>
+<td>640</td>
+</tr>
+<tr>
+<td>safe</td>
+<td><span lang="fonipa">&#47;seɪf&#47;</span></td>
+<td>sûr</td>
+<td>659</td>
+</tr>
+<tr>
+<td>fix</td>
+<td><span lang="fonipa">&#47;fɪks&#47;</span></td>
+<td>réparer, corriger</td>
+<td>672</td>
+</tr>
+<tr>
+<td>burn</td>
+<td><span lang="fonipa">&#47;bɝn&#47;</span></td>
+<td>brûler, graver</td>
+<td>690</td>
+</tr>
+<tr>
+<td>push</td>
+<td><span lang="fonipa">&#47;pʊʃ&#47;</span></td>
+<td>pousser</td>
+<td>698</td>
+</tr>
+<tr>
+<td>floor</td>
+<td><span lang="fonipa">&#47;fɫɔɹ&#47;</span></td>
+<td>sol, étage</td>
+<td>706</td>
+</tr>
+<tr>
+<td>share</td>
+<td><span lang="fonipa">&#47;ʃɛɹ&#47;</span></td>
+<td>partager</td>
+<td>715</td>
+</tr>
+</tbody>
+</table>
+<h2
+  id="Vocabulaire_pour_le_niveau_B1_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Vocabulaire_pour_le_niveau_B1_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Vocabulaire pour le niveau B1 en anglais</h2>
+<p>Pour <a href="https://bilingueanglais.com/blog/50841/niveau-b1-anglais/">atteindre le niveau B1</a>, vous devez apprendre <strong>les 2700 mots les plus utilisés en anglais</strong>. Voici un échantillon de ces mots-là :</p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>midnight</td>
+<td><span lang="fonipa">&#47;<strong>mɪd</strong>naɪt&#47;</span></td>
+<td>minuit</td>
+<td>1704</td>
+</tr>
+<tr>
+<td>candle</td>
+<td><span lang="fonipa">&#47;<strong>kæn</strong>dəɫ&#47;</span></td>
+<td>bougie</td>
+<td>1714</td>
+</tr>
+<tr>
+<td>nowhere</td>
+<td><span lang="fonipa">&#47;<strong>noʊ</strong>wɛɹ&#47;</span></td>
+<td>nulle part</td>
+<td>1728</td>
+</tr>
+<tr>
+<td>pet</td>
+<td><span lang="fonipa">&#47;pɛt&#47;</span></td>
+<td>animal de compagnie</td>
+<td>1740</td>
+</tr>
+<tr>
+<td>twin</td>
+<td><span lang="fonipa">&#47;twɪn&#47;</span></td>
+<td>jumeau, jumelle</td>
+<td>1750</td>
+</tr>
+<tr>
+<td>successful</td>
+<td><span lang="fonipa">&#47;sək<strong>sɛs</strong>fəɫ&#47;</span></td>
+<td>réussi</td>
+<td>1769</td>
+</tr>
+<tr>
+<td>nap</td>
+<td><span lang="fonipa">&#47;næp&#47;</span></td>
+<td>sieste</td>
+<td>1787</td>
+</tr>
+<tr>
+<td>throat</td>
+<td><span lang="fonipa">&#47;θɹoʊt&#47;</span></td>
+<td>gorge</td>
+<td>1804</td>
+</tr>
+<tr>
+<td>regret</td>
+<td><span lang="fonipa">&#47;ɹə<strong>ɡɹɛt</strong>&#47;</span></td>
+<td>regretter</td>
+<td>1819</td>
+</tr>
+<tr>
+<td>fashion</td>
+<td><span lang="fonipa">&#47;<strong>fæ</strong>ʃən&#47;</span></td>
+<td>mode</td>
+<td>1840</td>
+</tr>
+</tbody>
+</table>
+<h2
+  id="Vocabulaire_pour_le_niveau_B2_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Vocabulaire_pour_le_niveau_B2_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Vocabulaire pour le niveau B2 en anglais</h2>
+<p>Pour <a href="https://bilingueanglais.com/blog/51641/niveau-b2-anglais/">le niveau B2</a>, vous devez maîtriser <strong>les 3700 mots les plus utilisés en anglais</strong>. En voici quelques-uns :</p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ant</td>
+<td><span lang="fonipa">&#47;ænt&#47;</span></td>
+<td>fourmi</td>
+<td>2701</td>
+</tr>
+<tr>
+<td>spy</td>
+<td><span lang="fonipa">&#47;spaɪ&#47;</span></td>
+<td>espionner</td>
+<td>2714</td>
+</tr>
+<tr>
+<td>dice</td>
+<td><span lang="fonipa">&#47;daɪs&#47;</span></td>
+<td>dés</td>
+<td>2727</td>
+</tr>
+<tr>
+<td>cube</td>
+<td><span lang="fonipa">&#47;kjub&#47;</span></td>
+<td>cube</td>
+<td>2743</td>
+</tr>
+<tr>
+<td>likely</td>
+<td><span lang="fonipa">&#47;<strong>ɫaɪk</strong>ɫi&#47;</span></td>
+<td>probable</td>
+<td>2754</td>
+</tr>
+<tr>
+<td>priest</td>
+<td><span lang="fonipa">&#47;pɹist&#47;</span></td>
+<td>prêtre</td>
+<td>2759</td>
+</tr>
+<tr>
+<td>delete</td>
+<td><span lang="fonipa">&#47;dɪ<strong>ɫit</strong>&#47;</span></td>
+<td>supprimer</td>
+<td>2766</td>
+</tr>
+<tr>
+<td>slightly</td>
+<td><span lang="fonipa">&#47;<strong>sɫaɪt</strong>ɫi&#47;</span></td>
+<td>légèrement</td>
+<td>2776</td>
+</tr>
+<tr>
+<td>progress</td>
+<td><span lang="fonipa">&#47;pɹɑ<strong>ɡɹɛs</strong>&#47;</span></td>
+<td>progresser</td>
+<td>2788</td>
+</tr>
+<tr>
+<td>chop</td>
+<td><span lang="fonipa">&#47;tʃɑp&#47;</span></td>
+<td>couper, hacher</td>
+<td>2800</td>
+</tr>
+</tbody>
+</table>
+<h2
+  id="Vocabulaire_pour_le_niveau_C1_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Vocabulaire_pour_le_niveau_C1_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Vocabulaire pour le niveau C1 en anglais</h2>
+<p>Pour <a href="https://bilingueanglais.com/blog/52021/niveau-c1-anglais/">le niveau C1</a>, celui que la plupart des universités et des entreprises exigent, vous devez apprendre <strong>les 4700 mots les plus utilisés en anglais</strong>. Voici quelques-uns de ces mots afin de vous rendre compte de la richesse de vocabulaire dont vous aurez besoin :</p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>burglar</td>
+<td><span lang="fonipa">&#47;<strong>bɝg</strong>ɫɝ&#47;</span></td>
+<td>cambrioleur</td>
+<td>3705</td>
+</tr>
+<tr>
+<td>flu</td>
+<td><span lang="fonipa">&#47;fɫu&#47;</span></td>
+<td>grippe</td>
+<td>3713</td>
+</tr>
+<tr>
+<td>roast</td>
+<td><span lang="fonipa">&#47;ɹoʊst&#47;</span></td>
+<td>rôtir</td>
+<td>3726</td>
+</tr>
+<tr>
+<td>web</td>
+<td><span lang="fonipa">&#47;wɛb&#47;</span></td>
+<td>la toile, toile d'arraignée</td>
+<td>3738</td>
+</tr>
+<tr>
+<td>depressing</td>
+<td><span lang="fonipa">&#47;dɪ<strong>pɹɛ</strong>sɪŋ&#47;</span></td>
+<td>déprimant</td>
+<td>3749</td>
+</tr>
+<tr>
+<td>fluffy</td>
+<td><span lang="fonipa">&#47;<strong>fɫə</strong>fi&#47;</span></td>
+<td>duveteux</td>
+<td>3756</td>
+</tr>
+<tr>
+<td>shrink</td>
+<td><span lang="fonipa">&#47;ʃɹɪŋk&#47;</span></td>
+<td>diminuer, psy</td>
+<td>3770</td>
+</tr>
+<tr>
+<td>wrist</td>
+<td><span lang="fonipa">&#47;ɹɪst&#47;</span></td>
+<td>poignet</td>
+<td>3779</td>
+</tr>
+<tr>
+<td>instruction</td>
+<td><span lang="fonipa">&#47;ɪns<strong>tɹək</strong>ʃən&#47;</span></td>
+<td>instruction</td>
+<td>3796</td>
+</tr>
+<tr>
+<td>nag</td>
+<td><span lang="fonipa">&#47;næg&#47;</span></td>
+<td>critiquer constamment</td>
+<td>3804</td>
+</tr>
+</tbody>
+</table>
+<h2
+  id="Vocabulaire_pour_le_niveau_C2_en_anglais"
+
+  class="toc_heading not-prose"
+  style="padding-left: 2rem; position: relative; left: -2rem;"
+>
+  <a
+	aria-label="Ancre du lien"
+    href="#Vocabulaire_pour_le_niveau_C2_en_anglais"
+    style="display: block;">
+    <div style="position: absolute;">
+      <!-- Heroicon name: outline/link, https://heroicons.com/ -->
+      <svg
+        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true"
+        class="toc_anchor_icon" style="visibility: hidden; position: relative; width: 1.5rem; left: -2rem; top: 0.5rem;"
+      >
+        <path
+          d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"
+          stroke-linecap="round" stroke-linejoin="round"
+        />
+      </svg>
+    </div>
+  </a>Vocabulaire pour le niveau C2 en anglais</h2>
+<p>Enfin, pour <a href="https://bilingueanglais.com/blog/52931/niveau-c2-anglais/">atteindre le niveau C2 en anglais</a>, il faudra apprendre <a href="https://bilingueanglais.com/decouvrez-clicknspeak/#liste-de-frequence"><strong>les 5000 mots les plus utilisés en anglais</strong></a>, c'est pour cette raison que le nombre de mots le plus souvent visé est bien celui-ci. Voici quelques mots du niveau C2 :</p>
+<table class="table">
+<thead>
+<tr>
+<th>Mot</th>
+<th><a href="https://bilingueanglais.com/blog/36251/pourquoi-apprendre-phonetique/">Transcription phonétique</a></th>
+<th>Signification</th>
+<th>Position</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>sour</td>
+<td><span lang="fonipa">&#47;<strong>saʊ</strong>ɝ&#47;</span></td>
+<td>aigre</td>
+<td>4704</td>
+<td></td>
+</tr>
+<tr>
+<td>traitor</td>
+<td><span lang="fonipa">&#47;<strong>tɹeɪ</strong>tɝ&#47;</span></td>
+<td>traître</td>
+<td>4712</td>
+<td></td>
+</tr>
+<tr>
+<td>cattle</td>
+<td><span lang="fonipa">&#47;<strong>kæ</strong>təɫ&#47;</span></td>
+<td>bétail</td>
+<td>4724</td>
+<td></td>
+</tr>
+<tr>
+<td>ease</td>
+<td><span lang="fonipa">&#47;iz&#47;</span></td>
+<td>aisance</td>
+<td>4734</td>
+<td></td>
+</tr>
+<tr>
+<td>blow</td>
+<td><span lang="fonipa">&#47;bɫoʊ&#47;</span></td>
+<td>souffler</td>
+<td>4745</td>
+<td></td>
+</tr>
+<tr>
+<td>cozy</td>
+<td><span lang="fonipa">&#47;<strong>koʊ</strong>zi&#47;</span></td>
+<td>douillet</td>
+<td>4755</td>
+<td></td>
+</tr>
+<tr>
+<td>filth</td>
+<td><span lang="fonipa">&#47;fɪɫθ&#47;</span></td>
+<td>saleté</td>
+<td>4761</td>
+<td></td>
+</tr>
+<tr>
+<td>leaf</td>
+<td><span lang="fonipa">&#47;ɫif&#47;</span></td>
+<td>feuille</td>
+<td>4775</td>
+<td></td>
+</tr>
+<tr>
+<td>strongly</td>
+<td><span lang="fonipa">&#47;<strong>stɹɔŋ</strong>ɫi&#47;</span></td>
+<td>fortement</td>
+<td>4798</td>
+<td></td>
+</tr>
+<tr>
+<td>scent</td>
+<td><span lang="fonipa">&#47;sɛnt&#47;</span></td>
+<td>odeur</td>
+<td>4804</td>
+<td></td>
+</tr>
