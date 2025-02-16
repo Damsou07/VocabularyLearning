@@ -34,13 +34,18 @@ for i in range(len(data_html)):
     if ("<td>" in data_html[i] and "<td></td>" not in data_html[i]):
         # print(data_html[i])  # -test
 
+        # correction du bug pour le batch mm-humm
+        if ("mm-hmm" in data_html[i]):
+            batch_data.append("<td>****</td>")
+            batch_count += 2
+
         # correction du bug pour le batch many ou munch
-        if ("many-ou-much" in data_html[i]):
+        elif ("many-ou-much" in data_html[i]):
             batch_data.append("<td>many/much</td>")
             batch_count += 1
 
         # retirer les mots non valides
-        elif ("fuck" in data_html[i] or '<td>s</td>\n' == data_html[i] or '<td>to</td>\n' == data_html[i] or "mm-hmm" in data_html[i] or '<td>s</td>\n' in data_html[i]):
+        elif ("fuck" in data_html[i] or '<td>s</td>\n' == data_html[i] or '<td>to</td>\n' == data_html[i] or '<td>ha</td>\n' == data_html[i]):
             # print(data_html[i])  # -test
             batch_data.append("<td>****</td>")
             batch_count += 1

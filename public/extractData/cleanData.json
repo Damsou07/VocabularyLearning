@@ -4681,14 +4681,6 @@
     },
     {
         "en": [
-            "ha"
-        ],
-        "fr": [
-            "ha ha"
-        ]
-    },
-    {
-        "en": [
             "bye"
         ],
         "fr": [
@@ -4714,602 +4706,624 @@
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ɛ&#47;</span>"
+            "eh"
         ],
         "fr": [
-            "530"
+            "hein"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ʃ&#47;</span>"
+            "shh"
         ],
         "fr": [
-            "566"
+            "chut"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;wən&#47;</span>"
+            "one"
         ],
         "fr": [
-            "49"
+            "un",
+            "une"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;tu&#47;</span>"
+            "two"
         ],
         "fr": [
-            "113"
+            "deux"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;fɝst&#47;</span>"
+            "first"
         ],
         "fr": [
-            "143"
+            "premier",
+            "première"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;θɹi&#47;</span>"
+            "three"
         ],
         "fr": [
-            "188"
+            "trois"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;faɪv&#47;</span>"
+            "five"
         ],
         "fr": [
-            "259"
+            "cinq"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>sɛ</strong>kənd&#47;</span>"
+            "second"
         ],
         "fr": [
-            "260"
+            "deuxième"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;fɔɹ&#47;</span>"
+            "four"
         ],
         "fr": [
-            "317"
+            "quatre"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ɫæst&#47;</span>"
+            "last"
         ],
         "fr": [
-            "318"
+            "dernier",
+            "dernière"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;tɛn&#47;</span>"
+            "ten"
         ],
         "fr": [
-            "360"
+            "dix"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;sɪks&#47;</span>"
+            "six"
         ],
         "fr": [
-            "428"
+            "six"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>zi</strong>ɹoʊ&#47;</span>"
+            "zero"
         ],
         "fr": [
-            "525"
+            "zéro"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;eɪt&#47;</span>"
+            "eight"
         ],
         "fr": [
-            "532"
+            "huit"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>twɛn</strong>ti&#47;</span>"
+            "twenty"
         ],
         "fr": [
-            "533"
+            "vingt"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>sɛ</strong>vən&#47;</span>"
+            "seven"
         ],
         "fr": [
-            "535"
+            "sept"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;gɑd&#47;</span>"
+            "God"
         ],
         "fr": [
-            "275"
+            "Dieu"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>kɹɪs</strong>məs&#47;</span>"
+            "Christmas"
         ],
         "fr": [
-            "364"
+            "Noël"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ə<strong>mɛ</strong>ɹɪkən&#47;</span>"
+            "American"
         ],
         "fr": [
-            "592"
+            "américain",
+            "américaine"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ɝθ&#47;</span>"
+            "Earth"
         ],
         "fr": [
-            "715"
+            "Terre"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>sæn</strong>tə&#47;</span>"
+            "Santa"
         ],
         "fr": [
-            "756"
+            "Père Noël"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>sæ</strong>tɝdi&#47;</span>"
+            "Saturday"
         ],
         "fr": [
-            "763"
+            "samedi"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;dʒu&#47;</span>"
+            "Jew"
         ],
         "fr": [
-            "910"
+            "juif"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>fɹaɪ</strong>di&#47;</span>"
+            "Friday"
         ],
         "fr": [
-            "933"
+            "vendredi"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;tʃaɪ<strong>niz</strong>&#47;</span>"
+            "Chinese"
         ],
         "fr": [
-            "942"
+            "chinois",
+            "chinoise"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ɪntɝ<strong>nɛt</strong>&#47;</span>"
+            "Internet"
         ],
         "fr": [
-            "964"
+            "Internet"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ɫaɪt&#47;</span>"
+            "light"
         ],
         "fr": [
-            "605"
+            "léger",
+            "lumière"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;mɪ<strong>steɪk</strong>&#47;</span>"
+            "mistake"
         ],
         "fr": [
-            "619"
+            "faute",
+            "erreur"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;fɑɹ&#47;</span>"
+            "far"
         ],
         "fr": [
-            "625"
+            "loin"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>æn</strong>sɝ&#47;</span>"
+            "answer"
         ],
         "fr": [
-            "640"
+            "réponse"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;seɪf&#47;</span>"
+            "safe"
         ],
         "fr": [
-            "659"
+            "sûr"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;fɪks&#47;</span>"
+            "fix"
         ],
         "fr": [
-            "672"
+            "réparer",
+            "corriger"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;bɝn&#47;</span>"
+            "burn"
         ],
         "fr": [
-            "690"
+            "brûler",
+            "graver"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;pʊʃ&#47;</span>"
+            "push"
         ],
         "fr": [
-            "698"
+            "pousser"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;fɫɔɹ&#47;</span>"
+            "floor"
         ],
         "fr": [
-            "706"
+            "sol",
+            "étage"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ʃɛɹ&#47;</span>"
+            "share"
         ],
         "fr": [
-            "715"
+            "partager"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>mɪd</strong>naɪt&#47;</span>"
+            "midnight"
         ],
         "fr": [
-            "1704"
+            "minuit"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>kæn</strong>dəɫ&#47;</span>"
+            "candle"
         ],
         "fr": [
-            "1714"
+            "bougie"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>noʊ</strong>wɛɹ&#47;</span>"
+            "nowhere"
         ],
         "fr": [
-            "1728"
+            "nulle part"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;pɛt&#47;</span>"
+            "pet"
         ],
         "fr": [
-            "1740"
+            "animal de compagnie"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;twɪn&#47;</span>"
+            "twin"
         ],
         "fr": [
-            "1750"
+            "jumeau",
+            "jumelle"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;sək<strong>sɛs</strong>fəɫ&#47;</span>"
+            "successful"
         ],
         "fr": [
-            "1769"
+            "réussi"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;næp&#47;</span>"
+            "nap"
         ],
         "fr": [
-            "1787"
+            "sieste"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;θɹoʊt&#47;</span>"
+            "throat"
         ],
         "fr": [
-            "1804"
+            "gorge"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ɹə<strong>ɡɹɛt</strong>&#47;</span>"
+            "regret"
         ],
         "fr": [
-            "1819"
+            "regretter"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>fæ</strong>ʃən&#47;</span>"
+            "fashion"
         ],
         "fr": [
-            "1840"
+            "mode"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ænt&#47;</span>"
+            "ant"
         ],
         "fr": [
-            "2701"
+            "fourmi"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;spaɪ&#47;</span>"
+            "spy"
         ],
         "fr": [
-            "2714"
+            "espionner"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;daɪs&#47;</span>"
+            "dice"
         ],
         "fr": [
-            "2727"
+            "dés"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;kjub&#47;</span>"
+            "cube"
         ],
         "fr": [
-            "2743"
+            "cube"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>ɫaɪk</strong>ɫi&#47;</span>"
+            "likely"
         ],
         "fr": [
-            "2754"
+            "probable"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;pɹist&#47;</span>"
+            "priest"
         ],
         "fr": [
-            "2759"
+            "prêtre"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;dɪ<strong>ɫit</strong>&#47;</span>"
+            "delete"
         ],
         "fr": [
-            "2766"
+            "supprimer"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>sɫaɪt</strong>ɫi&#47;</span>"
+            "slightly"
         ],
         "fr": [
-            "2776"
+            "légèrement"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;pɹɑ<strong>ɡɹɛs</strong>&#47;</span>"
+            "progress"
         ],
         "fr": [
-            "2788"
+            "progresser"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;tʃɑp&#47;</span>"
+            "chop"
         ],
         "fr": [
-            "2800"
+            "couper",
+            "hacher"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>bɝg</strong>ɫɝ&#47;</span>"
+            "burglar"
         ],
         "fr": [
-            "3705"
+            "cambrioleur"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;fɫu&#47;</span>"
+            "flu"
         ],
         "fr": [
-            "3713"
+            "grippe"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ɹoʊst&#47;</span>"
+            "roast"
         ],
         "fr": [
-            "3726"
+            "rôtir"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;wɛb&#47;</span>"
+            "web"
         ],
         "fr": [
-            "3738"
+            "la toile",
+            "toile d'arraignée"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;dɪ<strong>pɹɛ</strong>sɪŋ&#47;</span>"
+            "depressing"
         ],
         "fr": [
-            "3749"
+            "déprimant"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>fɫə</strong>fi&#47;</span>"
+            "fluffy"
         ],
         "fr": [
-            "3756"
+            "duveteux"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ʃɹɪŋk&#47;</span>"
+            "shrink"
         ],
         "fr": [
-            "3770"
+            "diminuer",
+            "psy"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ɹɪst&#47;</span>"
+            "wrist"
         ],
         "fr": [
-            "3779"
+            "poignet"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ɪns<strong>tɹək</strong>ʃən&#47;</span>"
+            "instruction"
         ],
         "fr": [
-            "3796"
+            "instruction"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;næg&#47;</span>"
+            "nag"
         ],
         "fr": [
-            "3804"
+            "critiquer constamment"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>saʊ</strong>ɝ&#47;</span>"
+            "sour"
         ],
         "fr": [
-            "4704"
+            "aigre"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>tɹeɪ</strong>tɝ&#47;</span>"
+            "traitor"
         ],
         "fr": [
-            "4712"
+            "traître"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>kæ</strong>təɫ&#47;</span>"
+            "cattle"
         ],
         "fr": [
-            "4724"
+            "bétail"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;iz&#47;</span>"
+            "ease"
         ],
         "fr": [
-            "4734"
+            "aisance"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;bɫoʊ&#47;</span>"
+            "blow"
         ],
         "fr": [
-            "4745"
+            "souffler"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>koʊ</strong>zi&#47;</span>"
+            "cozy"
         ],
         "fr": [
-            "4755"
+            "douillet"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;fɪɫθ&#47;</span>"
+            "filth"
         ],
         "fr": [
-            "4761"
+            "saleté"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;ɫif&#47;</span>"
+            "leaf"
         ],
         "fr": [
-            "4775"
+            "feuille"
         ]
     },
     {
         "en": [
-            "<span lang=\"fonipa\">&#47;<strong>stɹɔŋ</strong>ɫi&#47;</span>"
+            "strongly"
         ],
         "fr": [
-            "4798"
+            "fortement"
+        ]
+    },
+    {
+        "en": [
+            "scent"
+        ],
+        "fr": [
+            "odeur"
         ]
     }
 ]
