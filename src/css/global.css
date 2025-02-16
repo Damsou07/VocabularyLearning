@@ -23,7 +23,7 @@ body {
 }
 
 .app-container:hover {
-    transform: translateY(-3px);
+    transform: translateY(-5px);
     box-shadow: 0 6px 15px var(--deep-dark);
 }
 
@@ -80,6 +80,6 @@ button:active {
     }
 }
 
-.app-container, .quiz-container, .results-container, .form-container {
+.app-container {
     animation: fadeIn 0.8s ease-in-out;
 }

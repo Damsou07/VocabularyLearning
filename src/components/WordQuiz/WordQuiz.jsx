@@ -42,21 +42,23 @@ const WordQuiz = ({ wordCount, onFinish }) => {
     return (
         <div className="quiz-container">
             <h2>Traduisez ces mots :</h2>
-            {selectedWords.map((word, index) => (
-                <div key={index} className="word-container">
-                    <span className="word">{word.en[0]} :</span>
-                    <div className="input-container">
-                        <input 
-                            type="text" 
-                            onChange={(e) => handleChange(index, e.target.value)} 
-                            className={feedback[index] && !feedback[index].correct ? "incorrect" : ""}
-                        />
-                        {feedback[index] && !feedback[index].correct && (
-                            <p className="correction">Bonne réponse : {feedback[index].correctAnswers.join(", ")}</p>
-                        )}
+            <div className="answer-container">
+                {selectedWords.map((word, index) => (
+                    <div key={index} className="word-container">
+                        <span className="word">{word.en[0]} :</span>
+                        <div className="input-container">
+                            <input 
+                                type="text" 
+                                onChange={(e) => handleChange(index, e.target.value)} 
+                                className={feedback[index] && !feedback[index].correct ? "incorrect" : ""}
+                            />
+                            {feedback[index] && !feedback[index].correct && (
+                                <p className="correction">Bonne réponse : {feedback[index].correctAnswers.join(", ")}</p>
+                            )}
+                        </div>
                     </div>
-                </div>
-            ))}
+                ))}
+            </div>
             <button onClick={handleSubmit}>Valider</button>
             {score !== null && <p>Score : {score} / {wordCount}</p>}
             {score !== null && <button onClick={onFinish}>Terminer la session</button>}

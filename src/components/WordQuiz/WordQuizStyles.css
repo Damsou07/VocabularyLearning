@@ -1,5 +1,37 @@
 @import url("../../css/colors.css");
 
+
+/* Style de la barre de défilement */
+.answer-container {
+    max-height: 500px;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+/* Style de la piste de défilement (partie derrière le curseur) */
+.answer-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Style de la partie de la barre de défilement qui défile */
+.answer-container::-webkit-scrollbar-thumb {
+    background-color: var(--highlight-blue);
+    border-radius: 10px;
+    transition: background-color 0.3s ease
+}
+
+/* Style de la piste de défilement (fond de la barre) */
+.answer-container::-webkit-scrollbar-track {
+    background: var(--neutral-gray); 
+    border-radius: 10px;
+}
+
+/* Ajouter des coins arrondis au conteneur de la barre de défilement */
+.answer-container::-webkit-scrollbar-corner {
+    background: transparent;
+}
+
+
 .word-container {
     display: flex;
     margin-bottom: 12px;

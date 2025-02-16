@@ -44,6 +44,11 @@ for i in range(len(data_html)):
             batch_data.append("<td>many/much</td>")
             batch_count += 1
 
+        # correction de it
+        elif ("chose inanimée" in data_html[i]):
+            batch_data.append("<td>il</td>")
+            batch_count += 1
+
         # retirer les mots non valides
         elif ("fuck" in data_html[i] or '<td>s</td>\n' == data_html[i] or '<td>to</td>\n' == data_html[i] or '<td>ha</td>\n' == data_html[i]):
             # print(data_html[i])  # -test
