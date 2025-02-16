@@ -1,0 +1,85 @@
+@import url("./colors.css");
+
+
+/* Style global */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--neutral-gray);
+    color: var(--soft-white);
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Conteneur principal */
+.app-container {
+    max-width: 500px;
+    margin: auto;
+    background: var(--dark-card);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px var(--deep-dark);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.app-container:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px var(--deep-dark);
+}
+
+
+/* Champs de texte */
+input {
+    flex: 2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    border: 2px solid var(--deep-blue);
+    background-color: var(--charcoal-gray);
+    color: var(--soft-white);
+    width: 80%;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:focus {
+    border-color: var(--highlight-blue);
+    outline: none;
+}
+
+/* Boutons */
+button {
+    padding: 12px 20px;
+    margin: 15px;
+    background: var(--soft-blue);
+    color: var(--soft-white);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background: var(--deep-blue);
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+/* Animation légère au chargement */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-15px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.app-container, .quiz-container, .results-container, .form-container {
+    animation: fadeIn 0.8s ease-in-out;
+}

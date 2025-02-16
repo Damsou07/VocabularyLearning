@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { words } from "../data/words";
+import { words } from "../../data/words";
+import "./WordQuizStyles.css";
 
 const WordQuiz = ({ wordCount, onFinish }) => {
     const [selectedWords, setSelectedWords] = useState([]);
@@ -42,16 +43,18 @@ const WordQuiz = ({ wordCount, onFinish }) => {
         <div className="quiz-container">
             <h2>Traduisez ces mots :</h2>
             {selectedWords.map((word, index) => (
-                <div key={index} className="word">
-                    <span>{word.en[0]} :</span>
-                    <input 
-                        type="text" 
-                        onChange={(e) => handleChange(index, e.target.value)} 
-                        className={feedback[index] && !feedback[index].correct ? "incorrect" : ""}
-                    />
-                    {feedback[index] && !feedback[index].correct && (
-                        <p className="correction">Bonne réponse : {feedback[index].correctAnswers.join(", ")}</p>
-                    )}
+                <div key={index} className="word-container">
+                    <span className="word">{word.en[0]} :</span>
+                    <div className="input-container">
+                        <input 
+                            type="text" 
+                            onChange={(e) => handleChange(index, e.target.value)} 
+                            className={feedback[index] && !feedback[index].correct ? "incorrect" : ""}
+                        />
+                        {feedback[index] && !feedback[index].correct && (
+                            <p className="correction">Bonne réponse : {feedback[index].correctAnswers.join(", ")}</p>
+                        )}
+                    </div>
                 </div>
             ))}
             <button onClick={handleSubmit}>Valider</button>
@@ -59,6 +62,7 @@ const WordQuiz = ({ wordCount, onFinish }) => {
             {score !== null && <button onClick={onFinish}>Terminer la session</button>}
         </div>
     );
+    
 };
 
 export default WordQuiz;

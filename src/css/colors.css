@@ -1,0 +1,13 @@
+/* Définition des variables de couleurs */
+
+:root {
+    --deep-dark: #0a0a0a; /* Noir profond */
+    --dark-card: #1a1a1a; /* Gris anthracite */
+    --soft-white: #ffffff; /* Blanc pur */
+    --soft-blue: #007bff; /* Bleu ciel */
+    --deep-blue: #0056b3; /* Bleu marine */
+    --neutral-gray: #555; /* Gris moyen */
+    --alert-red: #ff4d4d; /* Rouge vif */
+    --charcoal-gray: #222; /* Gris charbon */
+    --highlight-blue: #007bff; /* Bleu électrique */
+}

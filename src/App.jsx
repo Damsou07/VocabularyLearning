@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import VocabularyForm from "./components/VocabularyForm";
-import WordQuiz from "./components/WordQuiz";
+import WordQuiz from "./components/WordQuiz/WordQuiz";
 import Results from "./components/Results";
-import "./global.css";
+import "./css/global.css";
 
 const App = () => {
     const [wordCount, setWordCount] = useState(null);

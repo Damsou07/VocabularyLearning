@@ -1,0 +1,43 @@
+@import url("../../css/colors.css");
+
+.word-container {
+    display: flex;
+    margin-bottom: 12px;
+    width: 100%;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+    width: 100%;
+}
+
+.word {
+    font-size: 18px;
+    text-align: left;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin-top: 16px;
+}
+
+
+/* Style des erreurs */
+.incorrect {
+    border: 2px solid var(--alert-red);
+    color: var(--alert-red);
+}
+
+.correction-container {
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.correction {
+    color: var(--alert-red);
+    font-size: 14px;
+    margin-top: 5px;
+    font-style: italic;
+}
