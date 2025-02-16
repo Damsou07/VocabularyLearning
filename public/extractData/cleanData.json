@@ -1,0 +1,5345 @@
+[
+    {
+        "en": [
+            "I"
+        ],
+        "fr": [
+            "je"
+        ]
+    },
+    {
+        "en": [
+            "you"
+        ],
+        "fr": [
+            "tu",
+            "vous"
+        ]
+    },
+    {
+        "en": [
+            "the"
+        ],
+        "fr": [
+            "le",
+            "la",
+            "les"
+        ]
+    },
+    {
+        "en": [
+            "a"
+        ],
+        "fr": [
+            "un",
+            "une"
+        ]
+    },
+    {
+        "en": [
+            "it"
+        ],
+        "fr": [
+            "chose inanimée"
+        ]
+    },
+    {
+        "en": [
+            "not"
+        ],
+        "fr": [
+            "pas"
+        ]
+    },
+    {
+        "en": [
+            "that"
+        ],
+        "fr": [
+            "ça",
+            "cela",
+            "que",
+            "qui"
+        ]
+    },
+    {
+        "en": [
+            "and"
+        ],
+        "fr": [
+            "et"
+        ]
+    },
+    {
+        "en": [
+            "of"
+        ],
+        "fr": [
+            "de"
+        ]
+    },
+    {
+        "en": [
+            "what"
+        ],
+        "fr": [
+            "quoi"
+        ]
+    },
+    {
+        "en": [
+            "we"
+        ],
+        "fr": [
+            "nous"
+        ]
+    },
+    {
+        "en": [
+            "in"
+        ],
+        "fr": [
+            "dans"
+        ]
+    },
+    {
+        "en": [
+            "this"
+        ],
+        "fr": [
+            "ce",
+            "ça"
+        ]
+    },
+    {
+        "en": [
+            "my"
+        ],
+        "fr": [
+            "mon",
+            "ma",
+            "mes"
+        ]
+    },
+    {
+        "en": [
+            "me"
+        ],
+        "fr": [
+            "moi",
+            "me"
+        ]
+    },
+    {
+        "en": [
+            "no"
+        ],
+        "fr": [
+            "non"
+        ]
+    },
+    {
+        "en": [
+            "on"
+        ],
+        "fr": [
+            "sur"
+        ]
+    },
+    {
+        "en": [
+            "for"
+        ],
+        "fr": [
+            "pour"
+        ]
+    },
+    {
+        "en": [
+            "your"
+        ],
+        "fr": [
+            "ton",
+            "ta",
+            "tes",
+            "votre",
+            "vos"
+        ]
+    },
+    {
+        "en": [
+            "all"
+        ],
+        "fr": [
+            "tous"
+        ]
+    },
+    {
+        "en": [
+            "with"
+        ],
+        "fr": [
+            "avec"
+        ]
+    },
+    {
+        "en": [
+            "he"
+        ],
+        "fr": [
+            "il"
+        ]
+    },
+    {
+        "en": [
+            "but"
+        ],
+        "fr": [
+            "mais"
+        ]
+    },
+    {
+        "en": [
+            "about"
+        ],
+        "fr": [
+            "à propos"
+        ]
+    },
+    {
+        "en": [
+            "at"
+        ],
+        "fr": [
+            "à"
+        ]
+    },
+    {
+        "en": [
+            "they"
+        ],
+        "fr": [
+            "ils",
+            "elles"
+        ]
+    },
+    {
+        "en": [
+            "if"
+        ],
+        "fr": [
+            "si"
+        ]
+    },
+    {
+        "en": [
+            "she"
+        ],
+        "fr": [
+            "elle"
+        ]
+    },
+    {
+        "en": [
+            "her"
+        ],
+        "fr": [
+            "elle",
+            "la",
+            "lui"
+        ]
+    },
+    {
+        "en": [
+            "him"
+        ],
+        "fr": [
+            "lui"
+        ]
+    },
+    {
+        "en": [
+            "who"
+        ],
+        "fr": [
+            "qui"
+        ]
+    },
+    {
+        "en": [
+            "from"
+        ],
+        "fr": [
+            "de"
+        ]
+    },
+    {
+        "en": [
+            "as"
+        ],
+        "fr": [
+            "comme",
+            "aussi"
+        ]
+    },
+    {
+        "en": [
+            "because"
+        ],
+        "fr": [
+            "parce que"
+        ]
+    },
+    {
+        "en": [
+            "some"
+        ],
+        "fr": [
+            "certains",
+            "quelques-uns"
+        ]
+    },
+    {
+        "en": [
+            "our"
+        ],
+        "fr": [
+            "notre",
+            "nos"
+        ]
+    },
+    {
+        "en": [
+            "there"
+        ],
+        "fr": [
+            "là",
+            "là-bas"
+        ]
+    },
+    {
+        "en": [
+            "his"
+        ],
+        "fr": [
+            "son",
+            "sa",
+            "ses"
+        ]
+    },
+    {
+        "en": [
+            "us"
+        ],
+        "fr": [
+            "nous"
+        ]
+    },
+    {
+        "en": [
+            "them"
+        ],
+        "fr": [
+            "eux",
+            "elles"
+        ]
+    },
+    {
+        "en": [
+            "or"
+        ],
+        "fr": [
+            "ou"
+        ]
+    },
+    {
+        "en": [
+            "something"
+        ],
+        "fr": [
+            "quelque chose"
+        ]
+    },
+    {
+        "en": [
+            "by"
+        ],
+        "fr": [
+            "de",
+            "par",
+            "près de"
+        ]
+    },
+    {
+        "en": [
+            "over"
+        ],
+        "fr": [
+            "au dessus-de"
+        ]
+    },
+    {
+        "en": [
+            "more"
+        ],
+        "fr": [
+            "plus"
+        ]
+    },
+    {
+        "en": [
+            "off"
+        ],
+        "fr": [
+            "éloigné",
+            "éteint"
+        ]
+    },
+    {
+        "en": [
+            "these"
+        ],
+        "fr": [
+            "ces",
+            "ceux-là"
+        ]
+    },
+    {
+        "en": [
+            "many/much"
+        ],
+        "fr": [
+            "beaucoup"
+        ]
+    },
+    {
+        "en": [
+            "into"
+        ],
+        "fr": [
+            "dans"
+        ]
+    },
+    {
+        "en": [
+            "those"
+        ],
+        "fr": [
+            "ces"
+        ]
+    },
+    {
+        "en": [
+            "any"
+        ],
+        "fr": [
+            "n'importe quel"
+        ]
+    },
+    {
+        "en": [
+            "anything"
+        ],
+        "fr": [
+            "n'importe quoi"
+        ]
+    },
+    {
+        "en": [
+            "than"
+        ],
+        "fr": [
+            "que"
+        ]
+    },
+    {
+        "en": [
+            "nothing"
+        ],
+        "fr": [
+            "rien"
+        ]
+    },
+    {
+        "en": [
+            "their"
+        ],
+        "fr": [
+            "leur"
+        ]
+    },
+    {
+        "en": [
+            "around"
+        ],
+        "fr": [
+            "autour"
+        ]
+    },
+    {
+        "en": [
+            "before"
+        ],
+        "fr": [
+            "avant"
+        ]
+    },
+    {
+        "en": [
+            "after"
+        ],
+        "fr": [
+            "après"
+        ]
+    },
+    {
+        "en": [
+            "every"
+        ],
+        "fr": [
+            "chaque"
+        ]
+    },
+    {
+        "en": [
+            "everything"
+        ],
+        "fr": [
+            "tout"
+        ]
+    },
+    {
+        "en": [
+            "everyone"
+        ],
+        "fr": [
+            "tout le monde"
+        ]
+    },
+    {
+        "en": [
+            "another"
+        ],
+        "fr": [
+            "unautre"
+        ]
+    },
+    {
+        "en": [
+            "someone"
+        ],
+        "fr": [
+            "quelqu'un"
+        ]
+    },
+    {
+        "en": [
+            "which"
+        ],
+        "fr": [
+            "que",
+            "quel"
+        ]
+    },
+    {
+        "en": [
+            "through"
+        ],
+        "fr": [
+            "à travers"
+        ]
+    },
+    {
+        "en": [
+            "everybody"
+        ],
+        "fr": [
+            "tout le monde"
+        ]
+    },
+    {
+        "en": [
+            "enough"
+        ],
+        "fr": [
+            "assez"
+        ]
+    },
+    {
+        "en": [
+            "most"
+        ],
+        "fr": [
+            "la plupart de"
+        ]
+    },
+    {
+        "en": [
+            "yourself"
+        ],
+        "fr": [
+            "toi-même"
+        ]
+    },
+    {
+        "en": [
+            "somebody"
+        ],
+        "fr": [
+            "quelqu'un"
+        ]
+    },
+    {
+        "en": [
+            "without"
+        ],
+        "fr": [
+            "sans"
+        ]
+    },
+    {
+        "en": [
+            "many/much"
+        ],
+        "fr": [
+            "beaucoup"
+        ]
+    },
+    {
+        "en": [
+            "such"
+        ],
+        "fr": [
+            "tel"
+        ]
+    },
+    {
+        "en": [
+            "since"
+        ],
+        "fr": [
+            "depuis"
+        ]
+    },
+    {
+        "en": [
+            "myself"
+        ],
+        "fr": [
+            "moi-même"
+        ]
+    },
+    {
+        "en": [
+            "anyone"
+        ],
+        "fr": [
+            "n'importe qui"
+        ]
+    },
+    {
+        "en": [
+            "each"
+        ],
+        "fr": [
+            "chaque"
+        ]
+    },
+    {
+        "en": [
+            "both"
+        ],
+        "fr": [
+            "les deux"
+        ]
+    },
+    {
+        "en": [
+            "yet"
+        ],
+        "fr": [
+            "déjà",
+            "encore"
+        ]
+    },
+    {
+        "en": [
+            "until"
+        ],
+        "fr": [
+            "jusqu'à"
+        ]
+    },
+    {
+        "en": [
+            "while"
+        ],
+        "fr": [
+            "pendant"
+        ]
+    },
+    {
+        "en": [
+            "few"
+        ],
+        "fr": [
+            "peu de",
+            "quelques"
+        ]
+    },
+    {
+        "en": [
+            "nobody"
+        ],
+        "fr": [
+            "personne"
+        ]
+    },
+    {
+        "en": [
+            "whatever"
+        ],
+        "fr": [
+            "n'importe quoi"
+        ]
+    },
+    {
+        "en": [
+            "its"
+        ],
+        "fr": [
+            "son",
+            "sa",
+            "ses"
+        ]
+    },
+    {
+        "en": [
+            "least"
+        ],
+        "fr": [
+            "moins"
+        ]
+    },
+    {
+        "en": [
+            "under"
+        ],
+        "fr": [
+            "sous"
+        ]
+    },
+    {
+        "en": [
+            "mine"
+        ],
+        "fr": [
+            "le mien",
+            "la mienne"
+        ]
+    },
+    {
+        "en": [
+            "little"
+        ],
+        "fr": [
+            "petit"
+        ]
+    },
+    {
+        "en": [
+            "anybody"
+        ],
+        "fr": [
+            "n'importe qui"
+        ]
+    },
+    {
+        "en": [
+            "though"
+        ],
+        "fr": [
+            "cependant"
+        ]
+    },
+    {
+        "en": [
+            "either"
+        ],
+        "fr": [
+            "soit",
+            "non plus"
+        ]
+    },
+    {
+        "en": [
+            "between"
+        ],
+        "fr": [
+            "entre"
+        ]
+    },
+    {
+        "en": [
+            "yours"
+        ],
+        "fr": [
+            "le tien",
+            "le vôtre"
+        ]
+    },
+    {
+        "en": [
+            "behind"
+        ],
+        "fr": [
+            "derrière"
+        ]
+    },
+    {
+        "en": [
+            "outside"
+        ],
+        "fr": [
+            "dehors"
+        ]
+    },
+    {
+        "en": [
+            "against"
+        ],
+        "fr": [
+            "contre"
+        ]
+    },
+    {
+        "en": [
+            "next"
+        ],
+        "fr": [
+            "ensuite"
+        ]
+    },
+    {
+        "en": [
+            "to want"
+        ],
+        "fr": [
+            "vouloir"
+        ]
+    },
+    {
+        "en": [
+            "to like"
+        ],
+        "fr": [
+            "aimer",
+            "plaire"
+        ]
+    },
+    {
+        "en": [
+            "to look"
+        ],
+        "fr": [
+            "regarder"
+        ]
+    },
+    {
+        "en": [
+            "to need"
+        ],
+        "fr": [
+            "nécessiter"
+        ]
+    },
+    {
+        "en": [
+            "to talk"
+        ],
+        "fr": [
+            "parler"
+        ]
+    },
+    {
+        "en": [
+            "to call"
+        ],
+        "fr": [
+            "appeler"
+        ]
+    },
+    {
+        "en": [
+            "to love"
+        ],
+        "fr": [
+            "aimer"
+        ]
+    },
+    {
+        "en": [
+            "to wait"
+        ],
+        "fr": [
+            "attendre"
+        ]
+    },
+    {
+        "en": [
+            "to work"
+        ],
+        "fr": [
+            "travailler"
+        ]
+    },
+    {
+        "en": [
+            "to thank"
+        ],
+        "fr": [
+            "remercier"
+        ]
+    },
+    {
+        "en": [
+            "to try"
+        ],
+        "fr": [
+            "essayer"
+        ]
+    },
+    {
+        "en": [
+            "to happen"
+        ],
+        "fr": [
+            "se passer",
+            "arriver"
+        ]
+    },
+    {
+        "en": [
+            "to stop"
+        ],
+        "fr": [
+            "arrêter"
+        ]
+    },
+    {
+        "en": [
+            "to use"
+        ],
+        "fr": [
+            "utiliser"
+        ]
+    },
+    {
+        "en": [
+            "to help"
+        ],
+        "fr": [
+            "aider"
+        ]
+    },
+    {
+        "en": [
+            "to believe"
+        ],
+        "fr": [
+            "croire"
+        ]
+    },
+    {
+        "en": [
+            "to play"
+        ],
+        "fr": [
+            "jouer"
+        ]
+    },
+    {
+        "en": [
+            "to ask"
+        ],
+        "fr": [
+            "demander"
+        ]
+    },
+    {
+        "en": [
+            "to start"
+        ],
+        "fr": [
+            "commencer"
+        ]
+    },
+    {
+        "en": [
+            "to show"
+        ],
+        "fr": [
+            "montrer"
+        ]
+    },
+    {
+        "en": [
+            "to guess"
+        ],
+        "fr": [
+            "deviner"
+        ]
+    },
+    {
+        "en": [
+            "to listen"
+        ],
+        "fr": [
+            "écouter"
+        ]
+    },
+    {
+        "en": [
+            "to live"
+        ],
+        "fr": [
+            "vivre",
+            "habiter"
+        ]
+    },
+    {
+        "en": [
+            "to watch"
+        ],
+        "fr": [
+            "regarder"
+        ]
+    },
+    {
+        "en": [
+            "to remember"
+        ],
+        "fr": [
+            "se souvenir"
+        ]
+    },
+    {
+        "en": [
+            "to kill"
+        ],
+        "fr": [
+            "tuer"
+        ]
+    },
+    {
+        "en": [
+            "to care"
+        ],
+        "fr": [
+            "se sentir concerné"
+        ]
+    },
+    {
+        "en": [
+            "to move"
+        ],
+        "fr": [
+            "bouger"
+        ]
+    },
+    {
+        "en": [
+            "to turn"
+        ],
+        "fr": [
+            "tourner"
+        ]
+    },
+    {
+        "en": [
+            "to stay"
+        ],
+        "fr": [
+            "rester"
+        ]
+    },
+    {
+        "en": [
+            "to last"
+        ],
+        "fr": [
+            "durer"
+        ]
+    },
+    {
+        "en": [
+            "to die"
+        ],
+        "fr": [
+            "mourir"
+        ]
+    },
+    {
+        "en": [
+            "to sound"
+        ],
+        "fr": [
+            "sembler",
+            "résonner"
+        ]
+    },
+    {
+        "en": [
+            "to hate"
+        ],
+        "fr": [
+            "détester"
+        ]
+    },
+    {
+        "en": [
+            "to suppose"
+        ],
+        "fr": [
+            "supposer"
+        ]
+    },
+    {
+        "en": [
+            "to worry"
+        ],
+        "fr": [
+            "s'inquiéter"
+        ]
+    },
+    {
+        "en": [
+            "to marry"
+        ],
+        "fr": [
+            "marier"
+        ]
+    },
+    {
+        "en": [
+            "to miss"
+        ],
+        "fr": [
+            "manquer",
+            "rater"
+        ]
+    },
+    {
+        "en": [
+            "to pay"
+        ],
+        "fr": [
+            "payer"
+        ]
+    },
+    {
+        "en": [
+            "to change"
+        ],
+        "fr": [
+            "changer"
+        ]
+    },
+    {
+        "en": [
+            "to excuse"
+        ],
+        "fr": [
+            "excuser"
+        ]
+    },
+    {
+        "en": [
+            "to check"
+        ],
+        "fr": [
+            "vérifier"
+        ]
+    },
+    {
+        "en": [
+            "to pick"
+        ],
+        "fr": [
+            "choisir",
+            "cueillir"
+        ]
+    },
+    {
+        "en": [
+            "to seem"
+        ],
+        "fr": [
+            "sembler"
+        ]
+    },
+    {
+        "en": [
+            "to walk"
+        ],
+        "fr": [
+            "marcher"
+        ]
+    },
+    {
+        "en": [
+            "to hope"
+        ],
+        "fr": [
+            "espérer"
+        ]
+    },
+    {
+        "en": [
+            "to open"
+        ],
+        "fr": [
+            "ouvrir"
+        ]
+    },
+    {
+        "en": [
+            "to name"
+        ],
+        "fr": [
+            "nommer",
+            "appeler"
+        ]
+    },
+    {
+        "en": [
+            "to learn"
+        ],
+        "fr": [
+            "apprendre"
+        ]
+    },
+    {
+        "en": [
+            "to save"
+        ],
+        "fr": [
+            "sauver"
+        ]
+    },
+    {
+        "en": [
+            "to kid"
+        ],
+        "fr": [
+            "rigoler"
+        ]
+    },
+    {
+        "en": [
+            "to end"
+        ],
+        "fr": [
+            "terminer"
+        ]
+    },
+    {
+        "en": [
+            "to wish"
+        ],
+        "fr": [
+            "souhaiter"
+        ]
+    },
+    {
+        "en": [
+            "to suck"
+        ],
+        "fr": [
+            "sucer",
+            "craindre"
+        ]
+    },
+    {
+        "en": [
+            "to realize"
+        ],
+        "fr": [
+            "se rendre compte"
+        ]
+    },
+    {
+        "en": [
+            "to enjoy"
+        ],
+        "fr": [
+            "profiter"
+        ]
+    },
+    {
+        "en": [
+            "to dance"
+        ],
+        "fr": [
+            "danser"
+        ]
+    },
+    {
+        "en": [
+            "to wonder"
+        ],
+        "fr": [
+            "se demander"
+        ]
+    },
+    {
+        "en": [
+            "to figure"
+        ],
+        "fr": [
+            "penser"
+        ]
+    },
+    {
+        "en": [
+            "to pull"
+        ],
+        "fr": [
+            "tirer"
+        ]
+    },
+    {
+        "en": [
+            "to decide"
+        ],
+        "fr": [
+            "décider"
+        ]
+    },
+    {
+        "en": [
+            "to face"
+        ],
+        "fr": [
+            "faire face à"
+        ]
+    },
+    {
+        "en": [
+            "to mind"
+        ],
+        "fr": [
+            "déranger"
+        ]
+    },
+    {
+        "en": [
+            "to date"
+        ],
+        "fr": [
+            "sortir avec qqn"
+        ]
+    },
+    {
+        "en": [
+            "to promise"
+        ],
+        "fr": [
+            "promettre"
+        ]
+    },
+    {
+        "en": [
+            "to kiss"
+        ],
+        "fr": [
+            "embrasser"
+        ]
+    },
+    {
+        "en": [
+            "to fire"
+        ],
+        "fr": [
+            "renvoyer"
+        ]
+    },
+    {
+        "en": [
+            "to matter"
+        ],
+        "fr": [
+            "importer"
+        ]
+    },
+    {
+        "en": [
+            "to touch"
+        ],
+        "fr": [
+            "toucher"
+        ]
+    },
+    {
+        "en": [
+            "to amaze"
+        ],
+        "fr": [
+            "étonner"
+        ]
+    },
+    {
+        "en": [
+            "to smell"
+        ],
+        "fr": [
+            "sentir"
+        ]
+    },
+    {
+        "en": [
+            "to plan"
+        ],
+        "fr": [
+            "planifier"
+        ]
+    },
+    {
+        "en": [
+            "to order"
+        ],
+        "fr": [
+            "commander"
+        ]
+    },
+    {
+        "en": [
+            "to cry"
+        ],
+        "fr": [
+            "pleurer"
+        ]
+    },
+    {
+        "en": [
+            "to drop"
+        ],
+        "fr": [
+            "faire tomber"
+        ]
+    },
+    {
+        "en": [
+            "to act"
+        ],
+        "fr": [
+            "agir"
+        ]
+    },
+    {
+        "en": [
+            "to finish"
+        ],
+        "fr": [
+            "achever"
+        ]
+    },
+    {
+        "en": [
+            "to hand"
+        ],
+        "fr": [
+            "donner"
+        ]
+    },
+    {
+        "en": [
+            "to point"
+        ],
+        "fr": [
+            "montrer",
+            "indiquer"
+        ]
+    },
+    {
+        "en": [
+            "to pass"
+        ],
+        "fr": [
+            "passer"
+        ]
+    },
+    {
+        "en": [
+            "to kick"
+        ],
+        "fr": [
+            "frapper avec le pied"
+        ]
+    },
+    {
+        "en": [
+            "to excite"
+        ],
+        "fr": [
+            "enthousiasmer"
+        ]
+    },
+    {
+        "en": [
+            "to question"
+        ],
+        "fr": [
+            "interroger"
+        ]
+    },
+    {
+        "en": [
+            "to invite"
+        ],
+        "fr": [
+            "inviter"
+        ]
+    },
+    {
+        "en": [
+            "to dress"
+        ],
+        "fr": [
+            "habiller"
+        ]
+    },
+    {
+        "en": [
+            "to laugh"
+        ],
+        "fr": [
+            "rire"
+        ]
+    },
+    {
+        "en": [
+            "to agree"
+        ],
+        "fr": [
+            "être d'accord"
+        ]
+    },
+    {
+        "en": [
+            "to return"
+        ],
+        "fr": [
+            "retourner"
+        ]
+    },
+    {
+        "en": [
+            "to follow"
+        ],
+        "fr": [
+            "suivre"
+        ]
+    },
+    {
+        "en": [
+            "to scare"
+        ],
+        "fr": [
+            "effrayer"
+        ]
+    },
+    {
+        "en": [
+            "to notice"
+        ],
+        "fr": [
+            "remarquer"
+        ]
+    },
+    {
+        "en": [
+            "to join"
+        ],
+        "fr": [
+            "joindre"
+        ]
+    },
+    {
+        "en": [
+            "to be"
+        ],
+        "fr": [
+            "être"
+        ]
+    },
+    {
+        "en": [
+            "to do"
+        ],
+        "fr": [
+            "faire"
+        ]
+    },
+    {
+        "en": [
+            "to have"
+        ],
+        "fr": [
+            "avoir"
+        ]
+    },
+    {
+        "en": [
+            "to get"
+        ],
+        "fr": [
+            "recevoir"
+        ]
+    },
+    {
+        "en": [
+            "to go"
+        ],
+        "fr": [
+            "aller"
+        ]
+    },
+    {
+        "en": [
+            "can"
+        ],
+        "fr": [
+            "pouvoir"
+        ]
+    },
+    {
+        "en": [
+            "to know"
+        ],
+        "fr": [
+            "savoir",
+            "connaître"
+        ]
+    },
+    {
+        "en": [
+            "to think"
+        ],
+        "fr": [
+            "penser"
+        ]
+    },
+    {
+        "en": [
+            "to come"
+        ],
+        "fr": [
+            "venir"
+        ]
+    },
+    {
+        "en": [
+            "to say"
+        ],
+        "fr": [
+            "dire"
+        ]
+    },
+    {
+        "en": [
+            "to see"
+        ],
+        "fr": [
+            "voir"
+        ]
+    },
+    {
+        "en": [
+            "to make"
+        ],
+        "fr": [
+            "faire"
+        ]
+    },
+    {
+        "en": [
+            "to take"
+        ],
+        "fr": [
+            "prendre"
+        ]
+    },
+    {
+        "en": [
+            "to let"
+        ],
+        "fr": [
+            "permettre"
+        ]
+    },
+    {
+        "en": [
+            "to tell"
+        ],
+        "fr": [
+            "dire"
+        ]
+    },
+    {
+        "en": [
+            "will"
+        ],
+        "fr": [
+            "utilisé pour former le futur"
+        ]
+    },
+    {
+        "en": [
+            "to mean"
+        ],
+        "fr": [
+            "signifier",
+            "vouloir dire"
+        ]
+    },
+    {
+        "en": [
+            "to give"
+        ],
+        "fr": [
+            "donner"
+        ]
+    },
+    {
+        "en": [
+            "shall"
+        ],
+        "fr": [
+            "vouloir"
+        ]
+    },
+    {
+        "en": [
+            "to feel"
+        ],
+        "fr": [
+            "sentir",
+            "ressentir"
+        ]
+    },
+    {
+        "en": [
+            "to find"
+        ],
+        "fr": [
+            "trouver"
+        ]
+    },
+    {
+        "en": [
+            "to put"
+        ],
+        "fr": [
+            "poser",
+            "mettre"
+        ]
+    },
+    {
+        "en": [
+            "to leave"
+        ],
+        "fr": [
+            "partir",
+            "quitter"
+        ]
+    },
+    {
+        "en": [
+            "to hear"
+        ],
+        "fr": [
+            "entendre"
+        ]
+    },
+    {
+        "en": [
+            "may"
+        ],
+        "fr": [
+            "il se peut que"
+        ]
+    },
+    {
+        "en": [
+            "to keep"
+        ],
+        "fr": [
+            "garder"
+        ]
+    },
+    {
+        "en": [
+            "to meet"
+        ],
+        "fr": [
+            "rencontrer",
+            "retrouver"
+        ]
+    },
+    {
+        "en": [
+            "to eat"
+        ],
+        "fr": [
+            "manger"
+        ]
+    },
+    {
+        "en": [
+            "to bring"
+        ],
+        "fr": [
+            "apporter",
+            "amener"
+        ]
+    },
+    {
+        "en": [
+            "to run"
+        ],
+        "fr": [
+            "courir"
+        ]
+    },
+    {
+        "en": [
+            "to break"
+        ],
+        "fr": [
+            "casser"
+        ]
+    },
+    {
+        "en": [
+            "must"
+        ],
+        "fr": [
+            "falloir",
+            "devoir"
+        ]
+    },
+    {
+        "en": [
+            "to buy"
+        ],
+        "fr": [
+            "acheter"
+        ]
+    },
+    {
+        "en": [
+            "to lose"
+        ],
+        "fr": [
+            "perdre"
+        ]
+    },
+    {
+        "en": [
+            "to sit"
+        ],
+        "fr": [
+            "s'asseoir"
+        ]
+    },
+    {
+        "en": [
+            "to hold"
+        ],
+        "fr": [
+            "tenir"
+        ]
+    },
+    {
+        "en": [
+            "to forget"
+        ],
+        "fr": [
+            "oublier"
+        ]
+    },
+    {
+        "en": [
+            "to wear"
+        ],
+        "fr": [
+            "porter"
+        ]
+    },
+    {
+        "en": [
+            "to understand"
+        ],
+        "fr": [
+            "comprendre"
+        ]
+    },
+    {
+        "en": [
+            "to win"
+        ],
+        "fr": [
+            "gagner"
+        ]
+    },
+    {
+        "en": [
+            "to read"
+        ],
+        "fr": [
+            "lire"
+        ]
+    },
+    {
+        "en": [
+            "to drink"
+        ],
+        "fr": [
+            "boire"
+        ]
+    },
+    {
+        "en": [
+            "to sleep"
+        ],
+        "fr": [
+            "dormir"
+        ]
+    },
+    {
+        "en": [
+            "to write"
+        ],
+        "fr": [
+            "écrire"
+        ]
+    },
+    {
+        "en": [
+            "to drive"
+        ],
+        "fr": [
+            "conduire"
+        ]
+    },
+    {
+        "en": [
+            "to hang"
+        ],
+        "fr": [
+            "accrocher"
+        ]
+    },
+    {
+        "en": [
+            "to throw"
+        ],
+        "fr": [
+            "jeter"
+        ]
+    },
+    {
+        "en": [
+            "to stand"
+        ],
+        "fr": [
+            "se lever"
+        ]
+    },
+    {
+        "en": [
+            "to shut"
+        ],
+        "fr": [
+            "fermer"
+        ]
+    },
+    {
+        "en": [
+            "to spend"
+        ],
+        "fr": [
+            "dépenser"
+        ]
+    },
+    {
+        "en": [
+            "to hit"
+        ],
+        "fr": [
+            "frapper"
+        ]
+    },
+    {
+        "en": [
+            "to send"
+        ],
+        "fr": [
+            "envoyer"
+        ]
+    },
+    {
+        "en": [
+            "to hurt"
+        ],
+        "fr": [
+            "blesser"
+        ]
+    },
+    {
+        "en": [
+            "to lie"
+        ],
+        "fr": [
+            "mentir",
+            "s'allonger"
+        ]
+    },
+    {
+        "en": [
+            "to fall"
+        ],
+        "fr": [
+            "tomber"
+        ]
+    },
+    {
+        "en": [
+            "to shoot"
+        ],
+        "fr": [
+            "tirer"
+        ]
+    },
+    {
+        "en": [
+            "to sell"
+        ],
+        "fr": [
+            "vendre"
+        ]
+    },
+    {
+        "en": [
+            "to cut"
+        ],
+        "fr": [
+            "couper"
+        ]
+    },
+    {
+        "en": [
+            "to become"
+        ],
+        "fr": [
+            "devenir"
+        ]
+    },
+    {
+        "en": [
+            "to bite"
+        ],
+        "fr": [
+            "mordre"
+        ]
+    },
+    {
+        "en": [
+            "to catch"
+        ],
+        "fr": [
+            "attraper"
+        ]
+    },
+    {
+        "en": [
+            "to set"
+        ],
+        "fr": [
+            "poser"
+        ]
+    },
+    {
+        "en": [
+            "to speak"
+        ],
+        "fr": [
+            "parler"
+        ]
+    },
+    {
+        "en": [
+            "to stick"
+        ],
+        "fr": [
+            "coller"
+        ]
+    },
+    {
+        "en": [
+            "to fight"
+        ],
+        "fr": [
+            "combattre"
+        ]
+    },
+    {
+        "en": [
+            "to bet"
+        ],
+        "fr": [
+            "parier"
+        ]
+    },
+    {
+        "en": [
+            "to steal"
+        ],
+        "fr": [
+            "voler"
+        ]
+    },
+    {
+        "en": [
+            "to grow"
+        ],
+        "fr": [
+            "pousser"
+        ]
+    },
+    {
+        "en": [
+            "to build"
+        ],
+        "fr": [
+            "construire"
+        ]
+    },
+    {
+        "en": [
+            "to teach"
+        ],
+        "fr": [
+            "enseigner"
+        ]
+    },
+    {
+        "en": [
+            "to blow"
+        ],
+        "fr": [
+            "souffler"
+        ]
+    },
+    {
+        "en": [
+            "to sing"
+        ],
+        "fr": [
+            "chanter"
+        ]
+    },
+    {
+        "en": [
+            "to beat"
+        ],
+        "fr": [
+            "frapper",
+            "battre"
+        ]
+    },
+    {
+        "en": [
+            "to ride"
+        ],
+        "fr": [
+            "faire"
+        ]
+    },
+    {
+        "en": [
+            "just"
+        ],
+        "fr": [
+            "justement",
+            "de peu"
+        ]
+    },
+    {
+        "en": [
+            "so"
+        ],
+        "fr": [
+            "alors",
+            "tellement"
+        ]
+    },
+    {
+        "en": [
+            "yeah"
+        ],
+        "fr": [
+            "oui",
+            "ouais"
+        ]
+    },
+    {
+        "en": [
+            "well"
+        ],
+        "fr": [
+            "bien"
+        ]
+    },
+    {
+        "en": [
+            "here"
+        ],
+        "fr": [
+            "ici"
+        ]
+    },
+    {
+        "en": [
+            "out"
+        ],
+        "fr": [
+            "dehors"
+        ]
+    },
+    {
+        "en": [
+            "up"
+        ],
+        "fr": [
+            "debout",
+            "en haut"
+        ]
+    },
+    {
+        "en": [
+            "now"
+        ],
+        "fr": [
+            "maintenant"
+        ]
+    },
+    {
+        "en": [
+            "how"
+        ],
+        "fr": [
+            "comment"
+        ]
+    },
+    {
+        "en": [
+            "really"
+        ],
+        "fr": [
+            "vraiment"
+        ]
+    },
+    {
+        "en": [
+            "okay"
+        ],
+        "fr": [
+            "correctement"
+        ]
+    },
+    {
+        "en": [
+            "why"
+        ],
+        "fr": [
+            "pourquoi"
+        ]
+    },
+    {
+        "en": [
+            "there"
+        ],
+        "fr": [
+            "là",
+            "là-bas"
+        ]
+    },
+    {
+        "en": [
+            "like"
+        ],
+        "fr": [
+            "genre",
+            "environ"
+        ]
+    },
+    {
+        "en": [
+            "when"
+        ],
+        "fr": [
+            "quand"
+        ]
+    },
+    {
+        "en": [
+            "yes"
+        ],
+        "fr": [
+            "oui"
+        ]
+    },
+    {
+        "en": [
+            "back"
+        ],
+        "fr": [
+            "revenir",
+            "retourner"
+        ]
+    },
+    {
+        "en": [
+            "then"
+        ],
+        "fr": [
+            "puis",
+            "ensuite"
+        ]
+    },
+    {
+        "en": [
+            "where"
+        ],
+        "fr": [
+            "où"
+        ]
+    },
+    {
+        "en": [
+            "never"
+        ],
+        "fr": [
+            "jamais"
+        ]
+    },
+    {
+        "en": [
+            "too"
+        ],
+        "fr": [
+            "aussi"
+        ]
+    },
+    {
+        "en": [
+            "down"
+        ],
+        "fr": [
+            "en bas",
+            "vers le bas"
+        ]
+    },
+    {
+        "en": [
+            "very"
+        ],
+        "fr": [
+            "très"
+        ]
+    },
+    {
+        "en": [
+            "maybe"
+        ],
+        "fr": [
+            "peut-être"
+        ]
+    },
+    {
+        "en": [
+            "even"
+        ],
+        "fr": [
+            "même"
+        ]
+    },
+    {
+        "en": [
+            "please"
+        ],
+        "fr": [
+            "volontiers"
+        ]
+    },
+    {
+        "en": [
+            "right"
+        ],
+        "fr": [
+            "à droite"
+        ]
+    },
+    {
+        "en": [
+            "ever"
+        ],
+        "fr": [
+            "déjà",
+            "jamais"
+        ]
+    },
+    {
+        "en": [
+            "again"
+        ],
+        "fr": [
+            "encore"
+        ]
+    },
+    {
+        "en": [
+            "still"
+        ],
+        "fr": [
+            "toujours",
+            "encore"
+        ]
+    },
+    {
+        "en": [
+            "only"
+        ],
+        "fr": [
+            "seulement"
+        ]
+    },
+    {
+        "en": [
+            "always"
+        ],
+        "fr": [
+            "toujours"
+        ]
+    },
+    {
+        "en": [
+            "actually"
+        ],
+        "fr": [
+            "en réalité"
+        ]
+    },
+    {
+        "en": [
+            "away"
+        ],
+        "fr": [
+            "loin de"
+        ]
+    },
+    {
+        "en": [
+            "today"
+        ],
+        "fr": [
+            "aujourd'hui"
+        ]
+    },
+    {
+        "en": [
+            "together"
+        ],
+        "fr": [
+            "ensemble"
+        ]
+    },
+    {
+        "en": [
+            "long"
+        ],
+        "fr": [
+            "longtemps"
+        ]
+    },
+    {
+        "en": [
+            "tonight"
+        ],
+        "fr": [
+            "ce soir"
+        ]
+    },
+    {
+        "en": [
+            "else"
+        ],
+        "fr": [
+            "autrement"
+        ]
+    },
+    {
+        "en": [
+            "already"
+        ],
+        "fr": [
+            "déjà"
+        ]
+    },
+    {
+        "en": [
+            "once"
+        ],
+        "fr": [
+            "une fois",
+            "autrefois"
+        ]
+    },
+    {
+        "en": [
+            "probably"
+        ],
+        "fr": [
+            "probablement"
+        ]
+    },
+    {
+        "en": [
+            "anyway"
+        ],
+        "fr": [
+            "enfin",
+            "quand même"
+        ]
+    },
+    {
+        "en": [
+            "anymore"
+        ],
+        "fr": [
+            "ne plus"
+        ]
+    },
+    {
+        "en": [
+            "also"
+        ],
+        "fr": [
+            "également"
+        ]
+    },
+    {
+        "en": [
+            "totally"
+        ],
+        "fr": [
+            "totalement"
+        ]
+    },
+    {
+        "en": [
+            "exactly"
+        ],
+        "fr": [
+            "exactement"
+        ]
+    },
+    {
+        "en": [
+            "OK"
+        ],
+        "fr": [
+            "bien"
+        ]
+    },
+    {
+        "en": [
+            "ago"
+        ],
+        "fr": [
+            "il y a"
+        ]
+    },
+    {
+        "en": [
+            "finally"
+        ],
+        "fr": [
+            "enfin"
+        ]
+    },
+    {
+        "en": [
+            "sometimes"
+        ],
+        "fr": [
+            "parfois"
+        ]
+    },
+    {
+        "en": [
+            "soon"
+        ],
+        "fr": [
+            "bientôt"
+        ]
+    },
+    {
+        "en": [
+            "almost"
+        ],
+        "fr": [
+            "presque"
+        ]
+    },
+    {
+        "en": [
+            "ahead"
+        ],
+        "fr": [
+            "devant"
+        ]
+    },
+    {
+        "en": [
+            "seriously"
+        ],
+        "fr": [
+            "sérieusement"
+        ]
+    },
+    {
+        "en": [
+            "quite"
+        ],
+        "fr": [
+            "assez"
+        ]
+    },
+    {
+        "en": [
+            "yep"
+        ],
+        "fr": [
+            "ouais"
+        ]
+    },
+    {
+        "en": [
+            "absolutely"
+        ],
+        "fr": [
+            "absolument"
+        ]
+    },
+    {
+        "en": [
+            "next"
+        ],
+        "fr": [
+            "après"
+        ]
+    },
+    {
+        "en": [
+            "guy"
+        ],
+        "fr": [
+            "mec",
+            "gars"
+        ]
+    },
+    {
+        "en": [
+            "time"
+        ],
+        "fr": [
+            "temps"
+        ]
+    },
+    {
+        "en": [
+            "thing"
+        ],
+        "fr": [
+            "chose",
+            "truc"
+        ]
+    },
+    {
+        "en": [
+            "man"
+        ],
+        "fr": [
+            "homme"
+        ]
+    },
+    {
+        "en": [
+            "way"
+        ],
+        "fr": [
+            "façon",
+            "chemin"
+        ]
+    },
+    {
+        "en": [
+            "day"
+        ],
+        "fr": [
+            "jour"
+        ]
+    },
+    {
+        "en": [
+            "people"
+        ],
+        "fr": [
+            "les gens"
+        ]
+    },
+    {
+        "en": [
+            "dad"
+        ],
+        "fr": [
+            "papa"
+        ]
+    },
+    {
+        "en": [
+            "friend"
+        ],
+        "fr": [
+            "ami"
+        ]
+    },
+    {
+        "en": [
+            "kid"
+        ],
+        "fr": [
+            "enfant",
+            "gamin"
+        ]
+    },
+    {
+        "en": [
+            "boy"
+        ],
+        "fr": [
+            "garçon"
+        ]
+    },
+    {
+        "en": [
+            "night"
+        ],
+        "fr": [
+            "nuit"
+        ]
+    },
+    {
+        "en": [
+            "year"
+        ],
+        "fr": [
+            "an",
+            "année"
+        ]
+    },
+    {
+        "en": [
+            "Mr"
+        ],
+        "fr": [
+            "monsieur"
+        ]
+    },
+    {
+        "en": [
+            "mom"
+        ],
+        "fr": [
+            "maman"
+        ]
+    },
+    {
+        "en": [
+            "life"
+        ],
+        "fr": [
+            "vie"
+        ]
+    },
+    {
+        "en": [
+            "kind"
+        ],
+        "fr": [
+            "sorte",
+            "type"
+        ]
+    },
+    {
+        "en": [
+            "baby"
+        ],
+        "fr": [
+            "bébé"
+        ]
+    },
+    {
+        "en": [
+            "girl"
+        ],
+        "fr": [
+            "fille"
+        ]
+    },
+    {
+        "en": [
+            "woman"
+        ],
+        "fr": [
+            "femme"
+        ]
+    },
+    {
+        "en": [
+            "lot"
+        ],
+        "fr": [
+            "beaucoup"
+        ]
+    },
+    {
+        "en": [
+            "home"
+        ],
+        "fr": [
+            "maison",
+            "domicile"
+        ]
+    },
+    {
+        "en": [
+            "hell"
+        ],
+        "fr": [
+            "enfer"
+        ]
+    },
+    {
+        "en": [
+            "minute"
+        ],
+        "fr": [
+            "minute"
+        ]
+    },
+    {
+        "en": [
+            "place"
+        ],
+        "fr": [
+            "endroit"
+        ]
+    },
+    {
+        "en": [
+            "money"
+        ],
+        "fr": [
+            "argent"
+        ]
+    },
+    {
+        "en": [
+            "person"
+        ],
+        "fr": [
+            "personne"
+        ]
+    },
+    {
+        "en": [
+            "house"
+        ],
+        "fr": [
+            "maison"
+        ]
+    },
+    {
+        "en": [
+            "school"
+        ],
+        "fr": [
+            "école"
+        ]
+    },
+    {
+        "en": [
+            "car"
+        ],
+        "fr": [
+            "voiture"
+        ]
+    },
+    {
+        "en": [
+            "idea"
+        ],
+        "fr": [
+            "idée"
+        ]
+    },
+    {
+        "en": [
+            "week"
+        ],
+        "fr": [
+            "semaine"
+        ]
+    },
+    {
+        "en": [
+            "job"
+        ],
+        "fr": [
+            "travail"
+        ]
+    },
+    {
+        "en": [
+            "fun"
+        ],
+        "fr": [
+            "amusement"
+        ]
+    },
+    {
+        "en": [
+            "problem"
+        ],
+        "fr": [
+            "problème"
+        ]
+    },
+    {
+        "en": [
+            "world"
+        ],
+        "fr": [
+            "monde"
+        ]
+    },
+    {
+        "en": [
+            "party"
+        ],
+        "fr": [
+            "fête"
+        ]
+    },
+    {
+        "en": [
+            "room"
+        ],
+        "fr": [
+            "pièce",
+            "chambre"
+        ]
+    },
+    {
+        "en": [
+            "family"
+        ],
+        "fr": [
+            "famille"
+        ]
+    },
+    {
+        "en": [
+            "stuff"
+        ],
+        "fr": [
+            "affaires",
+            "choses"
+        ]
+    },
+    {
+        "en": [
+            "son"
+        ],
+        "fr": [
+            "fils"
+        ]
+    },
+    {
+        "en": [
+            "name"
+        ],
+        "fr": [
+            "nom",
+            "prénom"
+        ]
+    },
+    {
+        "en": [
+            "child"
+        ],
+        "fr": [
+            "enfant"
+        ]
+    },
+    {
+        "en": [
+            "course"
+        ],
+        "fr": [
+            "cours",
+            "route"
+        ]
+    },
+    {
+        "en": [
+            "game"
+        ],
+        "fr": [
+            "jeu"
+        ]
+    },
+    {
+        "en": [
+            "doctor"
+        ],
+        "fr": [
+            "médecin"
+        ]
+    },
+    {
+        "en": [
+            "dollar"
+        ],
+        "fr": [
+            "dollar"
+        ]
+    },
+    {
+        "en": [
+            "dog"
+        ],
+        "fr": [
+            "chien"
+        ]
+    },
+    {
+        "en": [
+            "sir"
+        ],
+        "fr": [
+            "monsieur"
+        ]
+    },
+    {
+        "en": [
+            "honey"
+        ],
+        "fr": [
+            "miel"
+        ]
+    },
+    {
+        "en": [
+            "sex"
+        ],
+        "fr": [
+            "sexe"
+        ]
+    },
+    {
+        "en": [
+            "head"
+        ],
+        "fr": [
+            "tête"
+        ]
+    },
+    {
+        "en": [
+            "movie"
+        ],
+        "fr": [
+            "film"
+        ]
+    },
+    {
+        "en": [
+            "hour"
+        ],
+        "fr": [
+            "heure"
+        ]
+    },
+    {
+        "en": [
+            "mother"
+        ],
+        "fr": [
+            "mère"
+        ]
+    },
+    {
+        "en": [
+            "word"
+        ],
+        "fr": [
+            "mot"
+        ]
+    },
+    {
+        "en": [
+            "father"
+        ],
+        "fr": [
+            "père"
+        ]
+    },
+    {
+        "en": [
+            "story"
+        ],
+        "fr": [
+            "histoire"
+        ]
+    },
+    {
+        "en": [
+            "part"
+        ],
+        "fr": [
+            "partie"
+        ]
+    },
+    {
+        "en": [
+            "lady"
+        ],
+        "fr": [
+            "dame"
+        ]
+    },
+    {
+        "en": [
+            "number"
+        ],
+        "fr": [
+            "nombre"
+        ]
+    },
+    {
+        "en": [
+            "morning"
+        ],
+        "fr": [
+            "matin"
+        ]
+    },
+    {
+        "en": [
+            "tomorrow"
+        ],
+        "fr": [
+            "demain"
+        ]
+    },
+    {
+        "en": [
+            "phone"
+        ],
+        "fr": [
+            "téléphone"
+        ]
+    },
+    {
+        "en": [
+            "eye"
+        ],
+        "fr": [
+            "œil"
+        ]
+    },
+    {
+        "en": [
+            "wife"
+        ],
+        "fr": [
+            "épouse"
+        ]
+    },
+    {
+        "en": [
+            "book"
+        ],
+        "fr": [
+            "livre"
+        ]
+    },
+    {
+        "en": [
+            "dinner"
+        ],
+        "fr": [
+            "dîner"
+        ]
+    },
+    {
+        "en": [
+            "hand"
+        ],
+        "fr": [
+            "main"
+        ]
+    },
+    {
+        "en": [
+            "television"
+        ],
+        "fr": [
+            "télévision"
+        ]
+    },
+    {
+        "en": [
+            "town"
+        ],
+        "fr": [
+            "ville"
+        ]
+    },
+    {
+        "en": [
+            "date"
+        ],
+        "fr": [
+            "date",
+            "rendez-vous"
+        ]
+    },
+    {
+        "en": [
+            "office"
+        ],
+        "fr": [
+            "bureau"
+        ]
+    },
+    {
+        "en": [
+            "food"
+        ],
+        "fr": [
+            "nourriture"
+        ]
+    },
+    {
+        "en": [
+            "news"
+        ],
+        "fr": [
+            "nouvelles",
+            "info"
+        ]
+    },
+    {
+        "en": [
+            "ass"
+        ],
+        "fr": [
+            "cul"
+        ]
+    },
+    {
+        "en": [
+            "business"
+        ],
+        "fr": [
+            "commerce"
+        ]
+    },
+    {
+        "en": [
+            "couple"
+        ],
+        "fr": [
+            "couple"
+        ]
+    },
+    {
+        "en": [
+            "door"
+        ],
+        "fr": [
+            "porte"
+        ]
+    },
+    {
+        "en": [
+            "parent"
+        ],
+        "fr": [
+            "parent"
+        ]
+    },
+    {
+        "en": [
+            "month"
+        ],
+        "fr": [
+            "mois"
+        ]
+    },
+    {
+        "en": [
+            "deal"
+        ],
+        "fr": [
+            "accord"
+        ]
+    },
+    {
+        "en": [
+            "brother"
+        ],
+        "fr": [
+            "frère"
+        ]
+    },
+    {
+        "en": [
+            "work"
+        ],
+        "fr": [
+            "travail"
+        ]
+    },
+    {
+        "en": [
+            "other"
+        ],
+        "fr": [
+            "autre"
+        ]
+    },
+    {
+        "en": [
+            "ball"
+        ],
+        "fr": [
+            "balle"
+        ]
+    },
+    {
+        "en": [
+            "line"
+        ],
+        "fr": [
+            "ligne"
+        ]
+    },
+    {
+        "en": [
+            "heart"
+        ],
+        "fr": [
+            "cœur"
+        ]
+    },
+    {
+        "en": [
+            "class"
+        ],
+        "fr": [
+            "classe",
+            "cours"
+        ]
+    },
+    {
+        "en": [
+            "picture"
+        ],
+        "fr": [
+            "photo"
+        ]
+    },
+    {
+        "en": [
+            "side"
+        ],
+        "fr": [
+            "côté"
+        ]
+    },
+    {
+        "en": [
+            "love"
+        ],
+        "fr": [
+            "amour"
+        ]
+    },
+    {
+        "en": [
+            "mind"
+        ],
+        "fr": [
+            "esprit"
+        ]
+    },
+    {
+        "en": [
+            "hair"
+        ],
+        "fr": [
+            "cheveux"
+        ]
+    },
+    {
+        "en": [
+            "wedding"
+        ],
+        "fr": [
+            "mariage"
+        ]
+    },
+    {
+        "en": [
+            "reason"
+        ],
+        "fr": [
+            "raison"
+        ]
+    },
+    {
+        "en": [
+            "look"
+        ],
+        "fr": [
+            "apparence",
+            "coup d'œil"
+        ]
+    },
+    {
+        "en": [
+            "bed"
+        ],
+        "fr": [
+            "lit"
+        ]
+    },
+    {
+        "en": [
+            "paper"
+        ],
+        "fr": [
+            "papier"
+        ]
+    },
+    {
+        "en": [
+            "face"
+        ],
+        "fr": [
+            "visage"
+        ]
+    },
+    {
+        "en": [
+            "city"
+        ],
+        "fr": [
+            "ville"
+        ]
+    },
+    {
+        "en": [
+            "question"
+        ],
+        "fr": [
+            "question"
+        ]
+    },
+    {
+        "en": [
+            "dude"
+        ],
+        "fr": [
+            "mec"
+        ]
+    },
+    {
+        "en": [
+            "birthday"
+        ],
+        "fr": [
+            "anniversaire"
+        ]
+    },
+    {
+        "en": [
+            "point"
+        ],
+        "fr": [
+            "point"
+        ]
+    },
+    {
+        "en": [
+            "fact"
+        ],
+        "fr": [
+            "fait"
+        ]
+    },
+    {
+        "en": [
+            "bar"
+        ],
+        "fr": [
+            "bar"
+        ]
+    },
+    {
+        "en": [
+            "joke"
+        ],
+        "fr": [
+            "rigoler"
+        ]
+    },
+    {
+        "en": [
+            "relationship"
+        ],
+        "fr": [
+            "relation"
+        ]
+    },
+    {
+        "en": [
+            "chance"
+        ],
+        "fr": [
+            "chance"
+        ]
+    },
+    {
+        "en": [
+            "card"
+        ],
+        "fr": [
+            "carte"
+        ]
+    },
+    {
+        "en": [
+            "song"
+        ],
+        "fr": [
+            "chanson"
+        ]
+    },
+    {
+        "en": [
+            "coffee"
+        ],
+        "fr": [
+            "café"
+        ]
+    },
+    {
+        "en": [
+            "apartment"
+        ],
+        "fr": [
+            "appartement"
+        ]
+    },
+    {
+        "en": [
+            "back"
+        ],
+        "fr": [
+            "dos"
+        ]
+    },
+    {
+        "en": [
+            "box"
+        ],
+        "fr": [
+            "boîte"
+        ]
+    },
+    {
+        "en": [
+            "dream"
+        ],
+        "fr": [
+            "rêve"
+        ]
+    },
+    {
+        "en": [
+            "water"
+        ],
+        "fr": [
+            "eau"
+        ]
+    },
+    {
+        "en": [
+            "store"
+        ],
+        "fr": [
+            "magasin"
+        ]
+    },
+    {
+        "en": [
+            "lunch"
+        ],
+        "fr": [
+            "déjeuner"
+        ]
+    },
+    {
+        "en": [
+            "buddy"
+        ],
+        "fr": [
+            "pote"
+        ]
+    },
+    {
+        "en": [
+            "bathroom"
+        ],
+        "fr": [
+            "salle de bains"
+        ]
+    },
+    {
+        "en": [
+            "show"
+        ],
+        "fr": [
+            "spectacle"
+        ]
+    },
+    {
+        "en": [
+            "company"
+        ],
+        "fr": [
+            "entreprise"
+        ]
+    },
+    {
+        "en": [
+            "front"
+        ],
+        "fr": [
+            "devant"
+        ]
+    },
+    {
+        "en": [
+            "moment"
+        ],
+        "fr": [
+            "moment"
+        ]
+    },
+    {
+        "en": [
+            "case"
+        ],
+        "fr": [
+            "cas"
+        ]
+    },
+    {
+        "en": [
+            "body"
+        ],
+        "fr": [
+            "corps"
+        ]
+    },
+    {
+        "en": [
+            "Mrs"
+        ],
+        "fr": [
+            "Mme"
+        ]
+    },
+    {
+        "en": [
+            "pants"
+        ],
+        "fr": [
+            "pantalon"
+        ]
+    },
+    {
+        "en": [
+            "bitch"
+        ],
+        "fr": [
+            "garce"
+        ]
+    },
+    {
+        "en": [
+            "table"
+        ],
+        "fr": [
+            "table"
+        ]
+    },
+    {
+        "en": [
+            "ticket"
+        ],
+        "fr": [
+            "billet"
+        ]
+    },
+    {
+        "en": [
+            "cat"
+        ],
+        "fr": [
+            "chat"
+        ]
+    },
+    {
+        "en": [
+            "sister"
+        ],
+        "fr": [
+            "sœur"
+        ]
+    },
+    {
+        "en": [
+            "girlfriend"
+        ],
+        "fr": [
+            "copine"
+        ]
+    },
+    {
+        "en": [
+            "hat"
+        ],
+        "fr": [
+            "chapeau"
+        ]
+    },
+    {
+        "en": [
+            "beer"
+        ],
+        "fr": [
+            "bière"
+        ]
+    },
+    {
+        "en": [
+            "club"
+        ],
+        "fr": [
+            "club"
+        ]
+    },
+    {
+        "en": [
+            "gift"
+        ],
+        "fr": [
+            "cadeau"
+        ]
+    },
+    {
+        "en": [
+            "street"
+        ],
+        "fr": [
+            "rue"
+        ]
+    },
+    {
+        "en": [
+            "team"
+        ],
+        "fr": [
+            "équipe"
+        ]
+    },
+    {
+        "en": [
+            "seat"
+        ],
+        "fr": [
+            "siège"
+        ]
+    },
+    {
+        "en": [
+            "foot"
+        ],
+        "fr": [
+            "pied"
+        ]
+    },
+    {
+        "en": [
+            "gentleman"
+        ],
+        "fr": [
+            "gentleman"
+        ]
+    },
+    {
+        "en": [
+            "trouble"
+        ],
+        "fr": [
+            "ennuis",
+            "difficultés"
+        ]
+    },
+    {
+        "en": [
+            "sweetie"
+        ],
+        "fr": [
+            "bonbon"
+        ]
+    },
+    {
+        "en": [
+            "piece"
+        ],
+        "fr": [
+            "morceau"
+        ]
+    },
+    {
+        "en": [
+            "shoe"
+        ],
+        "fr": [
+            "chaussure"
+        ]
+    },
+    {
+        "en": [
+            "god"
+        ],
+        "fr": [
+            "dieu"
+        ]
+    },
+    {
+        "en": [
+            "bag"
+        ],
+        "fr": [
+            "sac"
+        ]
+    },
+    {
+        "en": [
+            "fire"
+        ],
+        "fr": [
+            "feu"
+        ]
+    },
+    {
+        "en": [
+            "country"
+        ],
+        "fr": [
+            "pays"
+        ]
+    },
+    {
+        "en": [
+            "mouth"
+        ],
+        "fr": [
+            "bouche"
+        ]
+    },
+    {
+        "en": [
+            "husband"
+        ],
+        "fr": [
+            "mari",
+            "époux"
+        ]
+    },
+    {
+        "en": [
+            "rest"
+        ],
+        "fr": [
+            "repos"
+        ]
+    },
+    {
+        "en": [
+            "key"
+        ],
+        "fr": [
+            "clé"
+        ]
+    },
+    {
+        "en": [
+            "end"
+        ],
+        "fr": [
+            "fin"
+        ]
+    },
+    {
+        "en": [
+            "help"
+        ],
+        "fr": [
+            "aide"
+        ]
+    },
+    {
+        "en": [
+            "machine"
+        ],
+        "fr": [
+            "machine"
+        ]
+    },
+    {
+        "en": [
+            "space"
+        ],
+        "fr": [
+            "espace"
+        ]
+    },
+    {
+        "en": [
+            "truth"
+        ],
+        "fr": [
+            "vérité"
+        ]
+    },
+    {
+        "en": [
+            "ice"
+        ],
+        "fr": [
+            "glace"
+        ]
+    },
+    {
+        "en": [
+            "idiot"
+        ],
+        "fr": [
+            "idiot"
+        ]
+    },
+    {
+        "en": [
+            "rule"
+        ],
+        "fr": [
+            "règle"
+        ]
+    },
+    {
+        "en": [
+            "need"
+        ],
+        "fr": [
+            "besoin"
+        ]
+    },
+    {
+        "en": [
+            "chicken"
+        ],
+        "fr": [
+            "poulet"
+        ]
+    },
+    {
+        "en": [
+            "music"
+        ],
+        "fr": [
+            "musique"
+        ]
+    },
+    {
+        "en": [
+            "good"
+        ],
+        "fr": [
+            "bon"
+        ]
+    },
+    {
+        "en": [
+            "right"
+        ],
+        "fr": [
+            "correct"
+        ]
+    },
+    {
+        "en": [
+            "little"
+        ],
+        "fr": [
+            "petit"
+        ]
+    },
+    {
+        "en": [
+            "okay"
+        ],
+        "fr": [
+            "bien",
+            "pas grave"
+        ]
+    },
+    {
+        "en": [
+            "great"
+        ],
+        "fr": [
+            "génial"
+        ]
+    },
+    {
+        "en": [
+            "sorry"
+        ],
+        "fr": [
+            "désolé"
+        ]
+    },
+    {
+        "en": [
+            "big"
+        ],
+        "fr": [
+            "gros",
+            "grand"
+        ]
+    },
+    {
+        "en": [
+            "sure"
+        ],
+        "fr": [
+            "sûr",
+            "certain"
+        ]
+    },
+    {
+        "en": [
+            "bad"
+        ],
+        "fr": [
+            "mauvais"
+        ]
+    },
+    {
+        "en": [
+            "nice"
+        ],
+        "fr": [
+            "gentil",
+            "sympa"
+        ]
+    },
+    {
+        "en": [
+            "new"
+        ],
+        "fr": [
+            "nouveau"
+        ]
+    },
+    {
+        "en": [
+            "fine"
+        ],
+        "fr": [
+            "bon",
+            "bien"
+        ]
+    },
+    {
+        "en": [
+            "old"
+        ],
+        "fr": [
+            "vieux"
+        ]
+    },
+    {
+        "en": [
+            "other"
+        ],
+        "fr": [
+            "autre"
+        ]
+    },
+    {
+        "en": [
+            "wrong"
+        ],
+        "fr": [
+            "faux"
+        ]
+    },
+    {
+        "en": [
+            "late"
+        ],
+        "fr": [
+            "tard"
+        ]
+    },
+    {
+        "en": [
+            "real"
+        ],
+        "fr": [
+            "réel",
+            "vrai"
+        ]
+    },
+    {
+        "en": [
+            "happy"
+        ],
+        "fr": [
+            "heureux"
+        ]
+    },
+    {
+        "en": [
+            "whole"
+        ],
+        "fr": [
+            "entier"
+        ]
+    },
+    {
+        "en": [
+            "stupid"
+        ],
+        "fr": [
+            "stupide"
+        ]
+    },
+    {
+        "en": [
+            "pretty"
+        ],
+        "fr": [
+            "joli"
+        ]
+    },
+    {
+        "en": [
+            "own"
+        ],
+        "fr": [
+            "propre"
+        ]
+    },
+    {
+        "en": [
+            "funny"
+        ],
+        "fr": [
+            "marrant"
+        ]
+    },
+    {
+        "en": [
+            "hard"
+        ],
+        "fr": [
+            "dur"
+        ]
+    },
+    {
+        "en": [
+            "cool"
+        ],
+        "fr": [
+            "frais",
+            "super"
+        ]
+    },
+    {
+        "en": [
+            "crazy"
+        ],
+        "fr": [
+            "fou"
+        ]
+    },
+    {
+        "en": [
+            "hot"
+        ],
+        "fr": [
+            "chaud"
+        ]
+    },
+    {
+        "en": [
+            "same"
+        ],
+        "fr": [
+            "même"
+        ]
+    },
+    {
+        "en": [
+            "ready"
+        ],
+        "fr": [
+            "prêt"
+        ]
+    },
+    {
+        "en": [
+            "next"
+        ],
+        "fr": [
+            "prochain",
+            "suivant"
+        ]
+    },
+    {
+        "en": [
+            "dead"
+        ],
+        "fr": [
+            "mort"
+        ]
+    },
+    {
+        "en": [
+            "beautiful"
+        ],
+        "fr": [
+            "beau"
+        ]
+    },
+    {
+        "en": [
+            "true"
+        ],
+        "fr": [
+            "vrai"
+        ]
+    },
+    {
+        "en": [
+            "sweet"
+        ],
+        "fr": [
+            "sucré",
+            "doux"
+        ]
+    },
+    {
+        "en": [
+            "high"
+        ],
+        "fr": [
+            "haut"
+        ]
+    },
+    {
+        "en": [
+            "only"
+        ],
+        "fr": [
+            "seul"
+        ]
+    },
+    {
+        "en": [
+            "gay"
+        ],
+        "fr": [
+            "gai",
+            "homosexuel"
+        ]
+    },
+    {
+        "en": [
+            "easy"
+        ],
+        "fr": [
+            "facile"
+        ]
+    },
+    {
+        "en": [
+            "perfect"
+        ],
+        "fr": [
+            "parfait"
+        ]
+    },
+    {
+        "en": [
+            "free"
+        ],
+        "fr": [
+            "libre",
+            "gratuit"
+        ]
+    },
+    {
+        "en": [
+            "young"
+        ],
+        "fr": [
+            "jeune"
+        ]
+    },
+    {
+        "en": [
+            "weird"
+        ],
+        "fr": [
+            "bizarre"
+        ]
+    },
+    {
+        "en": [
+            "important"
+        ],
+        "fr": [
+            "important"
+        ]
+    },
+    {
+        "en": [
+            "long"
+        ],
+        "fr": [
+            "long"
+        ]
+    },
+    {
+        "en": [
+            "fat"
+        ],
+        "fr": [
+            "gros"
+        ]
+    },
+    {
+        "en": [
+            "different"
+        ],
+        "fr": [
+            "différent"
+        ]
+    },
+    {
+        "en": [
+            "special"
+        ],
+        "fr": [
+            "spécial"
+        ]
+    },
+    {
+        "en": [
+            "black"
+        ],
+        "fr": [
+            "noir"
+        ]
+    },
+    {
+        "en": [
+            "awesome"
+        ],
+        "fr": [
+            "génial"
+        ]
+    },
+    {
+        "en": [
+            "sick"
+        ],
+        "fr": [
+            "malade"
+        ]
+    },
+    {
+        "en": [
+            "afraid"
+        ],
+        "fr": [
+            "effrayé"
+        ]
+    },
+    {
+        "en": [
+            "cute"
+        ],
+        "fr": [
+            "mignon"
+        ]
+    },
+    {
+        "en": [
+            "close"
+        ],
+        "fr": [
+            "proche"
+        ]
+    },
+    {
+        "en": [
+            "full"
+        ],
+        "fr": [
+            "plein"
+        ]
+    },
+    {
+        "en": [
+            "glad"
+        ],
+        "fr": [
+            "content"
+        ]
+    },
+    {
+        "en": [
+            "terrible"
+        ],
+        "fr": [
+            "terrible"
+        ]
+    },
+    {
+        "en": [
+            "serious"
+        ],
+        "fr": [
+            "sérieux"
+        ]
+    },
+    {
+        "en": [
+            "alone"
+        ],
+        "fr": [
+            "seul"
+        ]
+    },
+    {
+        "en": [
+            "small"
+        ],
+        "fr": [
+            "petit"
+        ]
+    },
+    {
+        "en": [
+            "welcome"
+        ],
+        "fr": [
+            "bienvenu"
+        ]
+    },
+    {
+        "en": [
+            "white"
+        ],
+        "fr": [
+            "blanc"
+        ]
+    },
+    {
+        "en": [
+            "early"
+        ],
+        "fr": [
+            "tôt"
+        ]
+    },
+    {
+        "en": [
+            "wonderful"
+        ],
+        "fr": [
+            "merveilleux"
+        ]
+    },
+    {
+        "en": [
+            "dear"
+        ],
+        "fr": [
+            "cher"
+        ]
+    },
+    {
+        "en": [
+            "smart"
+        ],
+        "fr": [
+            "intelligent"
+        ]
+    },
+    {
+        "en": [
+            "red"
+        ],
+        "fr": [
+            "rouge"
+        ]
+    },
+    {
+        "en": [
+            "mad"
+        ],
+        "fr": [
+            "en colère"
+        ]
+    },
+    {
+        "en": [
+            "oh"
+        ],
+        "fr": [
+            "eh",
+            "oh"
+        ]
+    },
+    {
+        "en": [
+            "hey"
+        ],
+        "fr": [
+            "salut",
+            "hé"
+        ]
+    },
+    {
+        "en": [
+            "uh"
+        ],
+        "fr": [
+            "euh"
+        ]
+    },
+    {
+        "en": [
+            "God"
+        ],
+        "fr": [
+            "Dieu"
+        ]
+    },
+    {
+        "en": [
+            "right"
+        ],
+        "fr": [
+            "hein",
+            "n'est-ce pas"
+        ]
+    },
+    {
+        "en": [
+            "hi"
+        ],
+        "fr": [
+            "salut"
+        ]
+    },
+    {
+        "en": [
+            "hello"
+        ],
+        "fr": [
+            "bonjour"
+        ]
+    },
+    {
+        "en": [
+            "hmm"
+        ],
+        "fr": [
+            "heu",
+            "hum"
+        ]
+    },
+    {
+        "en": [
+            "huh"
+        ],
+        "fr": [
+            "hein",
+            "bof",
+            "quoi"
+        ]
+    },
+    {
+        "en": [
+            "wow"
+        ],
+        "fr": [
+            "waouh"
+        ]
+    },
+    {
+        "en": [
+            "thanks"
+        ],
+        "fr": [
+            "merci"
+        ]
+    },
+    {
+        "en": [
+            "ah"
+        ],
+        "fr": [
+            "ah",
+            "oh"
+        ]
+    },
+    {
+        "en": [
+            "whoa"
+        ],
+        "fr": [
+            "holà"
+        ]
+    },
+    {
+        "en": [
+            "aw"
+        ],
+        "fr": [
+            "oh !"
+        ]
+    },
+    {
+        "en": [
+            "ha"
+        ],
+        "fr": [
+            "ha ha"
+        ]
+    },
+    {
+        "en": [
+            "bye"
+        ],
+        "fr": [
+            "au revoir",
+            "salut"
+        ]
+    },
+    {
+        "en": [
+            "sorry"
+        ],
+        "fr": [
+            "désolé"
+        ]
+    },
+    {
+        "en": [
+            "damn"
+        ],
+        "fr": [
+            "zut"
+        ]
+    },
+    {
+        "en": [
+            "mm-hmm"
+        ],
+        "fr": [
+            "oui oui"
+        ]
+    },
+    {
+        "en": [
+            "eh"
+        ],
+        "fr": [
+            "hein"
+        ]
+    },
+    {
+        "en": [
+            "shh"
+        ],
+        "fr": [
+            "chut"
+        ]
+    },
+    {
+        "en": [
+            "one"
+        ],
+        "fr": [
+            "un",
+            "une"
+        ]
+    },
+    {
+        "en": [
+            "two"
+        ],
+        "fr": [
+            "deux"
+        ]
+    },
+    {
+        "en": [
+            "first"
+        ],
+        "fr": [
+            "premier",
+            "première"
+        ]
+    },
+    {
+        "en": [
+            "three"
+        ],
+        "fr": [
+            "trois"
+        ]
+    },
+    {
+        "en": [
+            "five"
+        ],
+        "fr": [
+            "cinq"
+        ]
+    },
+    {
+        "en": [
+            "second"
+        ],
+        "fr": [
+            "deuxième"
+        ]
+    },
+    {
+        "en": [
+            "four"
+        ],
+        "fr": [
+            "quatre"
+        ]
+    },
+    {
+        "en": [
+            "last"
+        ],
+        "fr": [
+            "dernier",
+            "dernière"
+        ]
+    },
+    {
+        "en": [
+            "ten"
+        ],
+        "fr": [
+            "dix"
+        ]
+    },
+    {
+        "en": [
+            "six"
+        ],
+        "fr": [
+            "six"
+        ]
+    },
+    {
+        "en": [
+            "zero"
+        ],
+        "fr": [
+            "zéro"
+        ]
+    },
+    {
+        "en": [
+            "eight"
+        ],
+        "fr": [
+            "huit"
+        ]
+    },
+    {
+        "en": [
+            "twenty"
+        ],
+        "fr": [
+            "vingt"
+        ]
+    },
+    {
+        "en": [
+            "seven"
+        ],
+        "fr": [
+            "sept"
+        ]
+    },
+    {
+        "en": [
+            "God"
+        ],
+        "fr": [
+            "Dieu"
+        ]
+    },
+    {
+        "en": [
+            "Christmas"
+        ],
+        "fr": [
+            "Noël"
+        ]
+    },
+    {
+        "en": [
+            "American"
+        ],
+        "fr": [
+            "américain",
+            "américaine"
+        ]
+    },
+    {
+        "en": [
+            "Earth"
+        ],
+        "fr": [
+            "Terre"
+        ]
+    },
+    {
+        "en": [
+            "Santa"
+        ],
+        "fr": [
+            "Père Noël"
+        ]
+    },
+    {
+        "en": [
+            "Saturday"
+        ],
+        "fr": [
+            "samedi"
+        ]
+    },
+    {
+        "en": [
+            "Jew"
+        ],
+        "fr": [
+            "juif"
+        ]
+    },
+    {
+        "en": [
+            "Friday"
+        ],
+        "fr": [
+            "vendredi"
+        ]
+    },
+    {
+        "en": [
+            "Chinese"
+        ],
+        "fr": [
+            "chinois",
+            "chinoise"
+        ]
+    },
+    {
+        "en": [
+            "Internet"
+        ],
+        "fr": [
+            "Internet"
+        ]
+    },
+    {
+        "en": [
+            "light"
+        ],
+        "fr": [
+            "léger",
+            "lumière"
+        ]
+    },
+    {
+        "en": [
+            "mistake"
+        ],
+        "fr": [
+            "faute",
+            "erreur"
+        ]
+    },
+    {
+        "en": [
+            "far"
+        ],
+        "fr": [
+            "loin"
+        ]
+    },
+    {
+        "en": [
+            "answer"
+        ],
+        "fr": [
+            "réponse"
+        ]
+    },
+    {
+        "en": [
+            "safe"
+        ],
+        "fr": [
+            "sûr"
+        ]
+    },
+    {
+        "en": [
+            "fix"
+        ],
+        "fr": [
+            "réparer",
+            "corriger"
+        ]
+    },
+    {
+        "en": [
+            "burn"
+        ],
+        "fr": [
+            "brûler",
+            "graver"
+        ]
+    },
+    {
+        "en": [
+            "push"
+        ],
+        "fr": [
+            "pousser"
+        ]
+    },
+    {
+        "en": [
+            "floor"
+        ],
+        "fr": [
+            "sol",
+            "étage"
+        ]
+    },
+    {
+        "en": [
+            "share"
+        ],
+        "fr": [
+            "partager"
+        ]
+    },
+    {
+        "en": [
+            "midnight"
+        ],
+        "fr": [
+            "minuit"
+        ]
+    },
+    {
+        "en": [
+            "candle"
+        ],
+        "fr": [
+            "bougie"
+        ]
+    },
+    {
+        "en": [
+            "nowhere"
+        ],
+        "fr": [
+            "nulle part"
+        ]
+    },
+    {
+        "en": [
+            "pet"
+        ],
+        "fr": [
+            "animal de compagnie"
+        ]
+    },
+    {
+        "en": [
+            "twin"
+        ],
+        "fr": [
+            "jumeau",
+            "jumelle"
+        ]
+    },
+    {
+        "en": [
+            "successful"
+        ],
+        "fr": [
+            "réussi"
+        ]
+    },
+    {
+        "en": [
+            "nap"
+        ],
+        "fr": [
+            "sieste"
+        ]
+    },
+    {
+        "en": [
+            "throat"
+        ],
+        "fr": [
+            "gorge"
+        ]
+    },
+    {
+        "en": [
+            "regret"
+        ],
+        "fr": [
+            "regretter"
+        ]
+    },
+    {
+        "en": [
+            "fashion"
+        ],
+        "fr": [
+            "mode"
+        ]
+    },
+    {
+        "en": [
+            "ant"
+        ],
+        "fr": [
+            "fourmi"
+        ]
+    },
+    {
+        "en": [
+            "spy"
+        ],
+        "fr": [
+            "espionner"
+        ]
+    },
+    {
+        "en": [
+            "dice"
+        ],
+        "fr": [
+            "dés"
+        ]
+    },
+    {
+        "en": [
+            "cube"
+        ],
+        "fr": [
+            "cube"
+        ]
+    },
+    {
+        "en": [
+            "likely"
+        ],
+        "fr": [
+            "probable"
+        ]
+    },
+    {
+        "en": [
+            "priest"
+        ],
+        "fr": [
+            "prêtre"
+        ]
+    },
+    {
+        "en": [
+            "delete"
+        ],
+        "fr": [
+            "supprimer"
+        ]
+    },
+    {
+        "en": [
+            "slightly"
+        ],
+        "fr": [
+            "légèrement"
+        ]
+    },
+    {
+        "en": [
+            "progress"
+        ],
+        "fr": [
+            "progresser"
+        ]
+    },
+    {
+        "en": [
+            "chop"
+        ],
+        "fr": [
+            "couper",
+            "hacher"
+        ]
+    },
+    {
+        "en": [
+            "burglar"
+        ],
+        "fr": [
+            "cambrioleur"
+        ]
+    },
+    {
+        "en": [
+            "flu"
+        ],
+        "fr": [
+            "grippe"
+        ]
+    },
+    {
+        "en": [
+            "roast"
+        ],
+        "fr": [
+            "rôtir"
+        ]
+    },
+    {
+        "en": [
+            "web"
+        ],
+        "fr": [
+            "la toile",
+            "toile d'arraignée"
+        ]
+    },
+    {
+        "en": [
+            "depressing"
+        ],
+        "fr": [
+            "déprimant"
+        ]
+    },
+    {
+        "en": [
+            "fluffy"
+        ],
+        "fr": [
+            "duveteux"
+        ]
+    },
+    {
+        "en": [
+            "shrink"
+        ],
+        "fr": [
+            "diminuer",
+            "psy"
+        ]
+    },
+    {
+        "en": [
+            "wrist"
+        ],
+        "fr": [
+            "poignet"
+        ]
+    },
+    {
+        "en": [
+            "instruction"
+        ],
+        "fr": [
+            "instruction"
+        ]
+    },
+    {
+        "en": [
+            "nag"
+        ],
+        "fr": [
+            "critiquer constamment"
+        ]
+    },
+    {
+        "en": [
+            "sour"
+        ],
+        "fr": [
+            "aigre"
+        ]
+    },
+    {
+        "en": [
+            "traitor"
+        ],
+        "fr": [
+            "traître"
+        ]
+    },
+    {
+        "en": [
+            "cattle"
+        ],
+        "fr": [
+            "bétail"
+        ]
+    },
+    {
+        "en": [
+            "ease"
+        ],
+        "fr": [
+            "aisance"
+        ]
+    },
+    {
+        "en": [
+            "blow"
+        ],
+        "fr": [
+            "souffler"
+        ]
+    },
+    {
+        "en": [
+            "cozy"
+        ],
+        "fr": [
+            "douillet"
+        ]
+    },
+    {
+        "en": [
+            "filth"
+        ],
+        "fr": [
+            "saleté"
+        ]
+    },
+    {
+        "en": [
+            "leaf"
+        ],
+        "fr": [
+            "feuille"
+        ]
+    },
+    {
+        "en": [
+            "strongly"
+        ],
+        "fr": [
+            "fortement"
+        ]
+    },
+    {
+        "en": [
+            "scent"
+        ],
+        "fr": [
+            "odeur"
+        ]
+    }
+]

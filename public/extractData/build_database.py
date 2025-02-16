@@ -1,11 +1,11 @@
+import re
+import json
+
 # init database
-database = {
-    "word" : [],
-    "translation" : [],
-}
+database = []
 
 # ouverture du ficier
-with open("extractData/brutData_html.txt", 'r', encoding="utf-8") as file:
+with open("public/extractData/brutData_html.txt", 'r', encoding="utf-8") as file:
     data_html = file.readlines()
 
 
@@ -15,6 +15,19 @@ with open("extractData/brutData_html.txt", 'r', encoding="utf-8") as file:
 # init loop settings
 batch_count = 0
 batch_data = []
+
+# Supprime <td> et </td> et les ()
+def cleaningData(data):
+    cleaned_data = re.sub(r"</?td>", "", data)
+    cleaned_data = re.sub(r"\n", "", cleaned_data)
+    cleaned_data = re.sub(r"\s*\(.*?\)\s*", "", cleaned_data)
+
+    # Vérifie si une virgule est présente, si oui, split et retourne un tableau
+    if "," in cleaned_data:
+        return [item.strip() for item in cleaned_data.split(",")]
+
+    return [cleaned_data]
+
 
 # traitement des données
 for i in range(len(data_html)):
@@ -32,6 +45,12 @@ for i in range(len(data_html)):
             batch_data.append("<td>many/much</td>")
             batch_count += 1
 
+        # retirer les mots non valides
+        elif ("fuck" in data_html[i] or '<td>s</td>\n' == data_html[i] or '<td>to</td>\n' == data_html[i] ):
+            # print(data_html[i])  # -test
+            batch_data.append("<td>****</td>")
+            batch_count += 1
+
         else:
             batch_data.append(data_html[i])
             batch_count += 1
@@ -41,12 +60,21 @@ for i in range(len(data_html)):
             # print(batch_data) # -test 
 
             # remplir la base de données
-            database["word"].append(batch_data[0])
-            database["translation"].append(batch_data[2])
-                
+            if ("****" in batch_data[0]):
+                True # ne rien faire
+
+            else:
+                database.append({"en" : cleaningData(batch_data[0]), "fr" : cleaningData(batch_data[2])})
+
             # reset loop settings
             batch_data = []
             batch_count = 0
 
 
-print(database)
+# print(database) # -test
+
+# Sauvegarde les données nettoyées dans un fichier JSON
+with open("public/extractData/cleanData.json", "w", encoding="utf-8") as json_file:
+    json.dump(database, json_file, ensure_ascii=False, indent=4)
+
+print("✅ Données exportées dans cleanData.json")

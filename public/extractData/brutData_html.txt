@@ -4532,36 +4532,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>AIDS</td>
-<td><span lang="fonipa">&#47;eɪdz&#47;</span></td>
-<td>SIDA</td>
-<td>1725</td>
-</tr>
-<tr>
-<td>DVD</td>
-<td><span lang="fonipa">&#47;dividi&#47;</span></td>
-<td>DVD</td>
-<td>1875</td>
-</tr>
-<tr>
-<td>CD</td>
-<td><span lang="fonipa">&#47;sidi&#47;</span></td>
-<td>CD</td>
-<td>2725</td>
-</tr>
-<tr>
-<td><a href="https://bilingueanglais.com/blog/19951/heure-en-anglais/">a.m.</a></td>
-<td><span lang="fonipa">&#47;eɪem&#47;</span></td>
-<td>du matin</td>
-<td>3027</td>
-</tr>
-<tr>
-<td>DNA</td>
-<td><span lang="fonipa">&#47;diɛneɪ&#47;</span></td>
-<td>ADN</td>
-<td>3458</td>
-</tr>
 </tbody>
 </table>
 <p>📱 Les abréviations sont très courantes dans <a href="https://bilingueanglais.com/blog/4861/langage-sms-anglais/">le langage SMS en anglais</a> !</p>
