@@ -1594,7 +1594,8 @@
             "to get"
         ],
         "fr": [
-            "recevoir"
+            "recevoir",
+            "obtenir"
         ]
     },
     {
@@ -3366,7 +3367,8 @@
             "heart"
         ],
         "fr": [
-            "cœur"
+            "cœur",
+            "coeur"
         ]
     },
     {
@@ -3656,7 +3658,8 @@
             "company"
         ],
         "fr": [
-            "entreprise"
+            "entreprise",
+            "compagnie"
         ]
     },
     {
@@ -4200,7 +4203,8 @@
             "funny"
         ],
         "fr": [
-            "marrant"
+            "marrant",
+            "drôle"
         ]
     },
     {
@@ -4558,166 +4562,6 @@
         ],
         "fr": [
             "en colère"
-        ]
-    },
-    {
-        "en": [
-            "oh"
-        ],
-        "fr": [
-            "eh",
-            "oh"
-        ]
-    },
-    {
-        "en": [
-            "hey"
-        ],
-        "fr": [
-            "salut",
-            "hé"
-        ]
-    },
-    {
-        "en": [
-            "uh"
-        ],
-        "fr": [
-            "euh"
-        ]
-    },
-    {
-        "en": [
-            "God"
-        ],
-        "fr": [
-            "Dieu"
-        ]
-    },
-    {
-        "en": [
-            "right"
-        ],
-        "fr": [
-            "hein",
-            "n'est-ce pas"
-        ]
-    },
-    {
-        "en": [
-            "hi"
-        ],
-        "fr": [
-            "salut"
-        ]
-    },
-    {
-        "en": [
-            "hello"
-        ],
-        "fr": [
-            "bonjour"
-        ]
-    },
-    {
-        "en": [
-            "hmm"
-        ],
-        "fr": [
-            "heu",
-            "hum"
-        ]
-    },
-    {
-        "en": [
-            "huh"
-        ],
-        "fr": [
-            "hein",
-            "bof",
-            "quoi"
-        ]
-    },
-    {
-        "en": [
-            "wow"
-        ],
-        "fr": [
-            "waouh"
-        ]
-    },
-    {
-        "en": [
-            "thanks"
-        ],
-        "fr": [
-            "merci"
-        ]
-    },
-    {
-        "en": [
-            "ah"
-        ],
-        "fr": [
-            "ah",
-            "oh"
-        ]
-    },
-    {
-        "en": [
-            "whoa"
-        ],
-        "fr": [
-            "holà"
-        ]
-    },
-    {
-        "en": [
-            "aw"
-        ],
-        "fr": [
-            "oh !"
-        ]
-    },
-    {
-        "en": [
-            "bye"
-        ],
-        "fr": [
-            "au revoir",
-            "salut"
-        ]
-    },
-    {
-        "en": [
-            "sorry"
-        ],
-        "fr": [
-            "désolé"
-        ]
-    },
-    {
-        "en": [
-            "damn"
-        ],
-        "fr": [
-            "zut"
-        ]
-    },
-    {
-        "en": [
-            "eh"
-        ],
-        "fr": [
-            "hein"
-        ]
-    },
-    {
-        "en": [
-            "shh"
-        ],
-        "fr": [
-            "chut"
         ]
     },
     {

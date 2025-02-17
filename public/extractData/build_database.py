@@ -34,13 +34,8 @@ for i in range(len(data_html)):
     if ("<td>" in data_html[i] and "<td></td>" not in data_html[i]):
         # print(data_html[i])  # -test
 
-        # correction du bug pour le batch mm-humm
-        if ("mm-hmm" in data_html[i]):
-            batch_data.append("<td>****</td>")
-            batch_count += 2
-
         # correction du bug pour le batch many ou munch
-        elif ("many-ou-much" in data_html[i]):
+        if ("many-ou-much" in data_html[i]):
             batch_data.append("<td>many/much</td>")
             batch_count += 1
 
@@ -49,8 +44,25 @@ for i in range(len(data_html)):
             batch_data.append("<td>il</td>")
             batch_count += 1
 
+        # quelques ajouts apres test de l'applis mais je ne peux pas gerer tout les cas ou il manquerait des traductions pertinantes !
+        elif ("marrant" in data_html[i]):
+            batch_data.append("<td>marrant, drôle</td>")
+            batch_count += 1
+
+        elif ("entreprise" in data_html[i]):
+            batch_data.append("<td>entreprise, compagnie</td>")
+            batch_count += 1
+
+        elif ("recevoir" in data_html[i]):
+            batch_data.append("<td>recevoir, obtenir</td>")
+            batch_count += 1
+
+        elif ("cœur" in data_html[i]):
+            batch_data.append("<td>cœur, coeur</td>")
+            batch_count += 1
+
         # retirer les mots non valides
-        elif ("fuck" in data_html[i] or '<td>s</td>\n' == data_html[i] or '<td>to</td>\n' == data_html[i] or '<td>ha</td>\n' == data_html[i]):
+        elif ("fuck" in data_html[i] or '<td>s</td>\n' == data_html[i] or '<td>to</td>\n' == data_html[i]):
             # print(data_html[i])  # -test
             batch_data.append("<td>****</td>")
             batch_count += 1
